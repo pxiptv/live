@@ -1,10 +1,14 @@
-name: Run Python Script
+name: 频道检测更新
 
 on:
-#  push:
-#    branches:
-#      - main
+  schedule:
+    - cron: '0 0 1 * *'
   workflow_dispatch:
+    branches:
+      - main
+      
+permissions:
+  contents: write
 
 jobs:
   run_script:
@@ -18,6 +22,10 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.9
+        
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(TZ=':Asia/Shanghai' date '+%Y-%m-%d %T')"
 
     - name: Install dependencies
       run: |
@@ -26,5 +34,20 @@ jobs:
 
     - name: Run Python Script
       run: |
-          cd Tv_search
+          # cd Tv_search
           python search_Tv.py
+          
+    - name: Commit results
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        if [ -n "$(git status --porcelain)" ]; then
+        git add *.m3u *.txt
+        git commit -m "Automatic update"
+        git push
+        else
+          echo "No changes detected, skipping commit."
+        fi
+        
+env:
+  TZ: Asia/Shanghai
