@@ -45,6 +45,9 @@ import sys
 #     except requests.exceptions.RequestException as e:
 #         print(f"Error: 请求异常. Exception: {e}")
 #         return
+# 获取当前脚本所在目录
+# current_dir = os.path.dirname(os.path.abspath(__file__))
+
 def get_url(name):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
