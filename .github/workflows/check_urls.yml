@@ -33,7 +33,7 @@ jobs:
         pip install requests  # 安装requests库
         
     - name: 电视频道地址更新
-      run: python ${{ github.workspace }}/m3uChecker.py
+      run: python ${{ github.workspace }}/check_urls.py
         
     - name: Commit results
       run: |
