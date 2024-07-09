@@ -32,7 +32,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests  # 安装requests库
         
-    - name: Run blacklist update
+    - name: 电视频道在线检测
       run: python ${{ github.workspace }}/search_TV.py
         
     - name: Commit results
