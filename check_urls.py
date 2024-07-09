@@ -233,6 +233,27 @@ def convert_m3u_to_txt(m3u_content):
     # 将结果合并成一个字符串，以换行符分隔
     return '\n'.join(txt_lines)
 
+def process_url(url):
+    try:
+        # 打开URL并读取内容
+        with urllib.request.urlopen(url) as response:
+            # 以二进制方式读取数据
+            data = response.read()
+            # 将二进制数据解码为字符串
+            text = data.decode('utf-8')
+            if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
+                urls_all_lines.append(convert_m3u_to_txt(text))
+            elif get_url_file_extension(url)==".txt":
+                lines = text.split('\n')
+                for line in lines:
+                    if  "#genre#" not in line and "," in line and "://" in line:
+                        #channel_name=line.split(',')[0].strip()
+                        #channel_address=line.split(',')[1].strip()
+                        urls_all_lines.append(line.strip())
+    
+    except Exception as e:
+        print(f"处理URL时发生错误：{e}")
+        
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
