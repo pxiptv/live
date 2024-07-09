@@ -27,8 +27,14 @@ def read_txt(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         return f.readlines()
 
-# 追加录入
-def append_to_file(filename, line):
+# 追加录入 1
+def append_to_file(filename, lines):
+    with open(filename, 'a', encoding='utf-8') as f:
+        for line in lines:
+            f.write(line + '\n')  # 确保每行写入后有换行符
+            
+# 追加录入 2
+def append_to_blacklist(filename, line):
     with open(filename, 'a', encoding='utf-8') as f:
         f.write(line)
             
@@ -424,29 +430,29 @@ if __name__ == "__main__":
                             output_file.write(line)
                         else:
                             print(f'检测失败: {name},{url}')
-                            append_to_file('blacklist.txt', line)
+                            append_to_blacklist('blacklist.txt', line)
                 except requests.exceptions.Timeout:
                     # 如果超时，打印提示信息
                     print(f'超时错误: {name},{url}')
-                    append_to_file('blacklist.txt', line)
+                    append_to_blacklist('blacklist.txt', line)
                 except requests.exceptions.HTTPError as e:
                     # 如果HTTP请求返回了错误的状态码
                     print(f'HTTP错误: {name},{url}, 状态码: {e.response.status_code}')
-                    append_to_file('blacklist.txt', line)
+                    append_to_blacklist('blacklist.txt', line)
                 except requests.exceptions.TooManyRedirects:
                     # 如果重定向次数过多
                     print(f'重定向错误: {name},{url}')
-                    append_to_file('blacklist.txt', line)
+                    append_to_blacklist('blacklist.txt', line)
                 except (requests.exceptions.URLRequired,
                         requests.exceptions.MissingSchema,
                         requests.exceptions.InvalidSchema):
                     # 如果URL是必须的但未提供，或者URL的方案无效
                     print(f'URL错误: {name},{url}')
-                    append_to_file('blacklist.txt', line)
+                    append_to_blacklist('blacklist.txt', line)
                 except requests.exceptions.RequestException as e:
                     # 打印其他异常信息
                     print(f'其他错误: {name},{url}, Error: {e}')
-                    append_to_file('blacklist.txt', line)
+                    append_to_blacklist('blacklist.txt', line)
                 
     except IOError as e:
         print(f'无法写入文件 whitelist.txt: {e}')
