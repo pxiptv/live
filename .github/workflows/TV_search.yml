@@ -39,7 +39,7 @@ jobs:
         pip install requests  # 安装requests库
         
     - name: Run blacklist update
-      run: python ${{ github.workspace }}/TV_search.py
+      run: python ${{ github.workspace }}/search_TV.py
         
     - name: Commit results
       run: |
