@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 
 timestart = datetime.now()
 
-# 读取文件内容
+# 读取文件内容 1
 def read_txt_file(file_path):
     skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'ChiSheng9', 'epg.pw', 'p3p', '/udp/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
     required_strings = ['://']  # 定义需要包含的字符串数组['必需字符1', '必需字符2'] 
@@ -22,14 +22,15 @@ def read_txt_file(file_path):
         ]
     return lines
 
+# 读取文件内容 2
 def read_txt(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         return f.readlines()
 
-def append_to_file(filename, lines):
+# 追加录入
+def append_to_file(filename, line):
     with open(filename, 'a', encoding='utf-8') as f:
-        for line in lines:
-            f.write(line)
+        f.write(line)
             
 # 格式化频道名称
 def process_name_string(input_str):
@@ -235,21 +236,21 @@ def convert_m3u_to_txt(m3u_content):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
-        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
-        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
-        'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
-        'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
-        'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
-        'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',
-        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
-        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
-        'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
-        'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
-        'https://raw.githubusercontent.com/zjykfy/ykfy/main/all.m3u',
+        'https://raw.bgithub.xyz/YueChan/Live/main/IPTV.m3u',
+        'https://raw.bgithub.xyz/suxuang/myIPTV/main/ipv6.m3u',
+        'https://raw.bgithub.xyz/YanG-1989/m3u/main/Gather.m3u',
+        'https://raw.bgithub.xyz/iptv-org/iptv/master/streams/cn.m3u',
+        'https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        'https://raw.bgithub.xyz/alonezou/yn-iptv/main/reference/MyIPTV',
+        'https://raw.bgithub.xyz/qist/tvbox/master/tvlive.txt',
+        'https://raw.bgithub.xyz/leyan1987/iptv/main/iptvnew.txt',
+        'https://raw.bgithub.xyz/ssili126/tv/main/itvlist.txt',
+        'https://raw.bgithub.xyz/fenxp/iptv/main/live/ipv6.txt',
+        'https://raw.bgithub.xyz/yuanzl77/IPTV/main/live.txt',
+        'https://raw.bgithub.xyz/mlvjfchen/TV/main/iptv_list.txt',
+        'https://raw.bgithub.xyz/maitel2020/iptv-self-use/main/iptv.txt',
+        'https://raw.bgithub.xyz/zwc456baby/iptv_alive/master/live.txt',
+        'https://raw.bgithub.xyz/zjykfy/ykfy/main/all.m3u',
         'https://m3u.ibert.me/txt/fmml_ipv6.txt',
         'https://m3u.ibert.me/txt/fmml_dv6.txt',
         'https://m3u.ibert.me/txt/ycl_iptv.txt',
@@ -355,97 +356,89 @@ if __name__ == "__main__":
             append_to_file('live.txt', matching_lines)
 
     print("待检测文件 live.txt 已生成。")
-    
-    lines = read_txt_file('live.txt')
 
-# 定义超时时间
-timeout = 5
+    # 定义超时时间
+    timeout = 5
 
-# 追加录入
-def append_to_file(filename, line):
-    with open(filename, 'a', encoding='utf-8') as f:
-        f.write(line)
+    # 去重文件内容
+    def remove_duplicates(filename):
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            unique_lines = set(lines)  # 使用集合去重
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.writelines(unique_lines)
+        except IOError as e:
+            print(f'无法读取或写入文件{filename}: {e}')
 
-# 去重文件内容
-def remove_duplicates(filename):
+    # 读取live.txt文件
     try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-        unique_lines = set(lines)  # 使用集合去重
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.writelines(unique_lines)
+        with open('live.txt', 'r', encoding='utf-8') as file:
+            lines = file.readlines()
     except IOError as e:
-        print(f'无法读取或写入文件{filename}: {e}')
+        print(f'无法读取文件live.txt: {e}')
+        exit()
 
-# 读取live.txt文件
-try:
-    with open('live.txt', 'r', encoding='utf-8') as file:
-        lines = file.readlines()
-except IOError as e:
-    print(f'无法读取文件live.txt: {e}')
-    exit()
+    # 存储有响应的行到whitelist.txt，并记录无响应的行到blacklist.txt
+    try:
+        with open('whitelist.txt', 'w', encoding='utf-8') as output_file:
+            for line in lines:
+                # 找到","后的内容，即网址，并分割字符串为name和url
+                parts = line.split(',', 1)  # 限制分割一次
+                if len(parts) < 2:
+                    continue  # 如果没有找到","，跳过当前行
 
-# 存储有响应的行到whitelist.txt，并记录无响应的行到blacklist.txt
-try:
-    with open('whitelist.txt', 'w', encoding='utf-8') as output_file:
-        for line in lines:
-            # 找到","后的内容，即网址，并分割字符串为name和url
-            parts = line.split(',', 1)  # 限制分割一次
-            if len(parts) < 2:
-                continue  # 如果没有找到","，跳过当前行
+                name = parts[0].strip()  # 去除可能的空白字符
+                url = parts[1].strip()
 
-            name = parts[0].strip()  # 去除可能的空白字符
-            url = parts[1].strip()
-
-            try:
-                if "://" in url:
-                    # 发送HTTP请求前记录时间
-                    start_time = time.time()
-                    response = requests.get(url, timeout=timeout, stream=True)
-                    # 计算响应时间
-                    elapsed_time = (time.time() - start_time) * 1000
-                    # 如果响应状态码为200，即网站在线，则写入whitelist.txt
-                    if response.status_code == 200:
-                        print(f'检测正常: {name},{url}, 响应时间: {elapsed_time:.2f}ms')
-                        output_file.write(line)
-                    else:
-                        print(f'检测失败: {name},{url}')
-                        append_to_file('blacklist.txt', line)
-            except requests.exceptions.Timeout:
-                # 如果超时，打印提示信息
-                print(f'超时错误: {name},{url}')
-                append_to_file('blacklist.txt', line)
-            except requests.exceptions.HTTPError as e:
-                # 如果HTTP请求返回了错误的状态码
-                print(f'HTTP错误: {name},{url}, 状态码: {e.response.status_code}')
-                append_to_file('blacklist.txt', line)
-            except requests.exceptions.TooManyRedirects:
-                # 如果重定向次数过多
-                print(f'重定向错误: {name},{url}')
-                append_to_file('blacklist.txt', line)
-            except (requests.exceptions.URLRequired,
-                    requests.exceptions.MissingSchema,
-                    requests.exceptions.InvalidSchema):
-                # 如果URL是必须的但未提供，或者URL的方案无效
-                print(f'URL错误: {name},{url}')
-                append_to_file('blacklist.txt', line)
-            except requests.exceptions.RequestException as e:
-                # 打印其他异常信息
-                print(f'其他错误: {name},{url}, Error: {e}')
-                append_to_file('blacklist.txt', line)
+                try:
+                    if "://" in url:
+                        # 发送HTTP请求前记录时间
+                        start_time = time.time()
+                        response = requests.get(url, timeout=timeout, stream=True)
+                        # 计算响应时间
+                        elapsed_time = (time.time() - start_time) * 1000
+                        # 如果响应状态码为200，即网站在线，则写入whitelist.txt
+                        if response.status_code == 200:
+                            print(f'检测正常: {name},{url}, 响应时间: {elapsed_time:.2f}ms')
+                            output_file.write(line)
+                        else:
+                            print(f'检测失败: {name},{url}')
+                            append_to_file('blacklist.txt', line)
+                except requests.exceptions.Timeout:
+                    # 如果超时，打印提示信息
+                    print(f'超时错误: {name},{url}')
+                    append_to_file('blacklist.txt', line)
+                except requests.exceptions.HTTPError as e:
+                    # 如果HTTP请求返回了错误的状态码
+                    print(f'HTTP错误: {name},{url}, 状态码: {e.response.status_code}')
+                    append_to_file('blacklist.txt', line)
+                except requests.exceptions.TooManyRedirects:
+                    # 如果重定向次数过多
+                    print(f'重定向错误: {name},{url}')
+                    append_to_file('blacklist.txt', line)
+                except (requests.exceptions.URLRequired,
+                        requests.exceptions.MissingSchema,
+                        requests.exceptions.InvalidSchema):
+                    # 如果URL是必须的但未提供，或者URL的方案无效
+                    print(f'URL错误: {name},{url}')
+                    append_to_file('blacklist.txt', line)
+                except requests.exceptions.RequestException as e:
+                    # 打印其他异常信息
+                    print(f'其他错误: {name},{url}, Error: {e}')
+                    append_to_file('blacklist.txt', line)
                 
-except IOError as e:
-    print(f'无法写入文件 whitelist.txt: {e}')
-    exit()
+    except IOError as e:
+        print(f'无法写入文件 whitelist.txt: {e}')
+        exit()
 
-# 去重 blacklist.txt 文件内容
-remove_duplicates('blacklist.txt')
+    # 去重 blacklist.txt 文件内容
+    remove_duplicates('blacklist.txt')
 
-# 生成 iptv.txt 文件
-write_txt_file('iptv.txt', 'whitelist.txt')
+    # 生成 iptv.txt 文件
+    write_txt_file('iptv.txt', 'whitelist.txt')
 
-print("新增频道在线检测完毕，结果已存入 whitelist.txt 和 blacklist.txt。")
-
+    print("新增频道在线检测完毕，结果已存入 whitelist.txt 和 blacklist.txt。")
     print(f"iptv.txt 文件已生成。")
 
     # 清空 iptv.txt 文件后读取 channel.txt 文件
