@@ -1,0 +1,52 @@
+name: 电视频道地址更新
+# 分支 应替换为  branches
+on:
+  schedule:
+    - cron: '18 22 1 * *'
+  workflow_dispatch:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2  # 检出代码
+      
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(TZ=':Asia/Shanghai' date '+%Y-%m-%d %T')"
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'  # 设置Python版本
+      
+    - name: 安装运行环境
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests  # 安装requests库
+        
+    - name: 电视频道地址更新
+      run: python ${{ github.workspace }}/m3uChecker.py
+        
+    - name: Commit results
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        if [ -n "$(git status --porcelain)" ]; then
+        git add iptv.txt iptv.m3u blacklist.txt whitelist.txt live.txt tv.txt
+        # iptv.txt iptv.m3u blacklist.txt whitelist.txt tv.txt live.txt online.txt others.txt 
+        git commit -m "Automatic update"
+        git push
+        else
+          echo "No changes detected, skipping commit."
+        fi
+  
+env:
+  TZ: Asia/Shanghai
