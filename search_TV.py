@@ -80,6 +80,7 @@ try:
                     # 打印其他异常信息
                     print(f'其他错误: {name},{url}, Error: {e}')
                     append_to_file('blacklist.txt', line)
+                    
 except IOError as e:
     print(f'无法写入文件whitelist.txt: {e}')
     exit()
