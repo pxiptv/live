@@ -1,53 +1,58 @@
-name: 频道检测更新
-
+name: TV_search
+# 分支 应替换为  branches
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '18 22 1 * *'
   workflow_dispatch:
     branches:
       - main
-      
+
 permissions:
   contents: write
-
+  
 jobs:
   run_script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.9
-        
+    - name: Checkout repository
+      uses: actions/checkout@v4  # 检出代码
+      
     - name: GetTime
       id: date
       run: echo "::set-output name=date::$(TZ=':Asia/Shanghai' date '+%Y-%m-%d %T')"
 
-    - name: Install dependencies
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'  # 设置Python版本
+        
+    #- name: Install ffmpeg
+    #  run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+    #- name: Install dependencies
+    #  run: pip install -r requirements.txt
+      
+    - name: 安装运行环境
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt  
-
-    - name: Run Python Script
-      run: |
-          # cd Tv_search
-          python search_Tv.py
-          
+        pip install requests  # 安装requests库
+        
+    - name: Run blacklist update
+      run: python ${{ github.workspace }}/TV_search.py
+        
     - name: Commit results
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add .
         if [ -n "$(git status --porcelain)" ]; then
+        git add blacklist.txt whitelist.txt 
+        # iptv.m3u blacklist.txt whitelist.txt tv.txt live.txt online.txt others.txt 
         git commit -m "Automatic update"
         git push
         else
           echo "No changes detected, skipping commit."
         fi
-        
+  
 env:
   TZ: Asia/Shanghai
