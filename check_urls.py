@@ -257,21 +257,21 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.bgithub.xyz/YueChan/Live/main/IPTV.m3u',
-        'https://raw.bgithub.xyz/suxuang/myIPTV/main/ipv6.m3u',
-        'https://raw.bgithub.xyz/YanG-1989/m3u/main/Gather.m3u',
-        'https://raw.bgithub.xyz/iptv-org/iptv/master/streams/cn.m3u',
-        'https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'https://raw.bgithub.xyz/alonezou/yn-iptv/main/reference/MyIPTV',
-        'https://raw.bgithub.xyz/qist/tvbox/master/tvlive.txt',
-        'https://raw.bgithub.xyz/leyan1987/iptv/main/iptvnew.txt',
-        'https://raw.bgithub.xyz/ssili126/tv/main/itvlist.txt',
-        'https://raw.bgithub.xyz/fenxp/iptv/main/live/ipv6.txt',
-        'https://raw.bgithub.xyz/yuanzl77/IPTV/main/live.txt',
-        'https://raw.bgithub.xyz/mlvjfchen/TV/main/iptv_list.txt',
-        'https://raw.bgithub.xyz/maitel2020/iptv-self-use/main/iptv.txt',
-        'https://raw.bgithub.xyz/zwc456baby/iptv_alive/master/live.txt',
-        'https://raw.bgithub.xyz/zjykfy/ykfy/main/all.m3u',
+        'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
+        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
+        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
+        'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
+        'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
+        'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
+        'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',
+        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
+        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
+        'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
+        'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
+        'https://raw.githubusercontent.com/zjykfy/ykfy/main/all.m3u',
         'https://m3u.ibert.me/txt/fmml_ipv6.txt',
         'https://m3u.ibert.me/txt/fmml_dv6.txt',
         'https://m3u.ibert.me/txt/ycl_iptv.txt',
@@ -476,9 +476,9 @@ if __name__ == "__main__":
             matching_lines = [tv_line for tv_line in tv_lines if tv_line.split(",http")[0].strip() == channel_name]
             append_to_file('iptv.txt', matching_lines)
             
-    # 生成 iptv.m3u 文件 x-tvg-url="https://raw.bgithub.xyz/Troray/IPTV/main/tvxml.xml,https://raw.bgithub.xyz/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+    # 生成 iptv.m3u 文件 x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-    output_text = '#EXTM3U x-tvg-url="https://raw.bgithub.xyz/Troray/IPTV/main/tvxml.xml,https://raw.bgithub.xyz/Meroser/EPG-test/main/tvxml-test.xml.gz"\n'
+    output_text = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz"\n'
 
     with open("iptv.txt", "r", encoding='utf-8') as file:
         input_text = file.read()
