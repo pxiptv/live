@@ -27,6 +27,11 @@ def read_txt(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         return f.readlines()
 
+# 读取文件内容 3
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        return set(file.readlines())
+        
 # 追加录入 1
 def append_to_file(filename, lines):
     with open(filename, 'a', encoding='utf-8') as f:
@@ -181,11 +186,16 @@ def filter_and_save_channel_names(input_file):
         for line in processed_lines:
             out_file.write(line)
 
-# 写入文件内容
+# 写入文件内容 1
 def write_txt_file(file_path, lines):
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write('\n'.join(lines) + '\n')
-            
+
+# 写入文件内容 2
+def write_file(file_path, lines):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.writelines(lines)
+        
 # 写入文件
 def write_list(file_path, data_list):
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -328,9 +338,9 @@ if __name__ == "__main__":
     print("一个频道多个网址的行已处理并合并为 online.txt。")
 
     # 读取文件内容
-    online_lines = read_txt_file('online.txt')
-    blacklist_lines = read_txt_file('blacklist.txt')
-    iptv_lines = read_txt_file('iptv.txt')
+    online_lines = read_file('online.txt')
+    blacklist_lines = read_file('blacklist.txt')
+    iptv_lines = read_file('iptv.txt')
 
     # 计算差集
     unique_online_lines = online_lines - (blacklist_lines | iptv_lines)
