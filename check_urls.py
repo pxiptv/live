@@ -342,8 +342,11 @@ if __name__ == "__main__":
     blacklist_lines = read_file('blacklist.txt')
     iptv_lines = read_file('iptv.txt')
 
-    # 计算差集
-    unique_online_lines = online_lines - (blacklist_lines | iptv_lines)
+    # 计算 blacklist_lines 和 iptv_lines 的并集
+    combined_blacklist_iptv = blacklist_lines | iptv_lines
+
+    # 计算 online_lines 与 combined_blacklist_iptv 的差集
+    unique_online_lines = online_lines - combined_blacklist_iptv
 
     # 将差集写回到 online.txt
     write_file('online.txt', unique_online_lines)
