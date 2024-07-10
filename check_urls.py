@@ -380,7 +380,6 @@ if __name__ == "__main__":
     print("待检测文件 live.txt 已生成。")
 
     lines = read_txt_file('live.txt') # 测试
-    lines = [line.strip() for line in lines if line.strip()]
     write_txt_file('whitelist.txt',lines)
 
     # 清空 iptv.txt 文件后读取 channel.txt 文件
