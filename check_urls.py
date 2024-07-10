@@ -354,6 +354,7 @@ if __name__ == "__main__":
     lines=list(set(lines1 + lines2))
     lines = [line.strip() for line in lines if line.strip()]
     write_txt_file('tv.txt',lines)
+    remove_duplicates('tv.txt')
 
     # 清空 live.txt 文件后读取 channel.txt 文件
     open('live.txt', 'w').close()
