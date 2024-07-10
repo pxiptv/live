@@ -192,21 +192,6 @@ def write_list(file_path, data_list):
         for item in data_list:
             file.write(item + '\n')
 
-# 合并两个文件的内容并写入输出文件
-def merge_files(file1, file2, output_file):
-    lines1 = read_txt_file(file1)
-    lines2 = read_txt_file(file2)
-    
-# 定义了一个函数 get_comparison_set，用于从指定文件中提取 "," 后的部分并存入一个集合。
-def get_comparison_set(file_path):
-    comparison_set = set()
-    with open(file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-            parts = line.split(',')
-            if len(parts) > 1:
-                comparison_set.add(parts[1].strip())
-    return comparison_set
-
 # 将iptv.txt转换为iptv.m3u文件
 def convert_to_m3u(iptv_file, m3u_file):
     lines = read_txt(iptv_file)
@@ -342,39 +327,21 @@ if __name__ == "__main__":
 
     print("一个频道多个网址的行已处理并合并为 online.txt。")
 
-    online_file = read_txt_file('online.txt')
-    
-    input_file1 = 'iptv.txt'  # 输入文件路径
-    input_file2 = 'blacklist.txt'  # 输入文件路径2 
-    success_file = 'whitelist.txt'  # 成功清单文件路径
-    blacklist_file = 'blacklist.txt'  # 黑名单文件路径
+    # 读取文件内容
+    online_lines = read_txt_file('online.txt')
+    blacklist_lines = read_txt_file('blacklist.txt')
+    iptv_lines = read_txt_file('iptv.txt')
 
-    # 获取 iptv.txt 和 blacklist.txt 中的所有比对内容
-    iptv_set = get_comparison_set(input_file1)
-    blacklist_set = get_comparison_set(input_file2)
+    # 计算差集
+    unique_online_lines = online_lines - (blacklist_lines | iptv_lines)
 
-    # 合并并去重
-    merged_lines = iptv_set.union(blacklist_set)
-
-    filtered_lines = []
-
-    # 比对 online.txt 中的每一行
-    for line in online_file:
-        parts = line.split(',')
-        if len(parts) > 1:
-            comparison_part = parts[1].strip()
-            if comparison_part not in merged_lines:
-                #print(f"新获取网址: {comparison_part}")
-                filtered_lines.append(line)
-
-    # 将过滤后的内容重新写回 online.txt
-    with open('online.txt', 'w', encoding='utf-8') as file:
-        file.writelines(filtered_lines)
+    # 将差集写回到 online.txt
+    write_file('online.txt', unique_online_lines)
 
     # 读取输入文件内容
-    lines1 = read_txt_file(input_file1)
-    lines2 = read_txt_file(input_file2)
-    lines=list(set(filtered_lines + lines1))
+    lines1 = read_txt_file('online.txt')
+    lines2 = read_txt_file('iptv.txt')
+    lines=list(set(lines1 + lines2))
     lines = [line.strip() for line in lines if line.strip()]
     write_txt_file('tv.txt',lines)
 
