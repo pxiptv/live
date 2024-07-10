@@ -401,7 +401,8 @@ if __name__ == "__main__":
     remove_empty_lines('live.txt')
     print("待检测文件 live.txt 已生成。")
 
-    write_txt_file('whitelist.txt','live.txt')  # 测试
+    lines = read_txt_file('live.txt')
+    write_txt_file('whitelist.txt',lines)  # 测试
 
     # 去重 blacklist.txt 文件内容
     # remove_duplicates('blacklist.txt')
