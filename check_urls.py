@@ -378,7 +378,7 @@ if __name__ == "__main__":
     remove_empty_lines('live.txt')
     print("待检测文件 live.txt 已生成。")
 
-    lines = read_txt_file('iptv.txt') # 测试
+    lines = read_txt_file('live.txt') # 测试
     lines = [line.strip() for line in lines if line.strip()]
     write_txt_file('whitelist.txt',lines)
 
@@ -395,7 +395,8 @@ if __name__ == "__main__":
             channel_name = channel_line.split(",")[0].strip()
             matching_lines = [tv_line for tv_line in tv_lines if tv_line.split(",http")[0].strip() == channel_name]
             append_to_file('iptv.txt', matching_lines)
-            
+
+    remove_empty_lines('iptv.txt'）
     # 生成 iptv.m3u 文件 x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
     output_text = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz"\n'
