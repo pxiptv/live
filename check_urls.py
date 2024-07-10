@@ -37,6 +37,30 @@ def append_to_file(filename, lines):
 def append_to_blacklist(filename, line):
     with open(filename, 'a', encoding='utf-8') as f:
         f.write(line)
+
+# 删除空行
+def remove_empty_lines(filename):
+    # 读取文件内容
+    with open(filename, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    # 删除空行
+    non_empty_lines = [line for line in lines if line.strip()]
+
+    # 写回文件
+    with open(filename, 'w', encoding='utf-8') as file:
+        file.writelines(non_empty_lines)
+
+# 去重文件内容
+def remove_duplicates(filename):
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+        unique_lines = set(lines)  # 使用集合去重
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.writelines(unique_lines)
+    except IOError as e:
+        print(f'无法读取或写入文件{filename}: {e}')
             
 # 格式化频道名称
 def process_name_string(input_str):
@@ -381,21 +405,11 @@ if __name__ == "__main__":
                 print(f"没有找到匹配的频道: {channel_name}")
             append_to_file('live.txt', matching_lines)
 
+    remove_empty_lines('live.txt')
     print("待检测文件 live.txt 已生成。")
 
     # 定义超时时间
     timeout = 5
-
-    # 去重文件内容
-    def remove_duplicates(filename):
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-            unique_lines = set(lines)  # 使用集合去重
-            with open(filename, 'w', encoding='utf-8') as f:
-                f.writelines(unique_lines)
-        except IOError as e:
-            print(f'无法读取或写入文件{filename}: {e}')
 
     # 读取live.txt文件
     try:
@@ -405,7 +419,7 @@ if __name__ == "__main__":
         print(f'无法读取文件live.txt: {e}')
         exit()
 
-    # 存储有响应的行到whitelist.txt，并记录无响应的行到blacklist.txt
+    # 存储有响应的行到 whitelist.txt ，并记录无响应的行到 blacklist.txt
     try:
         with open('whitelist.txt', 'w', encoding='utf-8') as output_file:
             for line in lines:
@@ -461,15 +475,9 @@ if __name__ == "__main__":
     # 去重 blacklist.txt 文件内容
     remove_duplicates('blacklist.txt')
 
-    # 生成 iptv.txt 文件
-    write_txt_file('iptv.txt', 'whitelist.txt')
-
-    print("新增频道在线检测完毕，结果已存入 whitelist.txt 和 blacklist.txt。")
-    print(f"iptv.txt 文件已生成。")
-
     # 清空 iptv.txt 文件后读取 channel.txt 文件
     channel_lines = read_txt('channel.txt')
-    tv_lines = read_txt_file('iptv.txt')
+    tv_lines = read_txt_file('whitelist.txt')
     open('iptv.txt', 'w').close()
 
     # 处理 channel.txt 文件中的每一行
@@ -501,4 +509,5 @@ if __name__ == "__main__":
     with open("iptv.m3u", "w", encoding='utf-8') as file:
         file.write(output_text)
 
-    print(f"iptv.m3u 文件已生成。")
+    print("新增频道在线检测完毕，结果已存入 whitelist.txt 和 blacklist.txt。")
+    print(f"iptv.txt iptv.m3u 文件已生成。")
