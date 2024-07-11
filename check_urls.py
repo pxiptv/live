@@ -338,7 +338,7 @@ if __name__ == "__main__":
     print("一个频道多个网址的行已处理并合并为 online.txt。")
 
     # 读取文件内容
-    online_lines = read_file('online.txt')
+    online_lines = read_file('test.txt')
     blacklist_lines = read_file('blacklist.txt')
     iptv_lines = read_file('iptv.txt')
 
