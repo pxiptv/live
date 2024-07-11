@@ -2,100 +2,24 @@
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://180.143.82.217:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://103.95.24.37:880/fhws.m3u8$LR•IPV4『线路37』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://171.38.24.191:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://103.95.24.37:880/fhws.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://171.38.24.191:8181/tsfile/live/1014_1.m3u8
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$LR•IPV4『线路36』
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路31』
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$LR•IPV4『线路33』
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://103.95.24.37:880/fhws.m3u8$LR•IPV4『线路37』
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 https://live.yzd.jialiangos.com:4443/live/fhw/182
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://60.178.151.58:4022/rtp/233.50.200.191:5140$LR•IPV4『线路28』
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$LR•IPV4『线路36』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://e58d3b.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路31』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://171.108.239.79:8181/tsfile/live/1024_1.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-https://live.yzd.jialiangos.com:4443/live/fhw/183
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://113.64.147.19:8081/hls/36/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路36』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路44』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://60.178.151.58:4022/rtp/233.50.200.192:5140$LR•IPV4『线路31』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$LR•IPV4『线路41』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-https://z02.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$LR•IPV4『线路43』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://171.108.239.98:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路38』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$LR•IPV4『线路42』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$LR•IPV4『线路39』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://171.108.239.99:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路37』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://146.56.153.245:20121/bysid/257$LR•IPV4『线路45』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://103.95.24.37:880/fhzx.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/test2_4000.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1.m3u8$LR•IPV4『线路40』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://120.84.121.199:808/hls/28/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://223.71.206.22:30080/HK/fhxg/hls.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-https://live.yzd.jialiangos.com:4443/live/fhw/184
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://8.137.59.151:99/fhtv/fenghuang.php?id=3
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://120.79.160.134:8066/HK/fhxg/hls.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-https://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://histar-proxy.isus.cc/phtv-hk
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路12』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-https://histar.zapi.us.kg/?id=phtv-hk
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://154.9.228.245:741/smt.php?id=hkphoenix_twn
