@@ -338,7 +338,7 @@ if __name__ == "__main__":
     print("一个频道多个网址的行已处理并合并为 online.txt。")
 
     # 读取文件内容
-    online_lines = read_file('test.txt')
+    online_lines = read_file('online.txt')
     blacklist_lines = read_file('blacklist.txt')
     iptv_lines = read_file('iptv.txt')
 
@@ -383,6 +383,7 @@ if __name__ == "__main__":
 
     lines = read_txt_file('live.txt') # 测试
     write_txt_file('whitelist.txt',lines)
+    remove_empty_lines('whitelist.txt')
 
     # 清空 iptv.txt 文件后读取 channel.txt 文件
     channel_lines = read_txt('channel.txt')
