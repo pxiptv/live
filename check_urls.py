@@ -363,9 +363,6 @@ if __name__ == "__main__":
     channel_lines = read_txt('channel.txt')
     tv_lines = read_txt_file('tv.txt')
 
-    print(f"channel.txt 行数: {len(channel_lines)}")
-    print(f"tv.txt 行数: {len(tv_lines)}")
-
     # 处理 channel.txt 文件中的每一行
     for channel_line in channel_lines:
         if "#genre#" in channel_line:
@@ -378,8 +375,12 @@ if __name__ == "__main__":
                 print(f"没有找到匹配的频道: {channel_name}")
             append_to_file('live.txt', matching_lines)
 
+    live_lines = read_txt('live.txt')
     remove_empty_lines('live.txt')
     print("待检测文件 live.txt 已生成。")
+
+    print(f"channel.txt 行数: {len(channel_lines)}")
+    print(f"live.txt 行数: {len(live_lines)}")
 
     # 定义超时时间
     timeout = 5
