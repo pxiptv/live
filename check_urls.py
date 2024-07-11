@@ -383,7 +383,7 @@ if __name__ == "__main__":
     print(f"live.txt 行数: {len(live_lines)}")
 
     # 定义超时时间
-    timeout = 5
+    timeout = 3
 
     # 读取live.txt文件
     try:
