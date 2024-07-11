@@ -355,7 +355,6 @@ if __name__ == "__main__":
     lines1 = read_txt_file('online.txt')
     lines2 = read_txt_file('iptv.txt')
     lines=list(set(lines1 + lines2))
-    lines = [line.strip() for line in lines if line.strip()]
     write_txt_file('tv.txt',lines)
     remove_duplicates('tv.txt')
 
