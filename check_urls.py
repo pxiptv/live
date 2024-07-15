@@ -309,7 +309,7 @@ if __name__ == "__main__":
         'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
     ]
     for url in urls:
-        print(f"处理URL: {url}")
+        print(f"提取电视频道网址: {url}")
         process_url(url)   #读取上面url清单中直播源存入urls_all_lines
 
     # 写入 online.txt 文件
