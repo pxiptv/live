@@ -145,10 +145,6 @@ def process_part(part_str):
     part_str = part_str.replace(" (240p)", "")  # 替换 240p
     part_str = part_str.replace(" (180p)", "")  # 替换 180p
     part_str = part_str.replace("  [Geo-blocked]", "")  # 替换[Geo-blocked]
-    
-    # 删除 "?key=txiptv" 及其之后的字符
-    part_str = part_str.split('?key=txiptv')[0] + '\n'
-    part_str = part_str.split('$LR•')[0] + '\n'
 
     if "CCTV" in part_str and "://" not in part_str:
         part_str = part_str.replace("PLUS", "+")  # 替换 PLUS
@@ -308,6 +304,9 @@ if __name__ == "__main__":
     ]
     for url in urls:
         print(f"提取电视频道网址: {url}")
+        # 删除 "?key=txiptv" 及其之后的字符
+        url = url.split('?key=txiptv')[0] + '\n'
+        url = url.split('$LR•')[0] + '\n'
         process_url(url)   #读取上面url清单中直播源存入urls_all_lines
 
     # 写入 online.txt 文件
