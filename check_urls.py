@@ -149,7 +149,8 @@ def process_part(part_str):
     part_str = part_str.replace("  [Geo-blocked]", "")  # 替换[Geo-blocked]
     
     # 删除 "?key=txiptv" 及其之后的字符
-    part_str = part_str.split('?key=txiptv')[0]
+    part_str = part_str.split('?key=txiptv')[0] + '\n'
+    part_str = part_str.split('$LR•')[0] + '\n'
 
     if "CCTV" in part_str and "://" not in part_str:
         part_str = part_str.replace("PLUS", "+")  # 替换 PLUS
