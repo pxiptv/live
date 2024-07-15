@@ -305,12 +305,13 @@ if __name__ == "__main__":
     for url in urls:
         print(f"提取电视频道网址: {url}")
         # 删除 "?key=txiptv" 及其之后的字符
-        url = url.split('?key=txiptv')[0] + '\n'
+        url = url.split('?key=txiptv')[0] + '\n'  
         url = url.split('$LR•')[0] + '\n'
         process_url(url)   #读取上面url清单中直播源存入urls_all_lines
 
     # 写入 online.txt 文件
     write_txt_file('online.txt',urls_all_lines)
+    write_txt_file('cs1.txt',urls_all_lines)
     filter_and_save_channel_names('online.txt')
     lines = read_txt_file('online.txt')
     write_txt_file('cs.txt',lines)
