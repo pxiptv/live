@@ -314,11 +314,8 @@ if __name__ == "__main__":
 
     # 写入 online.txt 文件
     write_txt_file('online.txt',urls_all_lines)
-    online_file = read_txt_file('online.txt')
-    filter_and_save_channel_names(online_file)
-
-    with open('online.txt', 'r') as file:
-        lines = file.readlines()
+    filter_and_save_channel_names('online.txt')
+    lines = read_txt_file('online.txt')
 
     with open('others.txt', 'w') as others_file, open('online_temp.txt', 'w') as online_file:
         for line in lines:
