@@ -77,6 +77,8 @@ def process_name_string(input_str):
     result_str = ','.join(processed_parts)
     return result_str
 
+import re
+
 def process_part(part_str):
     # 处理逻辑
     part_str = part_str.replace("「IPV6」", "")  # 剔除 「IPV6」
@@ -146,6 +148,9 @@ def process_part(part_str):
     part_str = part_str.replace(" (180p)", "")  # 替换 180p
     part_str = part_str.replace("  [Geo-blocked]", "")  # 替换[Geo-blocked]
     
+    # 删除 "?key=txiptv" 及其之后的字符
+    part_str = part_str.split('?key=txiptv')[0]
+
     if "CCTV" in part_str and "://" not in part_str:
         part_str = part_str.replace("PLUS", "+")  # 替换 PLUS
         part_str = part_str.replace("1080", "")  # 替换 1080
