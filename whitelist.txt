@@ -537,7 +537,6 @@ BRTV国际频道,http://114.246.183.121:4022/rtp/239.3.1.235:8000
 金庸武侠,http://live.iill.top/huya.php?id=11342435
 功夫电影,http://live.iill.top/huya.php?id=11352941
 贺岁电影,http://live.iill.top/huya.php?id=11601986
-1905电影,http://44966c.netsite.cc/proxy/1747360543/1747360543.m3u8
 延禧攻略,http://live.iill.top/huya.php?id=26355864
 新三国,https://www.goodiptv.club/huya/11352944
 新水浒传,https://www.goodiptv.club/huya/11342384
