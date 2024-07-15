@@ -316,8 +316,6 @@ if __name__ == "__main__":
     remove_empty_lines('online.txt')
     remove_duplicates('online.txt')
     lines = read_txt_file('online.txt')
-    write_txt_file('cs.txt',lines)
-    remove_empty_lines('cs.txt')
 
     with open('others.txt', 'w') as others_file, open('online_temp.txt', 'w') as online_file:
         for line in lines:
@@ -408,6 +406,7 @@ if __name__ == "__main__":
 
     # 删除空行
     remove_empty_lines('iptv.txt')
+    
     # 生成 iptv.m3u 文件 x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
     output_text = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz"\n'
