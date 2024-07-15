@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 from datetime import datetime
 import os
-import re #正则
+import re
 import requests
 from urllib.parse import urlparse
 
@@ -76,8 +76,6 @@ def process_name_string(input_str):
         processed_parts.append(processed_part)
     result_str = ','.join(processed_parts)
     return result_str
-
-import re
 
 def process_part(part_str):
     # 处理逻辑
@@ -316,6 +314,7 @@ if __name__ == "__main__":
     write_txt_file('online.txt',urls_all_lines)
     filter_and_save_channel_names('online.txt')
     lines = read_txt_file('online.txt')
+    write_txt_file('cs.txt',lines)
 
     with open('others.txt', 'w') as others_file, open('online_temp.txt', 'w') as online_file:
         for line in lines:
