@@ -385,7 +385,7 @@ if __name__ == "__main__":
     print(f"channel.txt 行数: {len(channel_lines)}")
     print(f"live.txt 行数: {len(live_lines)}")
 
-    write_txt_file('whitelist.txt',live_lines)  # 测试
+    write_txt_file('whitelist.txt',urls_all_lines)  # 测试
 
     # 去重 blacklist.txt 文件内容
     remove_duplicates('blacklist.txt')
