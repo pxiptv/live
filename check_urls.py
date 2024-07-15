@@ -215,8 +215,6 @@ def convert_to_m3u(iptv_file, m3u_file):
                 
 # 增加外部url到检测清单，同时支持检测m3u格式url
 # urls里所有的源都读到这里。
-urls_all_lines = []
-
 def get_url_file_extension(url):
     # 解析URL
     parsed_url = urlparse(url)
@@ -259,19 +257,22 @@ def process_url(url):
             data = response.read()
             # 将二进制数据解码为字符串
             text = data.decode('utf-8')
-            if get_url_file_extension(url)==".m3u" or get_url_file_extension(url)==".m3u8":
+            if get_url_file_extension(url) == ".m3u" or get_url_file_extension(url) == ".m3u8":
                 urls_all_lines.append(convert_m3u_to_txt(text))
-            elif get_url_file_extension(url)==".txt":
+            elif get_url_file_extension(url) == ".txt":
                 lines = text.split('\n')
                 for line in lines:
-                    if  "#genre#" not in line and "," in line and "://" in line:
-                        #channel_name=line.split(',')[0].strip()
-                        #channel_address=line.split(',')[1].strip()
+                    if "#genre#" not in line and "," in line and "://" in line:
+                        # 检查并处理 "?key=txiptv" 和 "$LR•"
+                        if "?key=txiptv" in line:
+                            line = line.split('?key=txiptv')[0]
+                        if "$LR•" in line:
+                            line = line.split('$LR•')[0]
                         urls_all_lines.append(line.strip())
     
     except Exception as e:
         print(f"处理URL时发生错误：{e}")
-        
+
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
@@ -302,12 +303,12 @@ if __name__ == "__main__":
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
         'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
     ]
+
+    urls_all_lines = []
+
     for url in urls:
         print(f"提取电视频道网址: {url}")
-        # 删除 "?key=txiptv" 及其之后的字符
-        url = url.split('?key=txiptv')[0] + '\n'  
-        url = url.split('$LR•')[0] + '\n'
-        process_url(url)   #读取上面url清单中直播源存入urls_all_lines
+        process_url(url)   # 读取上面url清单中直播源存入urls_all_lines
 
     # 写入 online.txt 文件
     write_txt_file('online.txt',urls_all_lines)
