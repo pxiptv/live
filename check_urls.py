@@ -312,12 +312,12 @@ if __name__ == "__main__":
 
     # 写入 online.txt 文件
     write_txt_file('online.txt',urls_all_lines)
-    write_txt_file('cs1.txt',urls_all_lines)
     filter_and_save_channel_names('online.txt')
     remove_empty_lines('online.txt')
     remove_duplicates('online.txt')
     lines = read_txt_file('online.txt')
     write_txt_file('cs.txt',lines)
+    remove_empty_lines('cs.txt')
 
     with open('others.txt', 'w') as others_file, open('online_temp.txt', 'w') as online_file:
         for line in lines:
