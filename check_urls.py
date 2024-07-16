@@ -112,6 +112,7 @@ def process_part(part_str):
     part_str = part_str.replace("湖南｜", "")  # 替换
     part_str = part_str.replace("翡翠,http", "翡翠台,http")  # 替换
     part_str = part_str.replace("明珠,http", "明珠台,http")  # 替换
+    part_str = part_str.replace("频道,http", ",http")  # 替换
     part_str = part_str.replace("資訊", "资讯")  # 替换
     part_str = part_str.replace("紀實", "纪实")  # 替换
     part_str = part_str.replace(" HD", "")  # 剔除 HD
