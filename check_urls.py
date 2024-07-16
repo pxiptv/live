@@ -358,27 +358,26 @@ if __name__ == "__main__":
     # 将差集写回到 online.txt
     write_file('online.txt', unique_online_lines)
 
-    # 读取 online.txt 文件内容
+    # 定义需要保留的IP地址列表
+    ips = [
+        "60.223.72.118", "222.130.146.175", "218.241.192.50",
+        "114.254.85.192", "124.64.11.135", "124.112.203.209",
+        "118.248.218.7", "111.160.17.2", "58.48.37.158",
+        "119.39.97.2", "219.159.147.195", "116.162.6.191",
+        "58.248.112.205", "120.87.97.246", "27.40.16.70",
+        "jxcbn.ws-cdn.gitv.tv"
+    ]
+
+    # 读取文件并筛选内容
     with open('online.txt', 'r', encoding='utf-8') as file:
         lines = file.readlines()
 
-    # 定义需要排除的 IP 地址
-    exclude_ips = {
-        "60.223.72.118", "222.130.146.175", "218.241.192.50", "114.254.85.192", 
-        "124.64.11.135", "124.112.203.209", "118.248.218.7", "111.160.17.2", 
-        "58.48.37.158", "119.39.97.2", "219.159.147.195", "116.162.6.191", 
-        "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv"
-    }
-
-    # 过滤条件，包含 "CCTV" 或 "卫视" 且不包含在排除列表中的行
-    filtered_lines = [
-        line for line in lines 
-        if ("CCTV" in line or "卫视" in line) and all(ip not in line for ip in exclude_ips)
-    ]
-
-    # 将过滤后的内容重新保存到 online.txt 文件
+    # 创建一个新文件，用于保存筛选后的内容
     with open('online.txt', 'w', encoding='utf-8') as file:
-        file.writelines(filtered_lines)
+        for line in lines:
+            # 检查当前行是否包含 "CCTV" 或 "卫视" 并且包含至少一个指定的IP地址
+            if ('CCTV' in line or '卫视' in line) and any(ip in line for ip in ips):
+                file.write(line)
 
     # 读取输入文件内容
     lines1 = read_txt_file('online.txt')
