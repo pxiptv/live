@@ -378,6 +378,8 @@ if __name__ == "__main__":
             # 检查当前行是否包含 "CCTV" 或 "卫视" 并且包含至少一个指定的IP地址
             if ('CCTV' in line or '卫视' in line) and any(ip in line for ip in ips):
                 file.write(line)
+            elif 'CCTV' not in line and '卫视' not in line:
+                file.write(line)
 
     # 读取输入文件内容
     lines1 = read_txt_file('online.txt')
