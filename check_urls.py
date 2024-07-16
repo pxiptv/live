@@ -132,6 +132,7 @@ def process_part(part_str):
     part_str = part_str.replace("咪咕视频", "咪咕体育")  # 替换 咪咕视频
     part_str = part_str.replace("咪咕体育-", "咪咕体育")  # 替换 咪咕体育
     part_str = part_str.replace("咪咕体育_", "咪咕体育")  # 替换 咪咕体育
+    part_str = part_str.replace("咪咕体育 ", "咪咕体育")  # 替换 咪咕体育
     part_str = part_str.replace("•", "")  # 先剔除 •  
     part_str = part_str.replace("_4M1080HEVC", "")  # 剔除
     part_str = part_str.replace("_2.5M1080HEVC", "")  # 剔除
