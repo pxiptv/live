@@ -1,73 +1,98 @@
 🇨🇳央视频道🇨🇳,#genre#
-CCTV1,http://124.228.160.197:9901/tsfile/live/0017_1.m3u8
-CCTV1,http://121.24.99.109:8090/hls/9/index.m3u8
 CCTV1,http://222.130.146.175:8888/rtp/239.3.1.129:8008
-CCTV1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
-CCTV1,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws
 CCTV1,http://118.248.218.7:8088/tsfile/live/0001_1.m3u8
-CCTV1,http://183.3.134.56:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-CCTV1,http://110.7.130.46:8096/tsfile/live/0001_1.m3u8
-CCTV1,http://118.122.2.29:9999/hls/1/index.m3u8
-CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8
-CCTV1,http://58.53.152.234:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://123.163.55.234:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://123.189.36.4:9901/tsfile/live/1156_1.m3u8
 CCTV1,http://60.223.72.118:8005/rtp/226.0.2.153:9136
-CCTV1,http://webmail.axxe.top:4022/rtp/239.3.1.129:8008
-CCTV1,http://36.248.137.69:60033/tsfile/live/0001_1.m3u8
-CCTV1,http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
-CCTV1,http://123.112.208.22:4022/rtp/239.3.1.129:8008
-CCTV1,http://220.164.192.48:50085/tsfile/live/0002_1.m3u8
-CCTV1,http://124.165.251.82:9999/tsfile/live/0001_1.m3u8
 CCTV1,http://60.223.72.118:8003/rtp/226.0.2.153:9136
-CCTV1,http://58.57.21.166:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://171.108.239.99:8181/tsfile/live/1027_1.m3u8
-CCTV1,http://60.223.72.118:8003/rtp/226.0.2.16:8040
-CCTV1,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
 CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
-CCTV1,http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
-CCTV1,http://171.116.59.153:9999/tsfile/live/0001_1.m3u8
+CCTV1,http://61.52.158.169:808/hls/1/index.m3u8
+CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
-CCTV1,http://171.108.239.98:8181/tsfile/live/1027_1.m3u8
-CCTV1,http://171.8.247.154:808/hls/1/index.m3u8
-CCTV1,http://171.116.56.95:9999/tsfile/live/0001_1.m3u8
-CCTV1,http://hikvision.city:880/CCTV-1.m3u8
-CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV1,http://114.254.85.192:2222/rtp/239.3.1.129:8008
-CCTV1,http://www.zzlag.top:9087/tsfile/live/1010_1.m3u8
-CCTV1,http://60.223.72.118:8005/rtp/226.0.2.16:8040
-CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://111.14.181.15:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://58.48.37.158:1111/tsfile/live/0001_1.m3u8
-CCTV1,http://14.212.185.27:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://121.19.134.225:808/tsfile/live/0001_1.m3u8
 CCTV1,http://124.64.11.135:8888/rtp/239.3.1.129:8008
-CCTV1,http://110.80.17.38:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8
-CCTV1,http://114.254.185.206:9999/rtp/239.3.1.129:8008
 CCTV1,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8
 CCTV1,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
 CCTV1,http://119.39.97.2:9002/tsfile/live/0001_1.m3u8
-CCTV1,http://123.189.36.39:9901/tsfile/live/1156_1.m3u8
-CCTV1,http://125.82.168.238:8888/rtp/235.254.198.51:1480
-CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV1,http://120.87.97.246:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVJJZNDYjNTYW0xrj2atp5krmovGfhet3wgtKVBhIbxM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141158688&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e96acf29ccb8a&FvSeid=88fe5578aee15bbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4298&Fsv_chan_hls_se_idx=60&Fsv_TBt=8468056&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
+CCTV1,http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
 CCTV1,http://124.112.203.209:18888/rtp/238.1.78.166:7200
+CCTV1,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws
 CCTV1,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=3f76fa247855b9f1507e08620e857dda1b4424839963e7074fc1ee72310d6023_1720504514_604800&fromCDN=ws
-CCTV1,http://171.120.5.40:9999/tsfile/live/0001_1.m3u8
-CCTV1,http://61.52.158.169:808/hls/1/index.m3u8
-CCTV1,http://123.138.216.44:9902/tsfile/live/0001_1.m3u8
-CCTV1,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
-CCTV1,http://114.252.229.26:9876/rtp/239.3.1.129:8008
-CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
-CCTV1,http://171.118.222.151:9999/tsfile/live/0001_1.m3u8
-CCTV1,http://121.24.99.42:8090/hls/9/index.m3u8
-CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8
-CCTV1,http://6ca2e0.tv.netsite.cc/proxy/1964731068/1964731068.m3u8
-CCTV1,http://171.108.239.79:8181/tsfile/live/1027_1.m3u8
-CCTV1,http://36.40.236.38:9999/tsfile/live/0001_1.m3u8
-CCTV1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8
+CCTV2,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=3c65cf8c046f4fa02293a900a4fb002a1581aa92702ef56b1b4b66d7c9d5dcd3_1720507803_604800&fromCDN=ws
+CCTV3,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=5c5d27dfa6b308e64237c7af856d43276f42c5fa0da49c14c8f267c3f853f277_1720507841_604800&fromCDN=ws
+CCTV3,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=f62fb091a195ebe647b1222ede2e69841a9077e00d7164564988bff3361446f2_1720504551_604800&fromCDN=ws
+CCTV4,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=a2076a91d4ab3e3a8d96df561854b17563ddc027aec6e893eac3be4e11830fb7_1720507863_604800&fromCDN=ws
+CCTV4,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=d26bda0b501044353fe102fbe85cb45a6dfdaca26f4a7522f2b693761325ad82_1720504557_604800&fromCDN=ws
+CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=aa173201e6b845bbee67f1b26f1a348b9e154cf79c6d52eef85063a55d21c61b_1720504563_604800&fromCDN=ws
+CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
+CCTV6,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV6_HD/index.m3u8?gMac=unknown&livodToken=86f8139ff3260e367086c8b1e4760a54b14301be0d4152d8f47fe1940086b3ae_1720507946_604800&fromCDN=ws
+CCTV8,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=a262d6f91c91f1b3b9970ca0005377026a37645dbb4150a3131badc4e3a5ad2f_1720508010_604800&fromCDN=ws
+CCTV8,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=5054faa27b50dbbb99bd1082115e5860f6edb52038a9e0f954d26199625c8810_1720504606_604800&fromCDN=ws
+CCTV9,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=827790a3c97b2ec4d8db29f865f4a76f6ee666e7dd6f7d8d79c95ff19569c406_1720508034_604800&fromCDN=ws
+CCTV9,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=7962fd0fc672036d700e4e49a432622a74e060a23f1b55b1cc1e2ee7ee13b4a9_1720504614_604800&fromCDN=ws
+CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=3372eeac7f52075d36d0edd66eab703b95c8eb3ddf8502186f235a1d890717d9_1720508080_604800&fromCDN=ws
+CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=fabd3816e5335ddba8d1d88c9536a13c2675337479957dee07e669564a88f4e7_1720504638_604800&fromCDN=ws
+CCTV11,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=0034ae2fe24df5a14eb68b5de40ac5b36ab49542913cb5b015ae64ff49312f97_1720504669_604800&fromCDN=ws
+CCTV11,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=b7b4308467a66538e5a370fdfe90b3be8c54fa72c5cb958e5f43f4f56e036d2e_1720508128_604800&fromCDN=ws
+CCTV12,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=580c20b986086596a03afb85524d28a7b1255fd045cc29e549830abd92eab828_1720508158_604800&fromCDN=ws
+CCTV12,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=2c98acaa80392eb7cfc5167a9a71482882518255259852ee6387715d5104fd23_1720504686_604800&fromCDN=ws
+CCTV13,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=f4be577234c226bfecf00f96b626bcca106a9d4eaeeaae331b860678bd3f60e7_1720508191_604800&fromCDN=ws
+CCTV13,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=7ff060443836507a41a5214026042c9626a11fbff401291700ce35d59c3e6293_1720504703_604800&fromCDN=ws
+CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=c1f72c79ee7857898e80e822b3768418b14d710294fb16dc503997f9bce0adda_1720508238_604800&fromCDN=ws
+CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0d96180497a13efbadc909954e682aae4e63affa0ef1823b5c6dc5a73b461db4_1720504729_604800&fromCDN=ws
+CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=b714fc4aa91983a115cdc86176cd98542fc7be2916c39a626ef88fe721f90859_1720504745_604800&fromCDN=ws
+CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws
+ CCTV1,http://124.228.160.197:9901/tsfile/live/0017_1.m3u8
+ CCTV1,http://121.24.99.109:8090/hls/9/index.m3u8
+ CCTV1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+ CCTV1,http://183.3.134.56:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+ CCTV1,http://110.7.130.46:8096/tsfile/live/0001_1.m3u8
+ CCTV1,http://118.122.2.29:9999/hls/1/index.m3u8
+ CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8
+ CCTV1,http://58.53.152.234:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://123.163.55.234:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://123.189.36.4:9901/tsfile/live/1156_1.m3u8
+ CCTV1,http://webmail.axxe.top:4022/rtp/239.3.1.129:8008
+ CCTV1,http://36.248.137.69:60033/tsfile/live/0001_1.m3u8
+ CCTV1,http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+ CCTV1,http://123.112.208.22:4022/rtp/239.3.1.129:8008
+ CCTV1,http://220.164.192.48:50085/tsfile/live/0002_1.m3u8
+ CCTV1,http://124.165.251.82:9999/tsfile/live/0001_1.m3u8
+ CCTV1,http://58.57.21.166:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://171.108.239.99:8181/tsfile/live/1027_1.m3u8
+  CCTV1,http://60.223.72.118:8003/rtp/226.0.2.16:8040
+ CCTV1,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
+ CCTV1,http://171.116.59.153:9999/tsfile/live/0001_1.m3u8
+ CCTV1,http://171.108.239.98:8181/tsfile/live/1027_1.m3u8
+ CCTV1,http://171.8.247.154:808/hls/1/index.m3u8
+ CCTV1,http://171.116.56.95:9999/tsfile/live/0001_1.m3u8
+ CCTV1,http://hikvision.city:880/CCTV-1.m3u8
+ CCTV1,http://www.zzlag.top:9087/tsfile/live/1010_1.m3u8
+ CCTV1,http://60.223.72.118:8005/rtp/226.0.2.16:8040
+ CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://111.14.181.15:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://14.212.185.27:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://121.19.134.225:808/tsfile/live/0001_1.m3u8
+ CCTV1,http://110.80.17.38:9901/tsfile/live/0001_1.m3u8
+ CCTV1,http://114.254.185.206:9999/rtp/239.3.1.129:8008
+ CCTV1,http://123.189.36.39:9901/tsfile/live/1156_1.m3u8
+ CCTV1,http://125.82.168.238:8888/rtp/235.254.198.51:1480
+ CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
+ CCTV1,http://171.120.5.40:9999/tsfile/live/0001_1.m3u8
+ CCTV1,http://123.138.216.44:9902/tsfile/live/0001_1.m3u8
+ CCTV1,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
+ CCTV1,http://114.252.229.26:9876/rtp/239.3.1.129:8008
+ CCTV1,http://171.118.222.151:9999/tsfile/live/0001_1.m3u8
+ CCTV1,http://121.24.99.42:8090/hls/9/index.m3u8
+ CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8
+ CCTV1,http://6ca2e0.tv.netsite.cc/proxy/1964731068/1964731068.m3u8
+ CCTV1,http://171.108.239.79:8181/tsfile/live/1027_1.m3u8
+ CCTV1,http://36.40.236.38:9999/tsfile/live/0001_1.m3u8
+ CCTV1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8
+ CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
+
 CCTV2,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
 CCTV2,http://171.116.56.95:9999/tsfile/live/0002_1.m3u8
 CCTV2,http://124.228.160.197:9901/tsfile/live/0018_1.m3u8
@@ -81,7 +106,6 @@ CCTV2,http://webmail.axxe.top:4022/rtp/239.3.1.60:8084
 CCTV2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 CCTV2,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
 CCTV2,http://113.110.72.52:8090/hls/114/index.m3u8
-CCTV2,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=3c65cf8c046f4fa02293a900a4fb002a1581aa92702ef56b1b4b66d7c9d5dcd3_1720507803_604800&fromCDN=ws
 CCTV2,http://61.136.67.238:50085/tsfile/live/0002_1.m3u8
 CCTV2,http://14.212.185.27:9901/tsfile/live/0002_1.m3u8
 CCTV2,http://114.252.229.26:9876/rtp/239.3.1.60:8084
@@ -174,7 +198,6 @@ CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?
 CCTV3,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
 CCTV3,http://171.108.239.99:8181/tsfile/live/1029_1.m3u8
 CCTV3,http://171.8.245.118:808/hls/3/index.m3u8
-CCTV3,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=5c5d27dfa6b308e64237c7af856d43276f42c5fa0da49c14c8f267c3f853f277_1720507841_604800&fromCDN=ws
 CCTV3,http://sweetown.fun:4000/rtp/239.3.1.172:8001
 CCTV3,http://220.164.192.48:50085/tsfile/live/0004_1.m3u8
 CCTV3,http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
@@ -185,7 +208,6 @@ CCTV3,http://hikvision.city:880/cctv3.m3u8
 CCTV3,http://118.122.2.29:9999/hls/3/index.m3u8
 CCTV3,http://61.136.67.238:50085/tsfile/live/0003_1.m3u8
 CCTV3,http://114.252.229.26:9876/rtp/239.3.1.172:8001
-CCTV3,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=f62fb091a195ebe647b1222ede2e69841a9077e00d7164564988bff3361446f2_1720504551_604800&fromCDN=ws
 CCTV3,http://123.189.36.4:9901/tsfile/live/1002_1.m3u8
 CCTV3,http://171.118.222.151:9999/tsfile/live/0003_1.m3u8
 CCTV3,http://123.138.216.44:9902/tsfile/live/0003_1.m3u8
@@ -206,7 +228,6 @@ CCTV4,http://webmail.axxe.top:4022/rtp/239.3.1.105:8092
 CCTV4,http://123.112.208.22:4022/rtp/239.3.1.105:8092
 CCTV4,http://124.64.11.135:8888/rtp/239.3.1.214:4220
 CCTV4,http://218.241.192.50:8808/rtp/239.3.1.105:8092
-CCTV4,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=a2076a91d4ab3e3a8d96df561854b17563ddc027aec6e893eac3be4e11830fb7_1720507863_604800&fromCDN=ws
 CCTV4,http://60.223.72.118:8005/rtp/226.0.2.156:9160
 CCTV4,http://59.48.75.130:3052/tsfile/live/0004_1.m3u8
 CCTV4,http://124.112.203.209:18888/rtp/238.1.78.236:7760
@@ -243,7 +264,6 @@ CCTV4,http://110.80.17.38:9901/tsfile/live/0004_1.m3u8
 CCTV4,http://114.252.229.26:9876/rtp/239.3.1.214:4220
 CCTV4,http://171.116.59.153:9999/tsfile/live/0004_1.m3u8
 CCTV4,http://hikvision.city:880/CCTV-4.m3u8
-CCTV4,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=d26bda0b501044353fe102fbe85cb45a6dfdaca26f4a7522f2b693761325ad82_1720504557_604800&fromCDN=ws
 CCTV4,http://114.252.229.26:9876/rtp/239.3.1.105:8092
 CCTV4,http://222.130.146.175:8888/rtp/239.3.1.213:4220
 CCTV4,http://119.39.97.2:9002/tsfile/live/0004_1.m3u8
@@ -309,7 +329,6 @@ CCTV5,http://60.223.72.118:8003/rtp/226.0.2.209:9584
 CCTV5,http://218.241.192.50:8808/rtp/239.3.1.173:8001
 CCTV5,http://1b6467f415.iok.la:9931/tsfile/live/1024_1.m3u8
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
-CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=aa173201e6b845bbee67f1b26f1a348b9e154cf79c6d52eef85063a55d21c61b_1720504563_604800&fromCDN=ws
 CCTV5,http://110.80.17.38:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://171.108.239.79:8181/tsfile/live/1044_1.m3u8
 CCTV5,http://60.223.72.118:8005/rtp/226.0.2.209:9584
@@ -329,7 +348,6 @@ CCTV5,http://ik6.iptv8.net:8888/rtp/225.1.4.159:1195
 CCTV5,http://119.39.97.2:9002/tsfile/live/0005_1.m3u8
 CCTV5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 CCTV5,http://124.228.160.197:9901/tsfile/live/0016_1.m3u8
-CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
 CCTV5,http://171.108.239.80:8181/tsfile/live/1031_1.m3u8
 CCTV5,http://cdn.jdshipin.com:8880/ysp.php?id=cctv5
 CCTV5,http://114.254.85.192:2222/rtp/239.3.1.173:8001
@@ -407,7 +425,6 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 CCTV6,http://124.128.73.58:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://58.57.21.166:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://hikvision.city:880/CCTV-6.m3u8
-CCTV6,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV6_HD/index.m3u8?gMac=unknown&livodToken=86f8139ff3260e367086c8b1e4760a54b14301be0d4152d8f47fe1940086b3ae_1720507946_604800&fromCDN=ws
 CCTV6,http://171.116.56.95:9999/tsfile/live/0006_1.m3u8
 CCTV6,http://www.zzlag.top:9087/tsfile/live/1015_1.m3u8
 CCTV6,http://222.130.146.175:8888/rtp/239.3.1.174:8001
@@ -533,7 +550,6 @@ CCTV8,http://124.112.203.209:18888/rtp/238.1.78.173:7256
 CCTV8,http://60.223.72.118:8003/rtp/226.0.2.211:9600
 CCTV8,http://114.254.185.206:9999/rtp/239.3.1.175:8001
 CCTV8,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
-CCTV8,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=a262d6f91c91f1b3b9970ca0005377026a37645dbb4150a3131badc4e3a5ad2f_1720508010_604800&fromCDN=ws
 CCTV8,http://223.151.49.74:59901/tsfile/live/0008_1.m3u8
 CCTV8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 CCTV8,http://58.53.152.234:9901/tsfile/live/faacts/0008_2.m3u8
@@ -557,7 +573,6 @@ CCTV8,http://124.165.251.82:9999/tsfile/live/0008_1.m3u8
 CCTV8,http://114.252.229.26:9876/rtp/239.3.1.175:8001
 CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV8,http://123.189.36.39:9901/tsfile/live/1007_1.m3u8
-CCTV8,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=5054faa27b50dbbb99bd1082115e5860f6edb52038a9e0f954d26199625c8810_1720504606_604800&fromCDN=ws
 CCTV8,http://124.64.11.135:8888/rtp/239.3.1.175:8001
 CCTV8,http://171.116.59.153:9999/tsfile/live/0008_1.m3u8
 CCTV8,http://58.57.21.166:9901/tsfile/live/0008_1.m3u8
@@ -573,7 +588,6 @@ CCTV8,http://58.248.112.230:8114/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM
 CCTV8,http://6ca2e0.tv.netsite.cc/proxy/366510833/366510833.m3u8
 CCTV8,http://61.136.67.238:50085/tsfile/live/0009_1.m3u8
 CCTV8,http://118.248.218.7:8088/tsfile/live/0008_1.m3u8
-CCTV9,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=827790a3c97b2ec4d8db29f865f4a76f6ee666e7dd6f7d8d79c95ff19569c406_1720508034_604800&fromCDN=ws
 CCTV9,http://119.39.97.2:9002/tsfile/live/0009_1.m3u8
 CCTV9,http://221.4.143.69:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142362100&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea013cefbd9a1&FvSeid=88fe5578aeef086a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9866&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466328&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-9-CQ&Fsv_CMSID=GD_CUCC07-04-2024
 CCTV9,http://111.160.17.2:59901/tsfile/live/0009_1.m3u8
@@ -620,7 +634,6 @@ CCTV9,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel
 CCTV9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
 CCTV9,http://171.8.245.118:808/hls/9/index.m3u8
 CCTV9,http://175.8.213.198:8081/tsfile/live/0009_1.m3u8
-CCTV9,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=7962fd0fc672036d700e4e49a432622a74e060a23f1b55b1cc1e2ee7ee13b4a9_1720504614_604800&fromCDN=ws
 CCTV9,http://110.80.17.38:9901/tsfile/live/0009_1.m3u8
 CCTV9,http://61.136.67.238:50085/tsfile/live/0010_1.m3u8
 CCTV9,http://www.zzlag.top:9087/tsfile/live/1018_1.m3u8
@@ -637,7 +650,6 @@ CCTV9,http://58.53.152.234:9901/tsfile/live/faacts/0009_2.m3u8
 CCTV9,http://59.62.8.250:9901/tsfile/live/0009_1.m3u8
 CCTV10,http://171.116.56.95:9999/tsfile/live/0010_1.m3u8
 CCTV10,http://58.53.152.234:9901/tsfile/live/faacts/0010_2.m3u8
-CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=3372eeac7f52075d36d0edd66eab703b95c8eb3ddf8502186f235a1d890717d9_1720508080_604800&fromCDN=ws
 CCTV10,http://123.112.208.22:4022/rtp/239.3.1.63:8116
 CCTV10,http://171.108.239.99:8181/tsfile/live/1036_1.m3u8
 CCTV10,http://hikvision.city:880/CCTV-10.m3u8
@@ -678,7 +690,6 @@ CCTV10,http://123.163.55.234:9901/tsfile/live/0010_1.m3u8
 CCTV10,http://fangke.blueswords.com:9901/tsfile/live/0010_1.m3u8
 CCTV10,http://www.zzlag.top:9087/tsfile/live/1019_1.m3u8
 CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
-CCTV10,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&livodToken=fabd3816e5335ddba8d1d88c9536a13c2675337479957dee07e669564a88f4e7_1720504638_604800&fromCDN=ws
 CCTV10,http://124.165.251.82:9999/tsfile/live/0010_1.m3u8
 CCTV10,http://222.240.82.92:9901/tsfile/live/0010_1.m3u8
 CCTV10,http://114.252.229.26:9876/rtp/239.3.1.63:8116
@@ -736,7 +747,6 @@ CCTV11,http://223.151.49.74:59901/tsfile/live/0011_1.m3u8
 CCTV11,http://111.14.181.15:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://58.248.112.229:8114/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142503836&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea12f4d9ddde5&FvSeid=88fe5578aef65e1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18128&Fsv_chan_hls_se_idx=55&Fsv_TBt=4356104&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-11-CQ&Fsv_CMSID=GD_CUCC
 CCTV11,http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142503836&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea12f4d9ddde5&FvSeid=88fe5578aef65e1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18128&Fsv_chan_hls_se_idx=55&Fsv_TBt=4356104&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-11-CQ&Fsv_CMSID=GD_CUCC07-08-2024
-CCTV11,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=0034ae2fe24df5a14eb68b5de40ac5b36ab49542913cb5b015ae64ff49312f97_1720504669_604800&fromCDN=ws
 CCTV11,http://110.80.17.38:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://114.254.185.206:9999/rtp/239.3.1.152:8120
 CCTV11,http://175.8.213.198:8081/tsfile/live/0011_1.m3u8
@@ -754,7 +764,6 @@ CCTV11,http://58.48.37.158:1111/tsfile/live/0011_1.m3u8
 CCTV11,http://118.248.218.7:8088/tsfile/live/0011_1.m3u8
 CCTV11,http://118.122.2.29:9999/hls/11/index.m3u8
 CCTV11,http://123.189.36.39:9901/tsfile/live/1010_1.m3u8
-CCTV11,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=b7b4308467a66538e5a370fdfe90b3be8c54fa72c5cb958e5f43f4f56e036d2e_1720508128_604800&fromCDN=ws
 CCTV12,http://www.zzlag.top:9087/tsfile/live/1021_1.m3u8
 CCTV12,http://59.48.75.130:3052/tsfile/live/0012_1.m3u8
 CCTV12,http://6ca2e0.tv.netsite.cc/proxy/479563435/479563435.m3u8
@@ -794,13 +803,11 @@ CCTV12,http://218.89.240.144:59901/tsfile/live/0012_1.m3u8
 CCTV12,http://58.51.111.46:1111/tsfile/live/1012_1.m3u8
 CCTV12,http://175.8.213.198:8081/tsfile/live/0012_1.m3u8
 CCTV12,http://222.130.146.175:8888/rtp/239.3.1.64:8124
-CCTV12,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=580c20b986086596a03afb85524d28a7b1255fd045cc29e549830abd92eab828_1720508158_604800&fromCDN=ws
 CCTV12,http://114.254.85.192:2222/rtp/239.3.1.64:8124
 CCTV12,http://123.189.36.4:9901/tsfile/live/1162_1.m3u8
 CCTV12,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
 CCTV12,http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
 CCTV12,http://171.108.239.98:8181/tsfile/live/1038_1.m3u8
-CCTV12,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=2c98acaa80392eb7cfc5167a9a71482882518255259852ee6387715d5104fd23_1720504686_604800&fromCDN=ws
 CCTV12,http://110.80.17.38:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://124.64.11.135:8888/rtp/239.3.1.64:8124
 CCTV12,http://61.136.67.238:50085/tsfile/live/0012_1.m3u8
@@ -834,7 +841,6 @@ CCTV13,http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
 CCTV13,http://58.23.26.184:9901/tsfile/live/0015_1.m3u8
 CCTV13,http://124.64.11.135:8888/rtp/239.3.1.124:8128
 CCTV13,http://webmail.axxe.top:4022/rtp/239.3.1.124:8128
-CCTV13,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=f4be577234c226bfecf00f96b626bcca106a9d4eaeeaae331b860678bd3f60e7_1720508191_604800&fromCDN=ws
 CCTV13,http://124.228.160.197:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://hikvision.city:880/CCTV-13.m3u8
 CCTV13,http://125.82.168.238:8888/rtp/235.254.198.9:1312
@@ -842,7 +848,6 @@ CCTV13,http://118.122.2.29:9999/hls/13/index.m3u8
 CCTV13,http://118.248.218.7:8088/tsfile/live/0013_1.m3u8
 CCTV13,http://www.zzlag.top:9087/tsfile/live/1022_1.m3u8
 CCTV13,http://123.112.208.22:4022/rtp/239.3.1.124:8128
-CCTV13,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=7ff060443836507a41a5214026042c9626a11fbff401291700ce35d59c3e6293_1720504703_604800&fromCDN=ws
 CCTV13,http://219.159.147.195:9901/tsfile/live/1015_1.m3u8
 CCTV13,http://124.128.73.58:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://112.123.206.32:808/hls/13/index.m3u8
@@ -895,7 +900,6 @@ CCTV14,http://58.48.37.158:1111/tsfile/live/0014_1.m3u8
 CCTV14,http://171.108.239.80:8181/tsfile/live/1040_1.m3u8
 CCTV14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 CCTV14,http://114.254.85.192:2222/rtp/239.3.1.65:8132
-CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=c1f72c79ee7857898e80e822b3768418b14d710294fb16dc503997f9bce0adda_1720508238_604800&fromCDN=ws
 CCTV14,http://119.39.97.2:9002/tsfile/live/0014_1.m3u8
 CCTV14,http://123.189.36.39:9901/tsfile/live/1163_1.m3u8
 CCTV14,http://219.159.147.195:9901/tsfile/live/1020_1.m3u8
@@ -911,7 +915,6 @@ CCTV14,http://124.165.251.82:9999/tsfile/live/0014_1.m3u8
 CCTV14,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
 CCTV14,http://webmail.axxe.top:4022/rtp/239.3.1.65:8132
 CCTV14,http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
-CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0d96180497a13efbadc909954e682aae4e63affa0ef1823b5c6dc5a73b461db4_1720504729_604800&fromCDN=ws
 CCTV14,http://124.228.160.197:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://118.122.2.29:9999/hls/14/index.m3u8
@@ -971,7 +974,6 @@ CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8
 CCTV15,http://123.138.216.44:9902/tsfile/live/0015_1.m3u8
 CCTV15,http://123.189.36.39:9901/tsfile/live/1014_1.m3u8
 CCTV15,http://60.208.104.234:352/tsfile/live/0015_1.m3u8
-CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=b714fc4aa91983a115cdc86176cd98542fc7be2916c39a626ef88fe721f90859_1720504745_604800&fromCDN=ws
 CCTV15,http://14.212.185.27:9901/tsfile/live/0015_1.m3u8
 CCTV15,http://118.122.2.29:9999/hls/15/index.m3u8
 CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8
@@ -983,7 +985,6 @@ CCTV15,http://58.51.111.46:1111/tsfile/live/1015_1.m3u8
 CCTV15,http://61.136.67.238:50085/tsfile/live/0015_1.m3u8
 CCTV15,http://171.108.239.99:8181/tsfile/live/1041_1.m3u8
 CCTV15,http://171.116.56.95:9999/tsfile/live/0015_1.m3u8
-CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws
 CCTV15,http://58.53.152.234:9901/tsfile/live/faacts/0015_2.m3u8
 CCTV15,http://219.159.147.195:9901/tsfile/live/1021_1.m3u8
 CCTV15,http://27.40.16.69:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142830484&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea3bca60188e9&FvSeid=88fe5578aefb7ba7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4261&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-15-CQ&Fsv_CMSID=GD_CUCC07-04-2024
