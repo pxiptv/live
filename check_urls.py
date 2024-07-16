@@ -358,10 +358,32 @@ if __name__ == "__main__":
     # 将差集写回到 online.txt
     write_file('online.txt', unique_online_lines)
 
+    # 读取 online.txt 文件内容
+    with open('online.txt', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+
+    # 定义需要排除的 IP 地址
+    exclude_ips = {
+        "60.223.72.118", "222.130.146.175", "218.241.192.50", "114.254.85.192", 
+        "124.64.11.135", "124.112.203.209", "118.248.218.7", "111.160.17.2", 
+        "58.48.37.158", "119.39.97.2", "219.159.147.195", "116.162.6.191", 
+        "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv"
+    }
+
+    # 过滤条件，包含 "CCTV" 或 "卫视" 且不包含在排除列表中的行
+    filtered_lines = [
+        line for line in lines 
+        if ("CCTV" in line or "卫视" in line) and all(ip not in line for ip in exclude_ips)
+    ]
+
+    # 将过滤后的内容重新保存到 online.txt 文件
+    with open('online.txt', 'w', encoding='utf-8') as file:
+        file.writelines(filtered_lines)
+
     # 读取输入文件内容
     lines1 = read_txt_file('online.txt')
     lines2 = read_txt_file('iptv.txt')
-    lines=list(set(lines1 + lines2))
+    lines=list(set(lines1)) #  + lines2
     write_txt_file('tv.txt',lines)
     remove_duplicates('tv.txt')
 
