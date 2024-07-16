@@ -294,7 +294,6 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
         'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
         'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
-        'https://raw.githubusercontent.com/zjykfy/ykfy/main/all.m3u',
         'https://m3u.ibert.me/txt/fmml_ipv6.txt',
         'https://m3u.ibert.me/txt/fmml_dv6.txt',
         'https://m3u.ibert.me/txt/ycl_iptv.txt',
