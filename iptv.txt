@@ -1574,7 +1574,9 @@ CCTV17,http://14.212.185.27:9901/tsfile/live/0017_1.m3u8
 广西卫视,http://171.108.239.99:8181/tsfile/live/1058_1.m3u8
 广西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws
 广西卫视,http://61.136.67.238:50085/tsfile/live/0113_1.m3u8
-广西卫视,http://219.147.200.9:18080/newlive/live/hls/46/live.m3u8#http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws#http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=86a5fed20a305cd10cb1e1f3d81ca473de518a45b7e630fa7b7e66dcf2c2e316_1720505191_604800&fromCDN=ws
+广西卫视,http://219.147.200.9:18080/newlive/live/hls/46/live.m3u8
+广西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws
+广西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=86a5fed20a305cd10cb1e1f3d81ca473de518a45b7e630fa7b7e66dcf2c2e316_1720505191_604800&fromCDN=ws
 广西卫视,http://111.14.181.15:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://119.62.36.174:9901/tsfile/live/0109_1.m3u8
 广西卫视,http://219.159.147.195:9901/tsfile/live/1002_1.m3u8
@@ -2671,7 +2673,8 @@ CCTV17,http://14.212.185.27:9901/tsfile/live/0017_1.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
-凤凰中文,http://103.95.24.37:880/fhws.m3u8#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://103.95.24.37:880/fhws.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8
@@ -2681,7 +2684,10 @@ CCTV17,http://14.212.185.27:9901/tsfile/live/0017_1.m3u8
 凤凰资讯,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8#http://103.95.24.37:880/fhzx.m3u8#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://171.108.239.80:8181/tsfile/live/1024_1.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://hikvision.city:880/fhzx.m3u8
@@ -2694,7 +2700,9 @@ CCTV17,http://14.212.185.27:9901/tsfile/live/0017_1.m3u8
 凤凰资讯,http://58.215.231.60/live2.rxip.sc96655.com/live/test2_4000.m3u8
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://171.108.239.80:8181/tsfile/live/1025_1.m3u8
+凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -2720,7 +2728,8 @@ TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8#http://194.87.101.118/live.m3u8?c=5
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 TVBS新闻,https://z02.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
 TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
