@@ -9,7 +9,6 @@ CCTV1,http://124.112.203.209:18888/rtp/238.1.78.166:7200
 CCTV1,http://118.248.218.7:8088/tsfile/live/0001_1.m3u8
 CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
 CCTV1,http://58.48.37.158:1111/tsfile/live/0001_1.m3u8
-CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8
 CCTV1,http://119.39.97.2:9002/tsfile/live/0001_1.m3u8
 CCTV1,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8
 CCTV1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
@@ -43,6 +42,7 @@ CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodTok
 CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0d96180497a13efbadc909954e682aae4e63affa0ef1823b5c6dc5a73b461db4_1720504729_604800&fromCDN=ws
 CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=b714fc4aa91983a115cdc86176cd98542fc7be2916c39a626ef88fe721f90859_1720504745_604800&fromCDN=ws
 CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws
+ CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8
  CCTV1,http://124.228.160.197:9901/tsfile/live/0017_1.m3u8
  CCTV1,http://61.52.158.169:808/hls/1/index.m3u8
  CCTV1,http://121.24.99.109:8090/hls/9/index.m3u8
