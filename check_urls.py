@@ -478,6 +478,8 @@ if __name__ == "__main__":
 
     # 去重 blacklist.txt 文件内容
     remove_duplicates('blacklist.txt')
+    # 删除空行
+    remove_empty_lines('blacklist.txt')
 
     # 清空 iptv.txt 文件后读取 channel.txt 文件
     channel_lines = read_txt('channel.txt')
