@@ -1,8 +1,7 @@
 🇨🇳央视频道🇨🇳,#genre#
-CCTV1,http://61.52.158.169:808/hls/1/index.m3u8
-CCTV1,http://222.130.146.175:8888/rtp/239.3.1.129:8008
 CCTV1,http://60.223.72.118:8005/rtp/226.0.2.153:9136
 CCTV1,http://60.223.72.118:8003/rtp/226.0.2.153:9136
+CCTV1,http://222.130.146.175:8888/rtp/239.3.1.129:8008
 CCTV1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 CCTV1,http://114.254.85.192:2222/rtp/239.3.1.129:8008
 CCTV1,http://124.64.11.135:8888/rtp/239.3.1.129:8008
@@ -11,8 +10,8 @@ CCTV1,http://118.248.218.7:8088/tsfile/live/0001_1.m3u8
 CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
 CCTV1,http://58.48.37.158:1111/tsfile/live/0001_1.m3u8
 CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8
-CCTV1,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8
 CCTV1,http://119.39.97.2:9002/tsfile/live/0001_1.m3u8
+CCTV1,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8
 CCTV1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
@@ -45,6 +44,7 @@ CCTV14,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodTok
 CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=b714fc4aa91983a115cdc86176cd98542fc7be2916c39a626ef88fe721f90859_1720504745_604800&fromCDN=ws
 CCTV15,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=bde6e809b30a2e9d5be77b50b95f7634e4524e2a06f94bbcec4356d0f5b54ae3_1720508275_604800&fromCDN=ws
  CCTV1,http://124.228.160.197:9901/tsfile/live/0017_1.m3u8
+ CCTV1,http://61.52.158.169:808/hls/1/index.m3u8
  CCTV1,http://121.24.99.109:8090/hls/9/index.m3u8
  CCTV1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
  CCTV1,http://183.3.134.56:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
