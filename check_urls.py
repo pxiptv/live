@@ -283,6 +283,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
         'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
         'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+        'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
