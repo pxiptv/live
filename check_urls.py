@@ -283,6 +283,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
         'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
         # 'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt',
         'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
