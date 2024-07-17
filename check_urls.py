@@ -322,36 +322,26 @@ if __name__ == "__main__":
         process_url(url)   # 读取上面url清单中直播源存入 urls_all_lines
         print(f"新获取的电视频道网址行数: {len(urls_all_lines)}")
 
+    # 处理单频道多网址问题
+    new_lines = []
+    for line in urls_all_lines:
+        if '://' in line and '#' in line:
+            parts = line.split(',')
+            if len(parts) == 2:
+                name = parts[0]
+                urls = parts[1].split('#')
+                for url in urls:
+                    new_lines.append(f"{name},{url.strip()}\n")
+        else:
+            new_lines.append(line)
+
+    print("单频道多网址的行，已处理并合并为 online.txt。")
+    
     # 写入 online.txt 文件
-    write_txt_file('cs.txt',urls_all_lines)
-    write_txt_file('online.txt',urls_all_lines)
+    write_txt_file('online.txt',new_lines)
     filter_and_save_channel_names('online.txt')
     remove_empty_lines('online.txt')
     remove_duplicates('online.txt')
-    lines = read_txt_file('online.txt')
-
-    with open('others.txt', 'w') as others_file, open('online_temp.txt', 'w') as online_file:
-        for line in lines:
-            if '#' in line and not any(exclude in line for exclude in ["#EXTM3U", "#EXTINF", "#genre#"]):
-                name = line.split(',')[0]
-                modified_line = line.replace('#', f'\n{name},')
-                others_file.write(modified_line)
-            else:
-                online_file.write(line)
-    
-    # 合并 online_temp.txt 和 others.txt 为 online.txt
-    with open('online.txt', 'w') as final_online_file:
-        with open('online_temp.txt', 'r') as online_temp_file:
-            final_online_file.write(online_temp_file.read())
-        with open('others.txt', 'r') as others_file:
-            final_online_file.write(others_file.read())
-            
-    # 删除临时文件
-    import os
-    os.remove('online_temp.txt')
-    os.remove('others.txt')
-
-    print("单频道多网址的行，已处理并合并为 online.txt。")
 
     # 读取文件内容
     online_lines = read_file('online.txt')
