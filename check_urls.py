@@ -397,10 +397,10 @@ if __name__ == "__main__":
             append_to_file('live.txt', [channel_line])
         else:
             channel_name = channel_line.split(",")[0].strip()
-            print(f"正在过滤自选频道: {channel_name}")  # 调试信息
+            print(f"正在筛选自选频道: {channel_name}")  # 调试信息
             matching_lines = [tv_line for tv_line in tv_lines if tv_line.split(",")[0].strip() == channel_name]
             if not matching_lines:
-                print(f"没有找到匹配的频道: {channel_name}")
+                print(f"未匹配的频道: {channel_name}")
             append_to_file('live.txt', matching_lines)
 
     live_lines = read_txt('live.txt')
