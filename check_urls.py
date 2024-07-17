@@ -312,7 +312,7 @@ if __name__ == "__main__":
     for url in urls:
         print(f"提取电视频道网址: {url}")
         process_url(url)   # 读取上面url清单中直播源存入 urls_all_lines
-        print(f"未处理的电视频道网址总行数: {len(urls_all_lines)}")
+        print(f"新获取的电视频道网址行数: {len(urls_all_lines)}")
 
     # 写入 online.txt 文件
     write_txt_file('online.txt',urls_all_lines)
@@ -388,7 +388,7 @@ if __name__ == "__main__":
     print(f"本次新获取网址符合筛选条件的行数为 : {len(lines1)}")
     lines2 = read_txt_file('iptv.txt')
     lines=list(set(lines1 + lines2)) #  + lines2
-    print(f"与上次有效网址合并后的行数: {len(live_lines)}")
+    print(f"与上次有效网址合并后的行数: {len(lines)}")
     write_txt_file('tv.txt',lines)
     remove_duplicates('tv.txt')
 
