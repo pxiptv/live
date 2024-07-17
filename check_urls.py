@@ -383,7 +383,7 @@ if __name__ == "__main__":
     # 读取输入文件内容
     lines1 = read_txt_file('online.txt')
     lines2 = read_txt_file('iptv.txt')
-    lines=list(set(lines1)) #  + lines2
+    lines=list(set(lines1 + lines2)) #  + lines2
     write_txt_file('tv.txt',lines)
     remove_duplicates('tv.txt')
 
