@@ -247,7 +247,7 @@ def convert_m3u_to_txt(m3u_content):
             # 获取频道名称（假设频道名称在引号后）
             channel_name = line.split(',')[-1].strip()
         # 处理 URL 行
-        elif line.startswith("http"):
+        elif line.startswith("://"):
             txt_lines.append(f"{channel_name},{line.strip()}")
     
     # 将结果合并成一个字符串，以换行符分隔
