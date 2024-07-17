@@ -293,6 +293,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
         'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
         'https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.txt',
+        'https://raw.githubusercontent.com/fenxp/iptv/main/live/tvlive.txt',
         'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
         'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
         'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
