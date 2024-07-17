@@ -544,7 +544,7 @@ if __name__ == "__main__":
     天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
     海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"""
 
-    3d_channels = """🤩3D频道🤩,#genre#
+    solid_channels = """🤩3D频道🤩,#genre#
     3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
     3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
     3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
@@ -593,7 +593,7 @@ if __name__ == "__main__":
     # 替换内容
     content = content.replace("🇨🇳央视频道🇨🇳,#genre#", cctv_channels)
     content = content.replace("🛰️卫视频道🛰️,#genre#", satellite_channels)
-    content = content.replace("🤩3D频道🤩,#genre#", 3d_channels)
+    content = content.replace("🤩3D频道🤩,#genre#", solid_channels)
 
     # 写回文件
     with open('iptv.txt', 'w', encoding='utf-8') as file:
