@@ -106,6 +106,7 @@ def process_part(part_str):
     part_str = part_str.replace("財經", "财经")  # 替换
     part_str = part_str.replace("凤凰-", "凤凰")  # 替换
     part_str = part_str.replace("鳳凰", "凤凰")  # 替换
+    part_str = part_str.replace("凤凰卫视", "凤凰")  # 替换
     part_str = part_str.replace("TVB", "")  # 替换
     part_str = part_str.replace("中天亚洲台", "中天亚洲")  # 替换
     part_str = part_str.replace("广东｜", "")  # 替换
