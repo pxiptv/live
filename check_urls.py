@@ -311,7 +311,8 @@ if __name__ == "__main__":
 
     for url in urls:
         print(f"提取电视频道网址: {url}")
-        process_url(url)   # 读取上面url清单中直播源存入urls_all_lines
+        process_url(url)   # 读取上面url清单中直播源存入 urls_all_lines
+        print(f"未处理的电视频道网址总行数: {len(urls_all_lines)}")
 
     # 写入 online.txt 文件
     write_txt_file('online.txt',urls_all_lines)
@@ -341,10 +342,11 @@ if __name__ == "__main__":
     os.remove('online_temp.txt')
     os.remove('others.txt')
 
-    print("一个频道多个网址的行已处理并合并为 online.txt。")
+    print("单频道多网址的行，已处理并合并为 online.txt。")
 
     # 读取文件内容
     online_lines = read_file('online.txt')
+    print(f"单频道多网址处理后的总行数： {len(online_lines)}")
     blacklist_lines = read_file('blacklist.txt')
     iptv_lines = read_file('iptv.txt')
 
@@ -356,6 +358,7 @@ if __name__ == "__main__":
 
     # 将差集写回到 online.txt
     write_file('online.txt', unique_online_lines)
+    print(f"本次新获取的网址总行数: {len(unique_online_lines)}")
 
     # 定义需要保留的IP地址列表
     ips = [
@@ -382,8 +385,10 @@ if __name__ == "__main__":
 
     # 读取输入文件内容
     lines1 = read_txt_file('online.txt')
+    print(f"本次新获取网址符合筛选条件的行数为 : {len(lines1)}")
     lines2 = read_txt_file('iptv.txt')
     lines=list(set(lines1 + lines2)) #  + lines2
+    print(f"与上次有效网址合并后的行数: {len(live_lines)}")
     write_txt_file('tv.txt',lines)
     remove_duplicates('tv.txt')
 
@@ -406,10 +411,8 @@ if __name__ == "__main__":
 
     live_lines = read_txt('live.txt')
     remove_empty_lines('live.txt')
-    print("待检测文件 live.txt 已生成。")
-
-    print(f"channel.txt 行数: {len(channel_lines)}")
-    print(f"live.txt 行数: {len(live_lines)}")
+    print(f"待检测文件 live.txt 总行数: {len(live_lines)}")
+    print(f"自定义收藏的频道总数: {len(channel_lines)}")
 
     # 定义超时时间
     timeout = 3
@@ -518,4 +521,4 @@ if __name__ == "__main__":
         file.write(output_text)
 
     print("新增频道在线检测完毕，结果已存入 whitelist.txt 和 blacklist.txt。")
-    print(f"iptv.txt iptv.m3u 文件已生成。")
+    print(f"iptv.txt iptv.m3u 文件已生成，有效频道总数为 : {len(lines)}")
