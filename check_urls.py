@@ -335,7 +335,7 @@ if __name__ == "__main__":
         else:
             new_lines.append(line)
 
-    print("单频道多网址的行，已处理并合并为 online.txt。")
+    print(f"单频道多网址处理后的总行数： {len(new_lines)}")
     
     # 写入 online.txt 文件
     write_txt_file('online.txt',new_lines)
@@ -345,7 +345,6 @@ if __name__ == "__main__":
 
     # 读取文件内容
     online_lines = read_file('online.txt')
-    print(f"单频道多网址处理后的总行数： {len(online_lines)}")
     blacklist_lines = read_file('blacklist.txt')
     iptv_lines = read_file('iptv.txt')
 
