@@ -323,6 +323,7 @@ if __name__ == "__main__":
         print(f"新获取的电视频道网址行数: {len(urls_all_lines)}")
 
     # 写入 online.txt 文件
+    write_txt_file('cs.txt',urls_all_lines)
     write_txt_file('online.txt',urls_all_lines)
     filter_and_save_channel_names('online.txt')
     remove_empty_lines('online.txt')
