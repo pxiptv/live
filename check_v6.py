@@ -20,7 +20,7 @@ def check_url(url, timeout=3):
 
 def main():
     urls = [
-        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u'
+        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u'
     ]
 
     online_urls = []
