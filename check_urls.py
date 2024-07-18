@@ -190,6 +190,34 @@ def filter_and_save_channel_names(input_file):
         for line in processed_lines:
             out_file.write(line)
 
+# 按自选频道提取待检测内容
+def filter_channels(channel_file, tv_file, output_file):
+	try:
+		with open(channel_file, 'r', encoding='utf-8') as ch_file:
+			channels = ch_file.readlines()
+		
+		with open(tv_file, 'r', encoding='utf-8') as tv_file:
+			tv_lines = tv_file.readlines()
+		
+		matched_lines = []
+		
+		for channel in channels:
+			channel = channel.strip()
+			if "#genre#" in channel:
+				continue  # 跳过包含 "#genre#" 的行
+			for tv_line in tv_lines:
+				if tv_line.startswith(channel):
+					matched_lines.append(tv_line.strip())
+		
+		with open(output_file, 'w', encoding='utf-8') as out_file:
+			for line in matched_lines:
+				out_file.write(line + '\n')
+				
+		print(f"筛选完成，共找到 {len(matched_lines)} 行匹配的内容。")
+		
+	except Exception as e:
+		print(f"发生错误：{e}")
+        
 # 写入文件内容 1
 def write_txt_file(file_path, lines):
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -386,27 +414,10 @@ if __name__ == "__main__":
     write_txt_file('tv.txt',lines)
     remove_duplicates('tv.txt')
 
-    # 清空 live.txt 文件后读取 channel.txt 文件
-    open('live.txt', 'w').close()
-    channel_lines = read_txt('channel.txt')
-    tv_lines = read_txt_file('tv.txt')
-
-    # 处理 channel.txt 文件中的每一行
-    for channel_line in channel_lines:
-        if "#genre#" in channel_line:
-            append_to_file('live.txt', [channel_line])
-        else:
-            channel_name = channel_line.split(",")[0].strip()
-            print(f"正在筛选自选频道: {channel_name}")  # 调试信息
-            matching_lines = [tv_line for tv_line in tv_lines if tv_line.split(",")[0].strip() == channel_name]
-            if not matching_lines:
-                print(f"未匹配的频道: {channel_name}")
-            append_to_file('live.txt', matching_lines)
-
-    live_lines = read_txt('live.txt')
-    remove_empty_lines('live.txt')
-    print(f"待检测文件 live.txt 总行数: {len(live_lines)}")
-    print(f"自定义收藏的频道总数: {len(channel_lines)}")
+    # 按自选频道提取待检测内容到 live.txt 文件
+    filter_channels('channel.txt', 'tv.txt', 'live.txt')
+    # print(f"待检测文件 live.txt 总行数: {len(live_lines)}")
+    # print(f"自定义收藏的频道总数: {len(channel_lines)}")
 
     # 定义超时时间
     timeout = 3
