@@ -1,4 +1,5 @@
 import socket
+import requests
 import time
 
 def check_url(url):
