@@ -20,9 +20,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run check_ipv6.py
+    - name: Run check_v6.py
       run: |
-        python check_ipv6.py
+        python check_v6.py
 
     - name: Commit cs.txt
       run: |
