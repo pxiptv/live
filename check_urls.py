@@ -247,7 +247,7 @@ def convert_m3u_to_txt(m3u_content):
             # 获取频道名称（假设频道名称在引号后）
             channel_name = line.split(',')[-1].strip()
         # 处理 URL 行
-        elif line.startswith("://"):
+        elif line.startswith("http://") or line.startswith("https://"):
             txt_lines.append(f"{channel_name},{line.strip()}")
     
     # 将结果合并成一个字符串，以换行符分隔
@@ -263,11 +263,11 @@ def process_url(url):
             text = data.decode('utf-8')
             if get_url_file_extension(url) in [".m3u", ".m3u8"]:
                 converted_text = convert_m3u_to_txt(text)
-                urls_all_lines.append(convert_m3u_to_txt(text))
+                urls_all_lines.extend(converted_text.split('\n'))
             elif get_url_file_extension(url) == ".txt":
                 lines = text.split('\n')
                 for line in lines:
-                    if "#genre#" not in line and "," in line and "://" in line:
+                    if "#genre#" not in line and "," in line and ("http://" in line or "https://" in line):
                         # 检查并处理 "?key=txiptv" 和 "$LR•"
                         if "?key=txiptv" in line:
                             line = line.split('?key=txiptv')[0]
