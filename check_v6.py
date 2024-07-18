@@ -1,45 +1,38 @@
-import aiohttp
-import asyncio
-import requests
+import socket
 import time
 
-async def check_url(session, url):
+def check_url(url):
     try:
-        start_time = time.time()
-        async with session.get(url, timeout=3) as response:
+        host = url.split("//")[-1].split("/")[0]
+        addr_info = socket.getaddrinfo(host, None, socket.AF_INET6)
+        if addr_info:
+            sock = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
+            sock.settimeout(3)
+            start_time = time.time()
+            result = sock.connect_ex((addr_info[0][4][0], 80)) # 假设使用80端口
             elapsed_time = time.time() - start_time
-            if response.status == 200:
+            sock.close()
+            if result == 0:
                 print(f"{url} - 响应时间：{elapsed_time:.2f}秒")
                 return True
             else:
-                print(f"{url} - 状态码：{response.status}")
-    except asyncio.TimeoutError:
-        print(f"{url} - 超时")
+                print(f"{url} - 连接失败")
+        else:
+            print(f"{url} - 无法解析主机名")
     except Exception as e:
         print(f"{url} - 错误：{e}")
     return False
 
-async def main():
+def main():
     url = "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
-    async with aiohttp.ClientSession() as session:
-        response = await session.get(url)
-        response_text = await response.text()
-        response_lines = response_text.strip().split('\n')
+    response = requests.get(url)
+    response_lines = response.text.strip().split('\n')
 
-        tasks = []
-        with open('cs.txt', 'w') as f:
-            for line in response_lines:
-                if "http" in line:
-                    task = asyncio.create_task(check_url(session, line.strip()))
-                    tasks.append(task)
-                    if len(tasks) >= 10:  # 限制同时进行的任务数量
-                        done, pending = await asyncio.wait(tasks, return_when=asyncio.FIRST_COMPLETED)
-                        tasks = [t for t in tasks if t not in done]
-
-            done, pending = await asyncio.wait(tasks)
-            for task in done:
-                if task.result():
-                    f.write(task.result() + '\n')
+    with open('cs.txt', 'w') as f:
+        for line in response_lines:
+            if "http" in line:
+                if check_url(line.strip()):
+                    f.write(line.strip() + '\n')
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
