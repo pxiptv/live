@@ -1,50 +1,38 @@
-import urllib.request
 import socket
-import requests
+import time
 
-def fetch_file(url):
+def check_url(url):
     try:
-        response = urllib.request.urlopen(url)
-        return response.read().decode('utf-8')
+        host = url.split("//")[-1].split("/")[0]
+        addr_info = socket.getaddrinfo(host, None, socket.AF_INET6)
+        if addr_info:
+            sock = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
+            sock.settimeout(3)
+            start_time = time.time()
+            result = sock.connect_ex((addr_info[0][4][0], 80)) # 假设使用80端口
+            elapsed_time = time.time() - start_time
+            sock.close()
+            if result == 0:
+                print(f"{url} - 响应时间：{elapsed_time:.2f}秒")
+                return True
+            else:
+                print(f"{url} - 连接失败")
+        else:
+            print(f"{url} - 无法解析主机名")
     except Exception as e:
-        print(f"无法获取文件：{e}")
-        return None
-
-def check_ipv6_url(url, timeout=3):
-    try:
-        # 解析 URL 主机名
-        hostname = urllib.parse.urlparse(url).hostname
-        # 尝试连接 IPv6 地址
-        socket.create_connection((hostname, 80), timeout=timeout, family=socket.AF_INET6)
-        return True
-    except Exception as e:
-        print(f"URL 检测失败：{e}")
+        print(f"{url} - 错误：{e}")
     return False
 
 def main():
-    urls = [
-        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u'
-    ]
+    url = "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
+    response = requests.get(url)
+    response_lines = response.text.strip().split('\n')
 
-    online_urls = []
-
-    for url in urls:
-        print(f"获取文件：{url}")
-        content = fetch_file(url)
-        if content:
-            lines = content.splitlines()
-            for line in lines:
-                if line.startswith("http://") or line.startswith("https://"):
-                    print(f"检测网址：{line}")
-                    if check_ipv6_url(line):
-                        online_urls.append(line)
-                        print(f"在线：{line}")
-                    else:
-                        print(f"离线：{line}")
-
-    with open('cs.txt', 'w', encoding='utf-8') as file:
-        for online_url in online_urls:
-            file.write(online_url + '\n')
+    with open('cs.txt', 'w') as f:
+        for line in response_lines:
+            if "http" in line:
+                if check_url(line.strip()):
+                    f.write(line.strip() + '\n')
 
 if __name__ == "__main__":
     main()
