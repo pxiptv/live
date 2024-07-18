@@ -1,35 +1,38 @@
 name: Check IPv6
 
-on:
-  schedule:
-    - cron: '22 22 1 1 *'
-  workflow_dispatch:
-    branches:
-      - main
+on: [push, pull_request]
 
 jobs:
-  check-ipv6:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Install requests
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Run IPv6 check
-        run: python check_v6.py
+    - name: Run check_ipv6.py
+      run: |
+        python check_ipv6.py
 
-      - name: Upload online.txt
-        uses: actions/upload-artifact@v2
-        with:
-          name: cs-urls
-          path: cs.txt
+    - name: Commit cs.txt
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add cs.txt
+        git commit -m "Update cs.txt" || echo "No changes to commit"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
