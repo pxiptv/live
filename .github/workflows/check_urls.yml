@@ -12,11 +12,16 @@ permissions:
   
 jobs:
   run_script:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2  # 检出代码
+
+    - name: 设置代理
+      run: |
+        export http_proxy=http://proxy.example.com:8080
+        export https_proxy=http://proxy.example.com:8080
       
     - name: GetTime
       id: date
