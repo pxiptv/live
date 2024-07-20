@@ -1,6 +1,11 @@
 name: Check IPv6
 
-on: [push, pull_request]
+on:
+  schedule:
+    - cron: '22 22 1 1 *'
+  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   build:
