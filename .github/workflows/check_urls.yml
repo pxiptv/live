@@ -16,21 +16,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2  # 检出代码
-
-    - name: 设置代理
-      run: |
-        export http_proxy=http://proxy.example.com:8080
-        export https_proxy=http://proxy.example.com:8080
-        echo "http_proxy=$http_proxy" >> $GITHUB_ENV
-        echo "https_proxy=$https_proxy" >> $GITHUB_ENV
-        echo "NO_PROXY=localhost,127.0.0.1" >> $GITHUB_ENV
-
-    - name: Network Debug
-      run: |
-        echo "Testing network connection"
-        ping -c 4 google.com || true
-        curl -I https://www.google.com || true
+      uses: actions/checkout@v2  
       
     - name: GetTime
       id: date
