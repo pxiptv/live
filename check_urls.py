@@ -12,7 +12,7 @@ timestart = datetime.now()
 
 # 读取文件内容 1
 def read_txt_file(file_path):
-    skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'php.jdshipin', '/live/0701', 'jxcbn.ws-cdn.gitv.tv', 'ChiSheng9', 'epg.pw', '/GD_CUCC/G_', '/udp/', '/hls/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'ali.hlspull.yximgs', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
+    skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'php.jdshipin', '[240', 'ottrrs.hl.chinamobile', '/live/0701', 'jxcbn.ws-cdn.gitv.tv', 'ChiSheng9', 'epg.pw', '/GD_CUCC/G_', '/udp/', '/hls/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'ali.hlspull.yximgs', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
     required_strings = ['://']  # 定义需要包含的字符串数组['必需字符1', '必需字符2'] 
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -389,7 +389,7 @@ if __name__ == "__main__":
 
     # 定义需要保留的IP地址列表
     ips = [
-        "60.223.72.118", "222.130.146.175", "124.64.11.135", "118.248.218.7", "119.39.97.2", "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv", "[240", "ottrrs.hl.chinamobile"
+        "60.223.72.118", "222.130.146.175", "124.64.11.135", "118.248.218.7", "119.39.97.2", "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv"
     ]
 
     # 读取文件并筛选内容
