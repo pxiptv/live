@@ -234,249 +234,253 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://114.254.85.192:2222/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://222.130.146.175:8888/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://58.48.37.158:1111/tsfile/live/0001_1.m3u8
+http://114.254.85.192:2222/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://219.159.147.195:9901/tsfile/live/1029_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://124.64.11.135:8888/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://119.39.97.2:9002/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://27.40.16.70:8114/gitv_live/G_CCTV-1-CQ/c001_1721321375_1721321385.ts?FvSeid=8d6db675651f2591&Fsv_Segid=283077&Fsv_Time=1721321375&Fsv_Idx=49&Fsv_ctype=LIVES&Fsv_filetype=2&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC&Fsv_Sd=10&Fsv_Seq=1997831&Fsv_otype=0&UserID=0xFFFFF0&stbid=0xFFFFF0&Fsv_Crccode=0
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://222.130.146.175:8888/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://219.159.147.195:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://124.64.11.135:8888/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://218.241.192.50:8808/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://119.39.97.2:9002/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
+http://124.64.11.135:8888/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
+http://58.48.37.158:1111/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
+http://111.160.17.2:59901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
 http://58.48.37.158:1111/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+http://111.160.17.2:59901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
 http://114.254.85.192:2222/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://111.160.17.2:59901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://218.241.192.50:8808/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://58.48.37.158:1111/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://219.159.147.195:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://222.130.146.175:8888/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://119.39.97.2:9002/tsfile/live/0003_1.m3u8
+http://219.159.147.195:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
+http://218.241.192.50:8808/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
+http://124.64.11.135:8888/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
+http://119.39.97.2:9002/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
+http://222.130.146.175:8888/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://114.254.85.192:2222/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://27.40.16.70:8114/gitv_live/G_CCTV-3-CQ/c001_1721363433_1721363443.ts?FvSeid=8d6db67567b06a1b&Fsv_Segid=287287&Fsv_Time=1721363433&Fsv_Idx=33&Fsv_ctype=LIVES&Fsv_filetype=2&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-3-CQ&Fsv_CMSID=GD_CUCC&Fsv_Sd=10&Fsv_Seq=2003222&Fsv_otype=0&UserID=0xFFFFF0&stbid=0xFFFFF0&Fsv_Crccode=0
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
+http://222.130.146.175:8888/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
+http://58.48.37.158:1111/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
+http://119.39.97.2:9002/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://124.64.11.135:8888/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://111.160.17.2:59901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
+http://219.159.147.195:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
+http://218.241.192.50:8808/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://119.39.97.2:9002/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://219.159.147.195:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://124.64.11.135:8888/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://114.254.85.192:2222/rtp/239.3.1.214:4220
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://58.48.37.158:1111/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://222.130.146.175:8888/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://114.254.85.192:2222/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://124.64.11.135:8888/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://218.241.192.50:8808/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://222.130.146.175:8888/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://111.160.17.2:59901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://222.130.146.175:8888/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://124.64.11.135:8888/rtp/239.3.1.214:4220
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://222.130.146.175:8888/rtp/239.3.1.213:4220
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://218.241.192.50:8808/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://114.254.85.192:2222/rtp/239.3.1.214:4220
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://222.130.146.175:8888/rtp/239.3.1.214:4220
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://114.254.85.192:2222/rtp/239.3.1.213:4220
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://114.254.85.192:2222/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://219.159.147.195:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://124.64.11.135:8888/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://58.48.37.158:1111/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://119.39.97.2:9002/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://124.64.11.135:8888/rtp/239.3.1.213:4220
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://111.160.17.2:59901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://219.159.147.195:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://222.130.146.175:8888/rtp/239.3.1.130:8004
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://218.241.192.50:8808/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://222.130.146.175:8888/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://114.254.85.192:2222/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://124.64.11.135:8888/rtp/239.3.1.173:8001
+http://218.241.192.50:8808/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://58.48.37.158:1111/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://119.39.97.2:9002/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://124.64.11.135:8888/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
+http://58.48.37.158:1111/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
+http://124.64.11.135:8888/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
+http://111.160.17.2:59901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
+http://219.159.147.195:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8?2024
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://114.254.85.192:2222/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://58.48.37.158:1111/tsfile/live/0016_1.m3u8
+http://119.39.97.2:9002/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://111.160.17.2:59901/tsfile/live/1002_1.m3u8
+http://222.130.146.175:8888/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
+http://222.130.146.175:8888/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://218.241.192.50:8808/rtp/239.3.1.130:8004
+http://58.48.37.158:1111/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
 http://219.159.147.195:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://58.48.37.158:1111/tsfile/live/0016_1.m3u8
+http://111.160.17.2:59901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
+http://218.241.192.50:8808/rtp/239.3.1.130:8004
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://111.160.17.2:59901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://124.64.11.135:8888/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://222.130.146.175:8888/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://111.160.17.2:59901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://218.241.192.50:8808/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://58.48.37.158:1111/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://119.39.97.2:9002/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://114.254.85.192:2222/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://111.160.17.2:59901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://124.64.11.135:8888/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://58.48.37.158:1111/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://222.130.146.175:8888/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://219.159.147.195:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://219.159.147.195:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://124.64.11.135:8888/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://114.254.85.192:2222/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://58.48.37.158:1111/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://218.241.192.50:8808/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://119.39.97.2:9002/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
 http://111.160.17.2:59901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://218.241.192.50:8808/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
 http://222.130.146.175:8888/rtp/239.3.1.61:8104
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
+http://58.48.37.158:1111/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
 http://119.39.97.2:9002/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
+http://124.64.11.135:8888/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
+http://218.241.192.50:8808/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
+http://114.254.85.192:2222/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
+http://219.159.147.195:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://218.241.192.50:8808/rtp/239.3.1.175:8001
+http://222.130.146.175:8888/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
+http://114.254.85.192:2222/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
 http://119.39.97.2:9002/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://114.254.85.192:2222/rtp/239.3.1.175:8001
+http://218.241.192.50:8808/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
+http://219.159.147.195:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
+http://111.160.17.2:59901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
 http://124.64.11.135:8888/rtp/239.3.1.175:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
 http://58.48.37.158:1111/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://222.130.146.175:8888/rtp/239.3.1.175:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://111.160.17.2:59901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://219.159.147.195:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://219.159.147.195:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://114.254.85.192:2222/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://218.241.192.50:8808/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
+http://114.254.85.192:2222/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://58.48.37.158:1111/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
+http://219.159.147.195:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
+http://119.39.97.2:9002/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://124.64.11.135:8888/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://222.130.146.175:8888/rtp/239.3.1.62:8112
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://111.160.17.2:59901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://119.39.97.2:9002/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://119.39.97.2:9002/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
 http://58.48.37.158:1111/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://124.64.11.135:8888/rtp/239.3.1.63:8116
+http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+http://222.130.146.175:8888/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
+http://111.160.17.2:59901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
 http://218.241.192.50:8808/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
 http://114.254.85.192:2222/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://111.160.17.2:59901/tsfile/live/0010_1.m3u8
+http://124.64.11.135:8888/rtp/239.3.1.63:8116
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://222.130.146.175:8888/rtp/239.3.1.63:8116
+http://119.39.97.2:9002/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://222.130.146.175:8888/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
+http://119.39.97.2:9002/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://114.254.85.192:2222/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://218.241.192.50:8808/rtp/239.3.1.152:8120
+http://124.64.11.135:8888/rtp/239.3.1.152:8120
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://219.159.147.195:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://111.160.17.2:59901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
+http://218.241.192.50:8808/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://58.48.37.158:1111/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://124.64.11.135:8888/rtp/239.3.1.152:8120
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://119.39.97.2:9002/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://119.39.97.2:9002/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
 http://222.130.146.175:8888/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://124.64.11.135:8888/rtp/239.3.1.64:8124
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
 http://111.160.17.2:59901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://114.254.85.192:2222/rtp/239.3.1.64:8124
+http://218.241.192.50:8808/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+http://124.64.11.135:8888/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
 http://219.159.147.195:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
 http://58.48.37.158:1111/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://218.241.192.50:8808/rtp/239.3.1.64:8124
+http://119.39.97.2:9002/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV12
+http://114.254.85.192:2222/rtp/239.3.1.64:8124
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://111.160.17.2:59901/tsfile/live/0013_1.m3u8
+http://218.241.192.50:8808/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
+http://119.39.97.2:9002/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://219.159.147.195:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
+http://111.160.17.2:59901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://58.48.37.158:1111/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
@@ -484,75 +488,71 @@ http://114.254.85.192:2222/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://218.241.192.50:8808/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://124.64.11.135:8888/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://119.39.97.2:9002/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://222.130.146.175:8888/rtp/239.3.1.124:8128
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://114.254.85.192:2222/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://119.39.97.2:9002/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://124.64.11.135:8888/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://222.130.146.175:8888/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://219.159.147.195:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://111.160.17.2:59901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://218.241.192.50:8808/rtp/239.3.1.65:8132
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
+http://124.64.11.135:8888/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
+http://219.159.147.195:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://58.48.37.158:1111/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://58.48.37.158:1111/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
+http://222.130.146.175:8888/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
+http://119.39.97.2:9002/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
 http://114.254.85.192:2222/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://111.160.17.2:59901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
 http://218.241.192.50:8808/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://119.39.97.2:9002/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://222.130.146.175:8888/rtp/239.3.1.153:8136
+http://124.64.11.135:8888/rtp/239.3.1.153:8136
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
 http://219.159.147.195:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://124.64.11.135:8888/rtp/239.3.1.153:8136
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
-http://27.40.16.70:8114/gitv_live/G_CCTV-16-CQ/c001_1721363072_1721363082.ts?FvSeid=8d6db67567aac710&Fsv_Segid=287863&Fsv_Time=1721363072&Fsv_Idx=16&Fsv_ctype=LIVES&Fsv_filetype=2&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-16-CQ&Fsv_CMSID=GD_CUCC&Fsv_Sd=10&Fsv_Seq=1823338&Fsv_otype=0&UserID=0xFFFFF0&stbid=0xFFFFF0&Fsv_Crccode=0
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
+http://111.160.17.2:59901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
+http://222.130.146.175:8888/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
+http://119.39.97.2:9002/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
+http://58.48.37.158:1111/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://124.64.11.135:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://218.241.192.50:8808/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
-http://114.254.85.192:2222/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://222.130.146.175:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://218.241.192.50:8808/rtp/239.3.1.183:8001
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
+http://27.40.16.70:8114/gitv_live/G_CCTV-16-CQ/c001_1721363072_1721363082.ts?FvSeid=8d6db67567aac710&Fsv_Segid=287863&Fsv_Time=1721363072&Fsv_Idx=16&Fsv_ctype=LIVES&Fsv_filetype=2&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-16-CQ&Fsv_CMSID=GD_CUCC&Fsv_Sd=10&Fsv_Seq=1823338&Fsv_otype=0&UserID=0xFFFFF0&stbid=0xFFFFF0&Fsv_Crccode=0
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
+http://114.254.85.192:2222/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://111.160.17.2:59901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://114.254.85.192:2222/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://219.159.147.195:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://218.241.192.50:8808/rtp/239.3.1.151:8144
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://222.130.146.175:8888/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://124.64.11.135:8888/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
+http://219.159.147.195:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://58.48.37.158:1111/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
+http://222.130.146.175:8888/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
@@ -812,323 +812,321 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/ind
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8?IAS
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
-http://114.254.85.192:2222/rtp/239.3.1.132:8012
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
-http://222.130.146.175:8888/rtp/239.3.1.132:8012
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
-http://58.48.37.158:1111/tsfile/live/0128_1.m3u8
+http://219.159.147.195:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
 http://218.241.192.50:8808/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
+http://114.254.85.192:2222/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
+http://58.48.37.158:1111/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
 http://124.64.11.135:8888/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
-http://219.159.147.195:9901/tsfile/live/1026_1.m3u8
+http://222.130.146.175:8888/rtp/239.3.1.132:8012
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
 http://119.39.97.2:9002/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
 http://119.39.97.2:9002/tsfile/live/0124_2.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
-http://222.130.146.175:8888/rtp/239.3.1.137:8036
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
-http://218.241.192.50:8808/rtp/239.3.1.137:8036
+http://124.64.11.135:8888/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
 http://219.159.147.195:9901/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
+http://222.130.146.175:8888/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
 http://58.48.37.158:1111/tsfile/live/0124_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",浙江卫视
-http://124.64.11.135:8888/rtp/239.3.1.137:8036
+http://218.241.192.50:8808/rtp/239.3.1.137:8036
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江苏卫视
-http://124.64.11.135:8888/rtp/239.3.1.135:8028
+http://114.254.85.192:2222/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江苏卫视
-http://119.39.97.2:9002/tsfile/live/0127_2.m3u8
+http://222.130.146.175:8888/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江苏卫视
 http://58.48.37.158:1111/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江苏卫视
 http://218.241.192.50:8808/rtp/239.3.1.135:8028
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江苏卫视
-http://222.130.146.175:8888/rtp/239.3.1.135:8028
+http://119.39.97.2:9002/tsfile/live/0127_2.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江苏卫视
-http://114.254.85.192:2222/rtp/239.3.1.135:8028
+http://124.64.11.135:8888/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
+http://58.48.37.158:1111/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
+http://218.241.192.50:8808/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
 http://219.159.147.195:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
+http://114.254.85.192:2222/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
+http://124.64.11.135:8888/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
 http://119.39.97.2:9002/tsfile/live/0107_2.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
 http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvFI8ayEeoekFD8P08%2F7EXHQHvoSr2x4xkdtxQfHt6cg&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178761860&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4014f3eb28dc&FvSeid=77fd5578ee342bde&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4254&Fsv_chan_hls_se_idx=49&Fsv_TBt=8467904&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_DONGFANG-CQ&Fsv_CMSID=GD_CUCC07-09-2024
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
-http://124.64.11.135:8888/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
 http://222.130.146.175:8888/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
-http://218.241.192.50:8808/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
-http://58.48.37.158:1111/tsfile/live/0107_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",东方卫视
-http://114.254.85.192:2222/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
-http://219.159.147.195:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
-http://119.39.97.2:9002/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
-http://218.241.192.50:8808/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
 http://222.130.146.175:8888/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
-http://111.160.17.2:59902/tsfile/live/0125_1.m3u8
+http://119.39.97.2:9002/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
 http://58.48.37.158:1111/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
-http://124.64.11.135:8888/rtp/239.3.1.142:8048
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
 http://114.254.85.192:2222/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
+http://219.159.147.195:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
+http://218.241.192.50:8808/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
+http://111.160.17.2:59902/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",广东卫视
+http://124.64.11.135:8888/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广西卫视
-http://58.48.37.158:1111/tsfile/live/0113_1.m3u8
+http://219.159.147.195:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广西卫视
 http://119.39.97.2:9002/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",广西卫视
-http://219.159.147.195:9901/tsfile/live/1002_1.m3u8
+http://58.48.37.158:1111/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
 http://219.159.147.195:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
-http://58.48.37.158:1111/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
-http://218.241.192.50:8808/rtp/239.3.1.134:8020
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
-http://222.130.146.175:8888/rtp/239.3.1.134:8020
+http://124.64.11.135:8888/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
 http://114.254.85.192:2222/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
-http://124.64.11.135:8888/rtp/239.3.1.134:8020
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
 http://119.39.97.2:9002/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
+http://58.48.37.158:1111/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
+http://222.130.146.175:8888/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",深圳卫视
+http://218.241.192.50:8808/rtp/239.3.1.134:8020
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",北京卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",北京卫视
-http://58.48.37.158:1111/tsfile/live/0122_1.m3u8
+http://218.241.192.50:8808/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",北京卫视
 http://119.39.97.2:9002/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",北京卫视
 http://219.159.147.195:9901/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",北京卫视
-http://218.241.192.50:8808/rtp/239.3.1.241:8000
+http://58.48.37.158:1111/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
+http://222.130.146.175:8888/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
 http://219.159.147.195:9901/tsfile/live/1032_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
 http://218.241.192.50:8808/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
+http://119.39.97.2:9002/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
 http://58.48.37.158:1111/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
 http://124.64.11.135:8888/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
 http://114.254.85.192:2222/rtp/239.3.1.156:8148
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
-http://119.39.97.2:9002/tsfile/live/0137_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",东南卫视
-http://222.130.146.175:8888/rtp/239.3.1.156:8148
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",四川卫视
-http://119.39.97.2:9002/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",四川卫视
 http://58.48.37.158:1111/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",四川卫视
 http://219.159.147.195:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",四川卫视
+http://119.39.97.2:9002/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
-http://119.39.97.2:9002/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
-http://124.64.11.135:8888/rtp/239.3.1.141:1234
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
-http://219.159.147.195:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
-http://111.160.17.2:59901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
-http://58.48.37.158:1111/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
-http://218.241.192.50:8808/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
 http://222.130.146.175:8888/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
 http://114.254.85.192:2222/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
+http://111.160.17.2:59901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
+http://219.159.147.195:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
+http://119.39.97.2:9002/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
+http://58.48.37.158:1111/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
+http://124.64.11.135:8888/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",天津卫视
+http://218.241.192.50:8808/rtp/239.3.1.141:1234
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
 http://124.64.11.135:8888/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
-http://218.241.192.50:8808/rtp/239.3.1.211:8064
+http://114.254.85.192:2222/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
 http://58.48.37.158:1111/tsfile/live/0130_2.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
-http://219.159.147.195:9901/tsfile/live/1027_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
-http://114.254.85.192:2222/rtp/239.3.1.211:8064
+http://119.39.97.2:9002/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
 http://222.130.146.175:8888/rtp/239.3.1.211:8064
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
-http://119.39.97.2:9002/tsfile/live/0130_1.m3u8
+http://218.241.192.50:8808/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",安徽卫视
+http://219.159.147.195:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
-http://222.130.146.175:8888/rtp/239.3.1.209:8052
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
 http://219.159.147.195:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
-http://124.64.11.135:8888/rtp/239.3.1.209:8052
+http://58.48.37.158:1111/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
+http://222.130.146.175:8888/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
 http://114.254.85.192:2222/rtp/239.3.1.209:8052
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
-http://58.48.37.158:1111/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
-http://218.241.192.50:8808/rtp/239.3.1.209:8052
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
 http://119.39.97.2:9002/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
+http://124.64.11.135:8888/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",山东卫视
+http://218.241.192.50:8808/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
+http://119.39.97.2:9002/tsfile/live/0138_2.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
 http://124.64.11.135:8888/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
-http://58.48.37.158:1111/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
-http://114.254.85.192:2222/rtp/239.3.1.123:8164
+http://218.241.192.50:8808/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
 http://219.159.147.195:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
-http://218.241.192.50:8808/rtp/239.3.1.123:8164
+http://114.254.85.192:2222/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
 http://222.130.146.175:8888/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",江西卫视
-http://119.39.97.2:9002/tsfile/live/0138_2.m3u8
+http://58.48.37.158:1111/tsfile/live/0138_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
-http://58.48.37.158:1111/tsfile/live/0117_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
-http://114.254.85.192:2222/rtp/239.3.1.148:8072
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
 http://222.130.146.175:8888/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
+http://124.64.11.135:8888/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
+http://58.48.37.158:1111/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
 http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKhpKSI6s6OLBtormwyqxqXAWWbd7WiLqjR4vnvi9bRwf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182193047&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5ae354947b12&FvSeid=77fd5578ee69c553&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4265&Fsv_chan_hls_se_idx=44&Fsv_TBt=8455624&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEBEI-CQ&Fsv_CMSID=GD_CUCC07-07-2024
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
+http://119.39.97.2:9002/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
 http://219.159.147.195:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
 http://218.241.192.50:8808/rtp/239.3.1.148:8072
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
-http://124.64.11.135:8888/rtp/239.3.1.148:8072
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
-http://119.39.97.2:9002/tsfile/live/0117_1.m3u8
+http://114.254.85.192:2222/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
+http://58.48.37.158:1111/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
 http://111.160.17.2:59902/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
 http://219.159.147.195:9901/tsfile/live/1034_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
-http://58.48.37.158:1111/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",海南卫视
 http://119.39.97.2:9002/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",海南卫视
 http://58.48.37.158:1111/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
-http://58.48.37.158:1111/tsfile/live/0018_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
-http://218.241.192.50:8808/rtp/239.3.1.138:8044
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
 http://114.254.85.192:2222/rtp/239.3.1.138:8044
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
-http://111.160.17.2:59901/tsfile/live/0132_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
 http://219.159.147.195:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
+http://119.39.97.2:9002/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
+http://58.48.37.158:1111/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
 http://124.64.11.135:8888/rtp/239.3.1.138:8044
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
-http://222.130.146.175:8888/rtp/239.3.1.138:8044
+http://111.160.17.2:59901/tsfile/live/0132_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
-http://119.39.97.2:9002/tsfile/live/0132_1.m3u8
+http://218.241.192.50:8808/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
+http://222.130.146.175:8888/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
+http://124.64.11.135:8888/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
 http://58.48.37.158:1111/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
 http://119.39.97.2:9002/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
-http://114.254.85.192:2222/rtp/239.3.1.149:8076
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
-http://111.160.17.2:59902/tsfile/live/0120_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
 http://218.241.192.50:8808/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
 http://222.130.146.175:8888/rtp/239.3.1.149:8076
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
-http://124.64.11.135:8888/rtp/239.3.1.149:8076
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
-http://58.48.37.158:1111/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
-http://111.160.17.2:59901/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
-http://114.254.85.192:2222/rtp/239.3.1.210:8056
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
-http://222.130.146.175:8888/rtp/239.3.1.210:8056
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
-http://124.64.11.135:8888/rtp/239.3.1.210:8056
+http://114.254.85.192:2222/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",贵州卫视
+http://111.160.17.2:59902/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
 http://219.159.147.195:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
 http://218.241.192.50:8808/rtp/239.3.1.210:8056
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
+http://124.64.11.135:8888/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
+http://111.160.17.2:59901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
+http://58.48.37.158:1111/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
+http://222.130.146.175:8888/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
+http://114.254.85.192:2222/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",辽宁卫视
 http://119.39.97.2:9002/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://222.130.146.175:8888/rtp/239.3.1.122:8160
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://219.159.147.195:9901/tsfile/live/1036_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://119.39.97.2:9002/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://218.241.192.50:8808/rtp/239.3.1.122:8160
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://111.160.17.2:59902/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC07-05-2024
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
-http://114.254.85.192:2222/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
 http://124.64.11.135:8888/rtp/239.3.1.122:8160
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://218.241.192.50:8808/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://219.159.147.195:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC07-05-2024
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://119.39.97.2:9002/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://114.254.85.192:2222/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
 http://58.48.37.158:1111/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://222.130.146.175:8888/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",重庆卫视
+http://111.160.17.2:59902/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
 http://124.64.11.135:8888/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
-http://119.39.97.2:9002/tsfile/live/0116_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
 http://58.48.37.158:1111/tsfile/live/0116_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
-http://218.241.192.50:8808/rtp/239.3.1.240:8172
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
-http://111.160.17.2:59902/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
 http://222.130.146.175:8888/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
 http://114.254.85.192:2222/rtp/239.3.1.240:8172
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
+http://119.39.97.2:9002/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
+http://218.241.192.50:8808/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",吉林卫视
+http://111.160.17.2:59902/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://114.254.85.192:2222/rtp/239.3.1.133:8016
+http://222.130.146.175:8888/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
 http://218.241.192.50:8808/rtp/239.3.1.133:8016
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
+http://124.64.11.135:8888/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
 http://58.48.37.158:1111/tsfile/live/0143_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://119.39.97.2:9002/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKoGO4sBlEXR27vS0rpENy%2BC90wzLcBzAblH7tEMBexot&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179089553&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42a45c04fbd0&FvSeid=77fd5578ee3948ee&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4247&Fsv_chan_hls_se_idx=46&Fsv_TBt=8467816&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEILONGJIANG-CQ&Fsv_CMSID=GD_CUCC07-04-2024
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
 http://111.160.17.2:59902/tsfile/live/0143_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://124.64.11.135:8888/rtp/239.3.1.133:8016
+http://119.39.97.2:9002/tsfile/live/0138_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://222.130.146.175:8888/rtp/239.3.1.133:8016
+http://114.254.85.192:2222/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",黑龙江卫视
+http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKoGO4sBlEXR27vS0rpENy%2BC90wzLcBzAblH7tEMBexot&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179089553&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42a45c04fbd0&FvSeid=77fd5578ee3948ee&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4247&Fsv_chan_hls_se_idx=46&Fsv_TBt=8467816&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEILONGJIANG-CQ&Fsv_CMSID=GD_CUCC07-04-2024
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南爱晚
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn05.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电影
-http://223.159.9.63:8099/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电影
 https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=hndy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电影
 http://124.228.160.169:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电影
@@ -1136,21 +1134,15 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南都市
 http://119.39.97.2:9002/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南都市
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南都市
 http://124.228.160.169:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南都市
-http://223.159.9.63:8099/tsfile/live/1002_1.m3u8
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南国际
 http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南国际
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn06.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南国际
-http://223.159.9.63:8099/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南经视
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn01.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南经视
 http://119.39.97.2:9002/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南经视
@@ -1158,17 +1150,15 @@ http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南经视
 http://124.228.160.169:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南经视
-http://223.159.9.63:8099/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南娱乐
-http://223.159.9.63:8099/tsfile/live/1000_1.m3u8
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn01.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南娱乐
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn07.m3u8
+#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南娱乐
+http://118.248.167.74:8088/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南娱乐
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
-#EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电视剧
-http://223.159.9.63:8099/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南电视剧
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn03.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
@@ -1206,33 +1196,33 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://117.28.177.215:8605/rtp/239.61.2.183:9086
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://171.108.239.79:8181/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",澳门莲花
@@ -1276,9 +1266,9 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Bloomberg Originals
 https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Bloomberg Originals
@@ -1389,68 +1379,68 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 group-title="🏆咪咕体育🏆",咪咕体育4K-2
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 group-title="🥝精品频道🥝",NewTV动作电影
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000004000018653
+#EXTINF:-1 group-title="🥝精品频道🥝",NewTV惊悚悬疑
+https://pix.my.zhoujie218.top:8443/itv/ystenlive/1000000004000024282
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
-http://223.159.9.63:8099/tsfile/live/1009_1.m3u8
-#EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
-http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+http://121.19.134.225:808/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
 http://111.225.113.86:808/tsfile/live/1036_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
-http://121.19.134.225:808/tsfile/live/1037_1.m3u8
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",茶频道
 https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=cpd&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 #EXTINF:-1 group-title="🥝精品频道🥝",快乐垂钓
 https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=klcd&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 #EXTINF:-1 group-title="🥝精品频道🥝",游戏风云
-http://117.28.177.215:8605/rtp/239.61.2.145:8858
+http://221.205.201.92:8085/rtp/226.0.2.78:8536
 #EXTINF:-1 group-title="🥝精品频道🥝",游戏风云
 http://171.116.226.141:8085/rtp/226.0.2.78:8536
 #EXTINF:-1 group-title="🥝精品频道🥝",游戏风云
-http://171.122.194.163:8085/rtp/226.0.2.78:8536
+http://171.124.97.55:8082/rtp/226.0.2.78:8536
 #EXTINF:-1 group-title="🥝精品频道🥝",游戏风云
-http://118.79.7.129:8000/rtp/226.0.2.78:8536
-#EXTINF:-1 group-title="🥝精品频道🥝",游戏风云
-http://221.205.201.92:8085/rtp/226.0.2.78:8536
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://221.205.201.92:8085/rtp/226.0.2.94:8012
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://171.122.194.163:8085/rtp/226.0.2.94:8012
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://123.189.36.4:9901/tsfile/live/1101_1.m3u8
+http://117.28.177.215:8605/rtp/239.61.2.145:8858
+#EXTINF:-1 group-title="🥝精品频道🥝",黑莓电影
+http://pix.zhoujie218.top/tptv/HD-8000k-1080P-Supermovie?type=origin
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
 http://119.98.176.205:4000/rtp/239.69.1.242:11094
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://117.28.177.215:8605/rtp/239.61.3.16:9616
+http://117.28.113.151:8888/rtp/239.61.3.16:9616
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://123.189.36.39:9901/tsfile/live/1101_1.m3u8
+http://121.207.104.30:4022/rtp/239.61.3.16:9616
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://171.116.226.141:8085/rtp/226.0.2.94:8012
+http://221.205.201.92:8085/rtp/226.0.2.94:8012
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
-http://118.79.7.129:8000/rtp/226.0.2.94:8012
+http://171.116.226.141:8085/rtp/226.0.2.94:8012
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
 http://61.184.128.243:1111/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC高清电影
-http://118.79.7.129:8000/rtp/226.0.2.93:8004
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC高清电影
-http://171.122.194.163:8085/rtp/226.0.2.93:8004
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC高清电影
-http://171.116.226.141:8085/rtp/226.0.2.93:8004
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
+http://27.152.156.116:6666/rtp/239.61.3.16:9616
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
+http://117.28.177.215:8605/rtp/239.61.3.16:9616
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
+http://123.189.36.4:9901/tsfile/live/1101_1.m3u8
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
+http://123.189.36.39:9901/tsfile/live/1101_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC高清电影
 http://119.98.176.205:4000/rtp/239.69.1.241:11088
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
-http://123.189.36.39:9901/tsfile/live/1105_1.m3u8
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
-http://171.116.226.141:8085/rtp/226.0.2.240:9820
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
-http://118.79.7.129:8000/rtp/226.0.2.240:9820
-#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
-http://119.98.176.205:4000/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC高清电影
+http://171.124.97.55:8082/rtp/226.0.2.93:8004
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC高清电影
+http://171.116.226.141:8085/rtp/226.0.2.93:8004
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
 http://221.205.201.92:8085/rtp/226.0.2.240:9820
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
-http://171.122.194.163:8085/rtp/226.0.2.240:9820
+http://119.98.176.205:4000/rtp/239.69.1.243:11100
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
+http://171.116.226.141:8085/rtp/226.0.2.240:9820
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
+http://171.124.97.55:8082/rtp/226.0.2.240:9820
+#EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
+http://123.189.36.39:9901/tsfile/live/1105_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",JJ斗地主
 http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="🥝精品频道🥝",王者荣耀
