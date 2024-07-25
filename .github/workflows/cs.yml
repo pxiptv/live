@@ -31,9 +31,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run check_v6.py
+    - name: Run cs.py
       run: |
-        python check_v6.py
+        python cs.py
 
     - name: Commit cs.txt
       run: |
