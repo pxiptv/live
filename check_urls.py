@@ -12,7 +12,7 @@ timestart = datetime.now()
 
 # 读取文件内容 1
 def read_txt_file(file_path):
-    skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'php.jdshipin', '[240', 'ottrrs.hl.chinamobile', '/live/0701', 'jxcbn.ws-cdn.gitv.tv', 'ChiSheng9', 'epg.pw', '/udp/', '/hls/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'ali.hlspull.yximgs', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
+    skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'php.jdshipin', '[240', 'ottrrs.hl.chinamobile', '/live/0701', 'ChiSheng9', 'epg.pw', '/udp/', '/hls/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'ali.hlspull.yximgs', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
     required_strings = ['://']  # 定义需要包含的字符串数组['必需字符1', '必需字符2'] 
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -310,10 +310,12 @@ if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
         'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
+	'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
         'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
         'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-        'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
+	'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
         'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
+	'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
         'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
@@ -328,7 +330,6 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
         'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
         'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
-        'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
         'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
         'https://raw.githubusercontent.com/frxz751113/AAAAA/7ed0a668bde0c5e1cb7e61c82585ee5805e742fd/IPTV/%E6%B1%87%E6%80%BB.txt',
         'https://m3u.ibert.me/txt/fmml_ipv6.txt',
@@ -389,7 +390,7 @@ if __name__ == "__main__":
 
     # 定义需要保留的IP地址列表
     ips = [
-        "60.223.72.118", "222.130.146.175", "124.64.11.135", "118.248.218.7", "119.39.97.2", "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv", "/GD_CUCC/G_"
+        "60.223.72.118", "222.130.146.175", "124.64.11.135", "118.248.218.7", "119.39.97.2", "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv", "/GD_CUCC/G_", "jxcbn.ws-cdn.gitv.tv"
     ]
 
     # 读取文件并筛选内容
