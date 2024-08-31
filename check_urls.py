@@ -390,7 +390,7 @@ if __name__ == "__main__":
 
     # 定义需要保留的IP地址列表
     ips = [
-        "60.223.72.118", "222.130.146.175", "124.64.11.135", "118.248.218.7", "119.39.97.2", "58.248.112.205", "120.87.97.246", "27.40.16.70", "jxcbn.ws-cdn.gitv.tv", "/GD_CUCC/G_", "jxcbn.ws-cdn.gitv.tv"
+        "60.223.72.118", "222.130.146.175", "124.64.11.135", "118.248.218.7", "119.39.97.2", "58.248.112.205", "120.87.97.246", "27.40.16.70", "/rtp/", "/udp/", "/GD_CUCC/G_", "jxcbn.ws-cdn.gitv.tv"
     ]
 
     # 读取文件并筛选内容
@@ -698,10 +698,12 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 凤凰中文,http://lidahai.top:8100/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.1.9:2192
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
 凤凰资讯,http://lidahai.top:8100/udp/239.93.1.4:2191
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.0.118:2191
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.1.4:2191
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
