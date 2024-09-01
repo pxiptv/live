@@ -330,7 +330,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
         'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
         'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
-        'https://raw.githubusercontent.com/frxz751113/AAAAA/7ed0a668bde0c5e1cb7e61c82585ee5805e742fd/IPTV/%E6%B1%87%E6%80%BB.txt',
+        'https://raw.githubusercontent.com/frxz751113/AAAAA/main/TW.txt',
         'https://m3u.ibert.me/txt/fmml_ipv6.txt',
         'https://m3u.ibert.me/txt/fmml_dv6.txt',
         'https://m3u.ibert.me/txt/ycl_iptv.txt',
