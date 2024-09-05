@@ -7457,24 +7457,101 @@ CCTV17,http://60.26.62.182:8000/udp/225.1.2.52:5002
 湖南电视剧,http://118.254.201.45:8888/udp/239.76.252.118:9000
 湖南电视剧,http://118.254.201.45:8888/udp/239.76.246.108:1234
 🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,http://lidahai.top:8100/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.1.9:2192
-凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰资讯,http://lidahai.top:8100/udp/239.93.1.4:2191
+凤凰中文,http://124.230.56.176:55555/udp/239.76.253.135:9000
+凤凰中文,http://124.230.56.224:55555/udp/239.76.253.135:9000
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.0.118:2191
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.1.4:2191
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰资讯,http://124.230.56.176:55555/udp/239.76.253.134:9000
+凤凰资讯,http://124.230.56.224:55555/udp/239.76.253.134:9000
+凤凰资讯,http://v.189910.xyz:8900/live.m3u8?c=7
+凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+凤凰香港,http://180.143.86.242:8181/tsfile/live/1084_1.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+翡翠台,http://124.244.149.194:65530/bysid/1
+明珠台,http://124.244.149.194:65531/bysid/2
+TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+TVBS HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn15
+台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv156
+影迷數位電影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+CATCHPLAY电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+台湾戏剧,http://litv.zapi.us.kg/?id=litv-longturn22
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+时尚运动X,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球1,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动1,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
+博斯无限2,http://litv.zapi.us.kg/?id=litv-longturn13
+TRACE SPORTS STARS,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+TVBS精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
+客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
+古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
+Smart知识,http://litv.zapi.us.kg/?id=litv-longturn19
+达文西频道,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+阿里郎,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+生活英语,http://litv.zapi.us.kg/?id=litv-longturn20
+好消息,http://litv.zapi.us.kg/?id=litv-ftv16
+好消息2台,http://litv.zapi.us.kg/?id=litv-ftv17
+非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
+韩国娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+ABCNews,http://v.189910.xyz:8900/live.m3u8?c=4
 凤凰中文,http://61.130.232.196:8881/udp/233.50.200.191:5140
 凤凰中文,http://122.246.150.139:9999/udp/233.50.200.191:5140
 凤凰中文,http://61.130.232.37:8889/udp/233.50.200.42:5140
