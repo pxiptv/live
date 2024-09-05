@@ -621,24 +621,34 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8"""
 
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,http://lidahai.top:8100/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.1.9:2192
-凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰资讯,http://lidahai.top:8100/udp/239.93.1.4:2191
+凤凰中文,http://124.230.56.176:55555/udp/239.76.253.135:9000
+凤凰中文,http://124.230.56.224:55555/udp/239.76.253.135:9000
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.0.118:2191
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.1.4:2191
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰资讯,http://124.230.56.176:55555/udp/239.76.253.134:9000
+凤凰资讯,http://124.230.56.224:55555/udp/239.76.253.134:9000
+凤凰资讯,http://v.189910.xyz:8900/live.m3u8?c=7
+凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+凤凰香港,http://180.143.86.242:8181/tsfile/live/1084_1.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+翡翠台,http://124.244.149.194:65530/bysid/1
+明珠台,http://124.244.149.194:65531/bysid/2
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp"""
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+中天新闻,http://v.189910.xyz:8900/live.m3u8?c=8
+寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
+ABCNews,http://v.189910.xyz:8900/live.m3u8?c=4"""
     
     migu_channels = """🏆咪咕体育🏆,#genre#
 咪咕综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
