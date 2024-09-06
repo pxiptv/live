@@ -656,6 +656,7 @@ TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn15
 台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
 华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
