@@ -642,12 +642,98 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 中天新闻,http://v.189910.xyz:8900/live.m3u8?c=8
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+TVBS HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn15
+台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv156
+影迷數位電影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+CATCHPLAY电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+台湾戏剧,http://litv.zapi.us.kg/?id=litv-longturn22
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+时尚运动X,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球1,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动1,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
+博斯无限2,http://litv.zapi.us.kg/?id=litv-longturn13
+TRACE SPORTS STARS,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+TVBS精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
+客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
+古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
+Smart知识,http://litv.zapi.us.kg/?id=litv-longturn19
+达文西频道,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+阿里郎,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+生活英语,http://litv.zapi.us.kg/?id=litv-longturn20
+好消息,http://litv.zapi.us.kg/?id=litv-ftv16
+好消息2台,http://litv.zapi.us.kg/?id=litv-ftv17
+非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
+韩国娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+ABC News,https://lnc-abc-news.tubi.video/index.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+AMC Music,https://amchls.wns.live/hls/stream.m3u8
+Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 ABCNews,http://v.189910.xyz:8900/live.m3u8?c=4"""
     
     migu_channels = """🏆咪咕体育🏆,#genre#
