@@ -380,6 +380,9 @@ if __name__ == "__main__":
     # 计算 blacklist_lines 和 iptv_lines 的并集
     combined_blacklist_iptv = blacklist_lines | iptv_lines
 
+    # 去重
+    combined_blacklist_iptv = remove_duplicates(combined_blacklist_iptv)
+
     # 计算 online_lines 与 combined_blacklist_iptv 的差集
     unique_online_lines = online_lines - combined_blacklist_iptv
 
