@@ -2,7 +2,7 @@ name: 电视频道地址更新
 # 分支 应替换为  branches
 on:
   schedule:
-    - cron: '22 22 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
     branches:
       - main
