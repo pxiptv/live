@@ -85,6 +85,8 @@ def process_part(part_str):
     part_str = part_str.replace("IPV4", "")  # 剔除 IPV4 
     part_str = part_str.replace("[V4]", "")  # 剔除 [V4]
     part_str = part_str.replace("[V6]", "")  # 剔除 [V6]
+    part_str = part_str.replace("[720p]", "")  # 剔除 [720p]
+    part_str = part_str.replace("[1080p]", "")  # 剔除 [1080p]
     part_str = part_str.replace("台,http", ",http")  # 替换 台
     part_str = part_str.replace("高清,http", ",http")  # 替换 高清
     part_str = part_str.replace("标清,http", ",http")  # 替换 标清  
@@ -309,39 +311,28 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u',
+	'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
+	'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
 	'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
         'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
-        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
 	'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
-        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
 	'https://raw.githubusercontent.com/250992941/iptv/main/st1.txt',
 	'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
+        # 'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
         'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
         # 'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt',
-        'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
-        'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
-        'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
-        'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
-        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
-        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt',
+        # 'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
+        # 'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
+        # 'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
         'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
         'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
-        'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
         'https://raw.githubusercontent.com/frxz751113/AAAAA/main/TW.txt',
-        'https://m3u.ibert.me/txt/fmml_ipv6.txt',
-        'https://m3u.ibert.me/txt/fmml_dv6.txt',
-        'https://m3u.ibert.me/txt/ycl_iptv.txt',
-        'https://m3u.ibert.me/txt/y_g.txt',
         'https://m3u.ibert.me/txt/j_iptv.txt',
-        'https://iptv-org.github.io/iptv/countries/cn.m3u',
         'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
-        'https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt',
         'https://cdn.jsdelivr.net/gh/abc1763613206/myiptv@latest/utf8/merged-simple.txt',
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
-        'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
+        # 'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
     ]
 
     urls_all_lines = []
