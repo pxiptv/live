@@ -377,8 +377,8 @@ if __name__ == "__main__":
     blacklist_lines = read_file('blacklist.txt')
     iptv_lines = read_file('iptv.txt')
 
-    # 计算 blacklist_lines 和 iptv_lines 的并集，并去重
-    combined_blacklist_iptv = list(set(blacklist_lines) | set(iptv_lines))
+    # 将 blacklist_lines 和 iptv_lines 转换为集合，并求并集去重
+    combined_blacklist_iptv = set(blacklist_lines).union(iptv_lines)
 
     # 计算 online_lines 与 combined_blacklist_iptv 的差集，并去重
     unique_online_lines = list(set(online_lines) - combined_blacklist_iptv)
