@@ -812,7 +812,6 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.1.4:2191
 凤凰资讯,http://124.230.56.176:55555/udp/239.76.253.134:9000
 凤凰资讯,http://124.230.56.224:55555/udp/239.76.253.134:9000
-凤凰资讯,http://v.189910.xyz:8900/live.m3u8?c=7
 凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 凤凰香港,http://180.143.86.242:8181/tsfile/live/1084_1.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
@@ -825,8 +824,6 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-中天新闻,http://v.189910.xyz:8900/live.m3u8?c=8
-寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 TVBS HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
@@ -917,8 +914,7 @@ Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/mas
 Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
-NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-ABCNews,http://v.189910.xyz:8900/live.m3u8?c=4"""
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"""
     
     migu_channels = """🏆咪咕体育🏆,#genre#
 咪咕综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
