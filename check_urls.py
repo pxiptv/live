@@ -311,24 +311,24 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-	'https://raw.bgithub.xyz/yuanzl77/IPTV/main/live.txt',
-	'https://raw.bgithub.xyz/Wirili/IPTV/main/hotel.txt',
-	'https://raw.bgithub.xyz/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
-	'https://raw.bgithub.xyz/balala2oo8/iptv/main/o.m3u',
-        'https://raw.bgithub.xyz/suxuang/myIPTV/main/ipv6.m3u',
-	'https://raw.bgithub.xyz/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
-	'https://raw.bgithub.xyz/250992941/iptv/main/st1.txt',
-	'https://raw.bgithub.xyz/Guovin/TV/gd/result.txt',
-        'https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        # 'https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/main/others_output.txt',
-        'https://raw.bgithub.xyz/Fairy8o/IPTV/main/PDX-V4.txt',
-        # 'https://raw.bgithub.xyz/Fairy8o/IPTV/main/PDX-V6.txt',
-        # 'https://raw.bgithub.xyz/alonezou/yn-iptv/main/reference/MyIPTV',
-        # 'https://raw.bgithub.xyz/qist/tvbox/master/tvlive.txt',
-        # 'https://raw.bgithub.xyz/leyan1987/iptv/main/iptvnew.txt',
-        'https://raw.bgithub.xyz/maitel2020/iptv-self-use/main/iptv.txt',
-        'https://raw.bgithub.xyz/zwc456baby/iptv_alive/master/live.txt',
-        'https://raw.bgithub.xyz/frxz751113/AAAAA/main/TW.txt',
+	'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
+	'https://raw.githubusercontent.com/Wirili/IPTV/main/hotel.txt',
+	'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
+	'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
+        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
+	'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
+	'https://raw.githubusercontent.com/250992941/iptv/main/st1.txt',
+	'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        # 'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
+        'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
+        # 'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt',
+        # 'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
+        # 'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
+        # 'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
+        'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
+        'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
+        'https://raw.githubusercontent.com/frxz751113/AAAAA/main/TW.txt',
         'https://m3u.ibert.me/txt/j_iptv.txt',
         'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
         'https://cdn.jsdelivr.net/gh/abc1763613206/myiptv@latest/utf8/merged-simple.txt',
@@ -1106,9 +1106,9 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
     # 去重 iptv.txt 文件内容
     # remove_duplicates('iptv.txt')
     
-    # 生成 iptv.m3u 文件 x-tvg-url="https://raw.bgithub.xyz/Troray/IPTV/main/tvxml.xml,https://raw.bgithub.xyz/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+    # 生成 iptv.m3u 文件 x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-    output_text = '#EXTM3U x-tvg-url="https://raw.bgithub.xyz/Troray/IPTV/main/tvxml.xml,https://raw.bgithub.xyz/Meroser/EPG-test/main/tvxml-test.xml.gz"\n'
+    output_text = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml,https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz"\n'
 
     with open("iptv.txt", "r", encoding='utf-8') as file:
         input_text = file.read()
