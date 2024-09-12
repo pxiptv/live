@@ -312,7 +312,7 @@ if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
 	'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
-	'https://raw.githubusercontent.com/Wirili/IPTV/main/hotel.txt',
+	'https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt',
 	'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
 	'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
         'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
