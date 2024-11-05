@@ -322,8 +322,6 @@ if __name__ == "__main__":
 	'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         # 'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
-        'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
-        # 'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt',
         # 'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
         # 'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
         # 'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
