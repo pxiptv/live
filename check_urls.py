@@ -516,7 +516,6 @@ CCTV14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u
 CCTV15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
-
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000002226/
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/
@@ -548,7 +547,6 @@ CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/
-
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/index.m3u8
 CCTV1,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226153/index.m3u8
@@ -620,7 +618,21 @@ CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000056836/1.m3u8
-
+CCTV1,http://211.158.201.168:8004/udp/225.0.4.74:7980
+CCTV2,http://211.158.201.168:8004/udp/225.0.4.132:7980
+CCTV3,http://211.158.201.168:8004/udp/225.0.4.142:7980
+CCTV4,http://211.158.201.168:8004/udp/225.0.4.176:7980
+CCTV5,http://211.158.201.168:8004/udp/225.0.4.143:7980
+CCTV5+,http://211.158.201.168:8004/udp/225.0.4.73:7980
+CCTV7,http://211.158.201.168:8004/udp/225.0.4.127:7980
+CCTV8,http://211.158.201.168:8004/udp/225.0.4.137:7980
+CCTV9,http://211.158.201.168:8004/udp/225.0.4.131:7980
+CCTV10,http://211.158.201.168:8004/udp/225.0.4.130:7980
+CCTV11,http://211.158.201.168:8004/udp/225.0.4.218:7980
+CCTV13,http://211.158.201.168:8004/udp/225.0.4.219:7980
+CCTV14,http://211.158.201.168:8004/udp/225.0.4.128:7980
+CCTV15,http://211.158.201.168:8004/udp/225.0.4.220:7980
+CCTV17,http://211.158.201.168:8004/udp/225.0.4.179:7980
 CCTV1,http://222.95.92.12:4000/rtp/239.49.8.129:6000
 CCTV1,http://111.192.0.32:4022/rtp/239.3.1.129:8008
 CCTV1,http://223.11.153.2:7777/rtp/239.1.1.7:8007
@@ -722,7 +734,6 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
-
 东方卫视,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010054/
 东方卫视,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010219/
 辽宁卫视,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
@@ -742,7 +753,6 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/
-
 北京卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226161/index.m3u8
 北京卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226739/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226551/index.m3u8
@@ -793,7 +803,6 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 吉林卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226440/index.m3u8
 黑龙江卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226142/index.m3u8
 黑龙江卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002142/index.m3u8
-
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006692/1.m3u8
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030452/1.m3u8
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
@@ -904,7 +913,21 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 青海卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/index.m3u8
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-
+北京卫视,http://211.158.201.168:8004/udp/225.0.4.78:7980
+湖南卫视,http://211.158.201.168:8004/udp/225.0.4.75:7980
+东方卫视,http://211.158.201.168:8004/udp/225.0.4.80:7980
+天津卫视,http://211.158.201.168:8004/udp/225.0.4.82:7980
+安徽卫视,http://211.158.201.168:8004/udp/225.0.4.133:7980
+山东卫视,http://211.158.201.168:8004/udp/225.0.4.199:7980
+广东卫视,http://211.158.201.168:8004/udp/225.0.4.84:7980
+江苏卫视,http://211.158.201.168:8004/udp/225.0.4.79:7980
+河北卫视,http://211.158.201.168:8004/udp/225.0.4.174:7980
+浙江卫视,http://211.158.201.168:8004/udp/225.0.4.81:7980
+深圳卫视,http://211.158.201.168:8004/udp/225.0.4.202:7980
+贵州卫视,http://211.158.201.168:8004/udp/225.0.4.175:7980
+辽宁卫视,http://211.158.201.168:8004/udp/225.0.4.98:7980
+重庆卫视,http://211.158.201.168:8004/udp/225.0.4.187:7980
+黑龙江卫视,http://211.158.201.168:8004/udp/225.0.4.201:7980
 湖南卫视,http://49.83.250.201:10001/rtp/239.49.8.12:9418
 湖南卫视,http://118.79.7.143:6000/rtp/226.0.2.143:9056
 湖南卫视,http://171.118.136.143:8083/rtp/226.0.2.143:9056
@@ -938,14 +961,15 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 深圳卫视,http://106.42.108.91:2002/rtp/239.16.20.77:10770"""
 
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,http://114.55.117.163:8091/live/fhx.php?id=fhzw.flv&sign=7cd318&token=6740sbdswgd35t9u
-凤凰资讯,http://114.55.117.163:8091/live/fhx.php?id=fhzx.flv&sign=7cd318&token=6740sbdswgd35t9u
-凤凰香港,http://114.55.117.163:8091/live/fhx.php?id=fhhk.flv&sign=7cd318&token=6740sbdswgd35t9u
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+凤凰中文,http://114.55.117.163:8091/live/fhx.php?id=fhzw.flv&sign=7cd318&token=6740sbdswgd35t9u
+凤凰资讯,http://114.55.117.163:8091/live/fhx.php?id=fhzx.flv&sign=7cd318&token=6740sbdswgd35t9u
+凤凰香港,http://114.55.117.163:8091/live/fhx.php?id=fhhk.flv&sign=7cd318&token=6740sbdswgd35t9u
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -953,6 +977,11 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 凤凰资讯,http://182.138.221.13:8888/udp/239.93.0.118:2191
 凤凰中文,http://175.9.193.128:4502/rtp/239.76.253.135:9000
 凤凰资讯,http://175.9.193.128:4502/rtp/239.76.253.134:9000
+凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰中文,http://kxrj.site:998/123/fh.php?id=fhzw
+凤凰资讯,http://kxrj.site:998/123/fh.php?id=fhzx
+凤凰香港,http://kxrj.site:998/123/fh.php?id=fhhk
 HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -960,6 +989,16 @@ HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 星河台,http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+Tvb翡翠,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
@@ -971,6 +1010,32 @@ HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 TVBS HD,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+民视新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
+TVBS HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
+三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
+三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
+中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
+东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
+TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
+年代MUCH,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+动物星球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8
+好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
+AMC电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
+HBO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8
+台视,rtmp://f13h.mine.nu/sat/tv071
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
