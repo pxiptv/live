@@ -1032,6 +1032,8 @@ ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港C＋,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+翡翠台4K,http://cdn3.1678520.xyz/live/?id=fct4k
+TVB plus,http://cdn3.1678520.xyz/live/?id=tvbp
 澳门Macau,http://php.jdshipin.com:8880/amlh.php
 TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
