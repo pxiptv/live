@@ -963,8 +963,10 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
 凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
+凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰资讯,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
+凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
