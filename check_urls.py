@@ -954,39 +954,31 @@ CCTV17,http://27.11.37.101:8003/udp/225.0.4.179:7980"""
 深圳卫视,http://221.221.155.31:8888/rtp/239.3.1.134:8020
 深圳卫视,http://180.113.67.53:8787/rtp/239.49.8.145:6000
 深圳卫视,http://59.175.47.16:4000/rtp/239.254.96.137:8896
-深圳卫视,http://106.42.108.91:2002/rtp/239.16.20.77:10770"""
+深圳卫视,http://106.42.108.91:2002/rtp/239.16.20.77:10770
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8"""
 
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
 凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
-凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰资讯,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
-凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8
+凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
-凤凰中文,http://114.55.117.163:8091/live/fhx.php?id=fhzw.flv&sign=7cd318&token=6740sbdswgd35t9u
-凤凰资讯,http://114.55.117.163:8091/live/fhx.php?id=fhzx.flv&sign=7cd318&token=6740sbdswgd35t9u
-凤凰香港,http://114.55.117.163:8091/live/fhx.php?id=fhhk.flv&sign=7cd318&token=6740sbdswgd35t9u
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://182.138.221.13:8888/udp/239.93.0.162:2192
-凤凰资讯,http://182.138.221.13:8888/udp/239.93.0.118:2191
-凤凰中文,http://175.9.193.128:4502/rtp/239.76.253.135:9000
-凤凰资讯,http://175.9.193.128:4502/rtp/239.76.253.134:9000
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-凤凰中文,http://kxrj.site:998/123/fh.php?id=fhzw
-凤凰资讯,http://kxrj.site:998/123/fh.php?id=fhzx
-凤凰香港,http://kxrj.site:998/123/fh.php?id=fhhk
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -1023,20 +1015,9 @@ Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-Tvb翡翠,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
-功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港C＋,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-翡翠台4K,http://cdn3.1678520.xyz/live/?id=fct4k
-TVB plus,http://cdn3.1678520.xyz/live/?id=tvbp
 澳门Macau,http://php.jdshipin.com:8880/amlh.php
 TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
