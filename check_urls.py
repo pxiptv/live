@@ -315,6 +315,7 @@ if __name__ == "__main__":
 	'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
 	'https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt',
 	'https://raw.githubusercontent.com/qq49371114/collect-tv-txt/ec97c7ebf5b20965760b59b6a9a6818b82d008a2/live.txt',
+	'https://raw.githubusercontent.com/lc529180405/caicai/8be46d9e0b399ba0ddc1b7832b3bd7a236b3c159/%E6%9E%81%E8%A7%86%E8%A7%A3%E5%AF%86.txt',
         'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
 	'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
 	'https://raw.githubusercontent.com/250992941/iptv/main/st1.txt',
