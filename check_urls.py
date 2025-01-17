@@ -562,9 +562,7 @@ CCTV17,http://b.zgjok.com:35455/itv/1000000005000265015.m3u8?cdn=ystenlive&Conte
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1"""
 
     satellite_channels = """🛰️卫视频道🛰️,#genre#
-湖南卫视,http://b.zgjok.com:35455/itv/5000000004000006692.m3u8?cdn=bestzb&Contentid=5000000004000006692
 湖南卫视,http://b.zgjok.com:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
-
 浙江卫视,http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8
 北京卫视,http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8
 东方卫视,http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8
@@ -578,7 +576,6 @@ CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1"""
 江苏卫视,http://223.105.252.8/PLTV/4/224/3221228803/index.m3u8
 广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8
 山东卫视,http://223.105.252.8/PLTV/4/224/3221227448/index.m3u8
-
 北京卫视,http://b.zgjok.com:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
 安徽卫视,http://b.zgjok.com:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
 安徽卫视,http://b.zgjok.com:35455/itv/1000000005000265025.m3u8?cdn=ystenlive&Contentid=1000000005000265025
@@ -635,7 +632,6 @@ CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1"""
 农林卫视,http://b.zgjok.com:35455/itv/1000000005000266003.m3u8?cdn=ystenlive&Contentid=1000000005000266003
 延边卫视,http://b.zgjok.com:35455/itv/1000000005000266008.m3u8?cdn=ystenlive&Contentid=1000000005000266008
 三沙卫视,http://b.zgjok.com:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-
 湖南经视,http://b.zgjok.com:35455/itv/6306119848317438256.m3u8?cdn=hnbblive&Contentid=6306119848317438256
 湖南娱乐,http://b.zgjok.com:35455/itv/6427893650335440392.m3u8?cdn=hnbblive&Contentid=6427893650335440392
 湖南都市,http://b.zgjok.com:35455/itv/4682579636905393407.m3u8?cdn=hnbblive&Contentid=4682579636905393407
@@ -643,7 +639,6 @@ CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1"""
 湖南爱晚,http://b.zgjok.com:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307875884530512195
 湖南电影,http://b.zgjok.com:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884242846753128038
 湖南国际,http://b.zgjok.com:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526
-
 湖南卫视,https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8"""
 
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
