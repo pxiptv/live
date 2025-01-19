@@ -785,12 +785,17 @@ CCTV17,https://stream1.freetv.fun/fc81fbbacfb04b0ae81bfbc0af49b5e3fbdbf25db51c92
 湖南国际,http://b.zgjok.com:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526
 湖南卫视,https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8
 湖南卫视,https://stream1.freetv.fun/5a9d48cd227fc4fe61f3a29868e142e0856d2027056a79466216bad8461b778a.ctv
+湖南卫视,https://stream1.freetv.fun/178c8c1ddfb1636baa0cfd16ae47ad25451c023870063fe38be74c6d43e23b19.m3u8
+湖南卫视,https://stream1.freetv.fun/e2ec5b85b37a5023400b389e088d2f023026fe2aea41accb67545aa9bb0e7880.m3u8
+湖南卫视,https://stream1.freetv.fun/e9661bf80886d85924f06c05608efdf21ac1f96034cba37e395d058f70629387.ctv
+湖南卫视,https://stream1.freetv.fun/43a1b7e196c98f142e5afc0c9819ddac95f2eb0db96eb21e0f3438eae9ef0d7c.ctv
 浙江卫视,https://stream1.freetv.fun/553f754e0c2f9380f43fe487b962b05eaa8d337c42ec0496d04b5fdd66383d5f.m3u8
 东方卫视,https://stream1.freetv.fun/ddae7298b39a8eaf452f620ee2203f97e830d7e6b9726b41f9c5f1e9cb6cdbea.m3u8
 东方卫视,https://stream1.freetv.fun/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
 江苏卫视,https://stream1.freetv.fun/de9d116d4d440dc63eff556982be839c0fe91b887dff2f85bce189481adc7ab7.m3u8
 江苏卫视,https://stream1.freetv.fun/af236d18c00c75749b4ecf0030d398dba80b5787616cf74b70167c8f2ccf7b3d.m3u8
-广东卫视,https://stream1.freetv.fun/b5325b8597400e5edb4c00f0e5e27ae49b509e4ed0def76b535dcd3a4509a925.m3u8"""
+广东卫视,https://stream1.freetv.fun/b5325b8597400e5edb4c00f0e5e27ae49b509e4ed0def76b535dcd3a4509a925.m3u8
+湖南国际,https://stream1.freetv.fun/7c67049177ac8d070d86896c91fe647b79a5825f0d5f93bd59f7de2f37777cdd.m3u8"""
 
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
 凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
