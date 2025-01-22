@@ -620,6 +620,18 @@ CCTV17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34
 湖南国际,https://stream1.freetv.fun/7c67049177ac8d070d86896c91fe647b79a5825f0d5f93bd59f7de2f37777cdd.m3u8"""
 
     hot_channels = """🇭🇰港澳台🇭🇰,#genre#
+凤凰资讯,http://oopswx.serv00.net/fhws.php?id=info
+凤凰中文,http://oopswx.serv00.net/fhws.php?id=cn
+凤凰香港,http://oopswx.serv00.net/fhws.php?id=hk
+凤凰资讯,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$fhx web
+凤凰中文,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw$fhx web
+凤凰香港,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk$fhx web
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰中文,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8
@@ -629,11 +641,6 @@ CCTV17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34
 凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
