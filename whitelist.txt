@@ -13,11 +13,13 @@ CCTV1,http://wouu.net:9977/udp/239.93.0.184:5140
 CCTV1,http://60.7.56.33:4000/udp/239.253.92.83:8012
 CCTV1,http://119.32.12.32:2901/udp/224.1.100.90:11111
 CCTV1,http://114.246.181.146:4022/rtp/239.3.1.129:8008
+CCTV1,http://www.745612.xyz:7788/rtp/235.254.198.51:1480
 CCTV1,http://114.252.236.205:8000/rtp/239.3.1.129:8008
 CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 CCTV1,http://113.65.9.137:4014/udp/239.77.1.17:5146
 CCTV1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
 CCTV1,http://116.226.8.90:4022/udp/239.45.3.145:5140
+CCTV2,http://www.745612.xyz:7788/rtp/235.254.198.52:1484
 CCTV2,http://omnix.cn:4000/udp/225.1.8.2:8084
 CCTV2,http://www.freetv.top/migu/631780532.m3u8?migutoken=d69d5e5f850768f4609f5e7c6f63984da2c614f71e21226d8dea3a6e40d20f871ca2d383cd042bac96e3e8178933a15192f0ffaef2e700eb95de835faecc0bb802bd0c50099bf3d1abe4ea5174
 CCTV2,http://itms.xznet.org:41097/rtp/239.254.200.158:6000
@@ -72,6 +74,7 @@ CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV4,http://119.136.113.11:8888/udp/239.77.0.78:5146
 CCTV4,http://60.2.190.206:4000/udp/239.253.92.251:6141
 CCTV4,http://60.2.190.206:4000/udp/239.253.93.193:6371
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV4,http://itms.xznet.org:41097/rtp/239.254.200.190:6307
 CCTV4,http://dms.yryyj.site:8188/udp/239.76.245.195:1234
 CCTV4,http://114.252.238.87:8000/udp/239.3.1.105:8092
@@ -103,6 +106,7 @@ CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111
 CCTV5+,http://114.252.238.87:8000/udp/239.3.1.130:8004
 CCTV5+,http://119.32.12.32:2901/udp/224.1.100.25:11111
 CCTV5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013
+CCTV5+,http://14.112.86.85:4022/udp/239.77.0.87:5146
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV5+,http://114.252.236.205:8000/rtp/239.3.1.130:8004
 CCTV5+,http://home.yulei.online:9999/rtp/226.0.2.168:9256
@@ -116,6 +120,7 @@ CCTV5+,http://itms.xznet.org:41097/rtp/239.254.200.46:8004
 CCTV6,http://114.252.236.205:8000/rtp/239.3.1.174:8001
 CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.194:11111
 CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.83:11111
+CCTV6,http://220.173.254.6:6666/udp/239.81.0.233:4056
 CCTV6,http://119.136.113.11:8888/udp/239.77.0.171:5146
 CCTV6,http://14.112.86.85:4022/udp/239.77.0.171:5146
 CCTV6,http://119.32.12.32:2901/udp/224.1.100.84:11111
@@ -228,7 +233,6 @@ CCTV11,http://60.7.56.33:4000/udp/239.253.93.153:6321
 CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.44:11111
 CCTV11,http://114.246.181.146:4022/rtp/239.3.1.152:8120
 CCTV11,http://60.7.56.33:4000/rtp/239.253.93.153:6321
-CCTV11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
 CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111
 CCTV11,http://114.252.238.87:8000/udp/239.3.1.152:8120
 CCTV12,http://itms.xznet.org:41097/rtp/239.254.200.161:6000
@@ -246,6 +250,7 @@ CCTV12,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272
 CCTV12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 CCTV12,http://60.7.56.33:4000/udp/239.253.92.197:6062
 CCTV12,http://home.yulei.online:9999/rtp/226.0.2.164:9224
+CCTV12,http://14.112.86.85:4022/udp/239.77.1.109:5146
 CCTV12,http://114.252.238.87:8000/udp/239.3.1.64:8124
 CCTV12,http://114.246.181.146:4022/rtp/239.3.1.64:8124
 CCTV12,http://116.226.8.90:4022/udp/239.45.3.10:5140
@@ -254,7 +259,7 @@ CCTV12,http://119.32.12.32:2901/udp/224.1.100.78:11111
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV13,http://119.32.12.32:2901/udp/224.1.100.69:11111
 CCTV13,http://60.2.190.206:4000/udp/239.253.92.13:8008
-CCTV13,http://dms.yryyj.site:8188/udp/239.76.246.93:1234
+CCTV13,http://14.112.86.85:4022/udp/239.77.0.188:5146
 CCTV13,http://60.7.56.33:4000/udp/239.253.92.13:8008
 CCTV13,http://220.173.254.6:6666/udp/239.81.0.206:4056
 CCTV13,http://114.246.181.146:4022/rtp/239.3.1.124:8128
@@ -289,6 +294,7 @@ CCTV14,http://119.32.12.32:2901/udp/224.1.100.80:11111
 CCTV14,http://113.65.9.137:4014/udp/239.77.1.161:5146
 CCTV14,http://14.155.191.98:4022/udp/239.77.1.161:5146
 CCTV14,http://14.112.86.85:4022/udp/239.77.1.161:5146
+CCTV14,http://220.173.254.6:6666/udp/239.81.0.25:4056
 CCTV14,http://14.155.191.98:4022/udp/239.77.0.133:5146
 CCTV14,http://114.246.181.146:4022/rtp/239.3.1.65:8132
 CCTV15,http://dms.yryyj.site:8188/udp/239.76.245.252:1234
@@ -303,6 +309,7 @@ CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.41:11111
 CCTV15,http://itms.xznet.org:41097/rtp/239.254.201.124:8136
 CCTV15,http://220.173.254.6:6666/udp/239.81.0.230:4056
 CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
+CCTV15,http://14.112.86.85:4022/udp/239.77.1.239:5146
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV15,http://114.246.181.146:4022/rtp/239.3.1.153:8136
 CCTV15,http://116.226.8.90:4022/udp/239.45.1.200:5140
@@ -312,6 +319,7 @@ CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV16,http://114.252.236.205:8000/rtp/239.3.1.184:8001
 CCTV16,http://114.252.238.87:8000/udp/239.3.1.184:8001
+CCTV16,http://14.112.86.85:4022/udp/239.77.0.165:5146
 CCTV16,http://114.246.181.146:4022/rtp/239.3.1.184:8001
 CCTV16,http://114.252.236.205:8000/rtp/239.3.1.183:8001
 CCTV16,http://114.252.238.87:8000/udp/239.3.1.183:8001
@@ -326,8 +334,10 @@ CCTV17,http://114.252.236.205:8000/rtp/239.3.1.151:8144
 CCTV17,http://60.2.190.206:4000/udp/239.253.93.150:6318
 CCTV17,http://114.246.181.146:4022/rtp/239.3.1.151:8144
 CCTV17,http://wouu.net:9977/udp/239.93.0.92:5140
+CCTV17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f
 CCTV17,http://116.226.8.90:4022/udp/239.45.3.52:5140
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV17,http://220.173.254.6:6666/udp/239.81.0.228:4056
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.98:11111
 湖南卫视,http://60.7.56.33:4000/udp/239.253.92.84:8015
 湖南卫视,http://60.2.190.206:4000/udp/239.253.92.84:8015
@@ -379,7 +389,6 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 广东卫视,http://60.7.56.33:4000/udp/239.253.92.206:8108
 广东卫视,http://113.65.9.137:4014/udp/239.77.0.2:5146
 广东卫视,http://113.65.9.137:4014/udp/239.77.0.166:5146
-广东卫视,http://dms.yryyj.site:8188/udp/239.76.245.189:1234
 广东卫视,http://14.112.86.85:4022/udp/239.77.0.84:5146
 广东卫视,http://14.112.86.85:4022/udp/239.77.0.166:5146
 广西卫视,http://119.32.12.32:2901/udp/224.1.100.110:11111
@@ -411,18 +420,17 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 北京卫视,http://60.2.190.206:4000/udp/239.253.92.87:8014
 北京卫视,http://60.7.56.33:4000/udp/239.253.92.87:8014
 北京卫视,http://114.252.238.87:8000/udp/239.3.1.241:8000
+北京卫视,http://14.112.86.85:4022/udp/239.77.1.4:5146
 北京卫视,http://60.2.190.206:4000/rtp/239.253.92.87:8014
 北京卫视,http://119.136.113.11:8888/udp/239.77.0.91:5146
 北京卫视,http://omnix.cn:4000/udp/225.1.8.21:8002
 北京卫视,http://119.32.12.32:2901/udp/224.1.100.100:11111
 东南卫视,http://119.32.12.32:2901/udp/224.1.100.56:11111
-东南卫视,http://120.55.49.231:3095/rtp/233.50.201.146:5140
 东南卫视,http://60.7.56.33:4000/udp/239.253.92.201:6146
 东南卫视,http://60.2.190.206:4000/udp/239.253.92.201:6146
 东南卫视,http://139.196.151.191:2051/rtp/239.45.1.121:5140
 东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111
 东南卫视,http://14.112.86.85:4022/udp/239.77.1.104:5146
-东南卫视,http://dms.yryyj.site:8188/udp/239.76.245.190:1234
 东南卫视,http://60.7.56.33:4000/rtp/239.253.92.201:6146
 四川卫视,http://14.112.86.85:4022/udp/239.77.1.215:5146
 四川卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.71:11111
@@ -494,6 +502,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 河南卫视,http://60.2.190.206:4000/rtp/239.253.92.137:6144
 河南卫视,http://wouu.net:9977/udp/239.93.42.45:5140
 河南卫视,http://60.7.56.33:4000/udp/239.253.92.137:6144
+河南卫视,http://14.112.86.85:4022/udp/239.77.1.229:5146
 河南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.74:11111
 河南卫视,http://119.32.12.32:2901/udp/224.1.100.74:11111
 河南卫视,http://60.2.190.206:4000/udp/239.253.92.137:6144
@@ -512,6 +521,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 湖北卫视,http://113.65.9.137:4014/udp/239.77.1.93:5146
 湖北卫视,http://60.2.190.206:4000/udp/239.253.92.210:6567
 湖北卫视,http://113.65.9.137:4014/udp/239.77.0.95:5146
+湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://60.7.56.33:4000/rtp/239.253.92.210:6567
 湖北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.68:11111
 湖北卫视,http://dms.yryyj.site:8188/udp/239.76.246.193:1234
@@ -559,6 +569,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 黑龙江卫视,http://113.65.9.137:4014/udp/239.77.0.93:5146
 黑龙江卫视,http://60.2.190.206:4000/rtp/239.253.92.85:8016
 深圳少儿,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
+深圳少儿,http://14.112.86.85:4022/udp/239.77.1.244:5146
 湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261
 湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
 湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221
@@ -597,10 +608,10 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
 凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
 凤凰资讯,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$fhx web
+凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5112&tk=777be9e2ccb2
@@ -616,18 +627,19 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5588&tk=2aca1ad9a849
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4782&tk=97475bb89d45
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6428&tk=777be9e2ccb2
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1910&tk=7d4ad8f156e3
 无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1322&tk=e503191f8e20
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源-1920x1080
-无线新闻,http://aktv.top/AKTV/live/aktv2/null1/AKTV.m3u8
 无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2845&tk=e503191f8e20
 无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6560&tk=777be9e2ccb2
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
+无线新闻,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
@@ -637,11 +649,9 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5289&tk=777be9e2ccb2
 Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6963&tk=e503191f8e20
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源-1920x1080
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6895&tk=777be9e2ccb2
 中天亚洲,http://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 中天亚洲,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
@@ -652,17 +662,14 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9550&tk=97475bb89d45
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 民视新闻,http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3002&tk=e503191f8e20
 寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4446&tk=777be9e2ccb2
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3271&tk=777be9e2ccb2
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 台视,http://fm1077.serv00.net/Smart.php?id=ttv_taiwan
 民视,http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan
@@ -679,6 +686,7 @@ CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-ea
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://quan2018.mycloudnas.com:51888/play/a00n/index.m3u8
 NHK,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 半岛新闻「英文」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 半岛新闻「英文」,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -781,14 +789,13 @@ CCTV世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066
 求索动物,http://dsm.huarunguoji.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://112.74.115.68:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://home.dzlove.top:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
-求索动物,http://43.248.128.135:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://3501776.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://ott.eonn.cn:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索生活,http://home.dzlove.top:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 求索生活,http://tvbox6.com/tv/bfgd.php?id=288
 求索生活,http://bg5aqv.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索生活,http://43.248.128.135:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://111.170.172.113:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索生活,http://home.wwang.pw:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://1.itv.nctv.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://ott.eonn.cn:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://dsm.huarunguoji.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
