@@ -312,6 +312,7 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
+	'https://xcz.funly.us/live.txt',
 	'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
 	'https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt',
 	'https://raw.githubusercontent.com/qq49371114/collect-tv-txt/ec97c7ebf5b20965760b59b6a9a6818b82d008a2/live.txt',
