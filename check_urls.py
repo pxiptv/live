@@ -328,7 +328,7 @@ if __name__ == "__main__":
         # 'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
         'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
         'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
-        'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
+        'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',
         'https://cdn.jsdelivr.net/gh/abc1763613206/myiptv@latest/utf8/merged-simple.txt',
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
         # 'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
