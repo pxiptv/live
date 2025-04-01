@@ -55,6 +55,7 @@ CCTV4,http://dms.yryyj.site:8188/udp/239.76.246.154:1234
 CCTV4,http://218.24.193.146:808/rtp/232.0.0.59:1234
 CCTV4,http://wouu.net:9977/udp/239.93.1.105:5140
 CCTV4,http://dms.yryyj.site:8188/udp/239.76.245.195:1234
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV5,http://171.213.198.17:8088/udp/239.93.42.37:5140
 CCTV5,http://114.252.236.205:8000/rtp/239.3.1.173:8001
 CCTV5,http://125.82.171.210:8888/rtp/235.254.198.142:1846
@@ -100,6 +101,7 @@ CCTV7,http://60.7.56.33:4000/rtp/239.253.92.194:6059
 CCTV7,http://125.82.168.238:8888/rtp/235.254.198.4:1292
 CCTV7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV7,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.62:1025
+CCTV7,http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d
 CCTV7,http://125.82.171.210:8888/rtp/235.254.198.4:1292
 CCTV7,http://60.7.56.33:4000/udp/239.253.92.194:6059
 CCTV7,http://114.252.236.205:8000/rtp/239.3.1.61:8104
@@ -114,8 +116,10 @@ CCTV8,http://114.252.236.205:8000/rtp/239.3.1.175:8001
 CCTV8,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.137:1025
 CCTV8,http://125.82.168.238:8888/rtp/235.254.198.57:1504
 CCTV8,http://125.82.171.210:8888/rtp/235.254.198.57:1504
+CCTV8,http://www.freetv.top/migu/624878356.m3u8?migutoken=e6e1b0f11b3900539ca13088ccf9da6d0a771d58a295315011db1676c607e4bfd4d2ecf8b5f89e888d98843c67f6657703a3192a098894da656341d37aaa2d4abf591b1a09d80e6fff894dd29d
 CCTV8,http://60.7.56.33:4000/udp/239.253.92.195:6060
 CCTV9,http://125.82.168.238:8888/rtp/235.254.198.5:1296
+CCTV9,http://www.freetv.top/migu/673168140.m3u8?migutoken=b6b3dff09079aa89b4ea1988e02de40fa003df2db6f755979b0c414bdfffe3225adf1ec44edf5934481e00ada14c3b23dc6e93bb72f70ed2319f17002205dc998b6ce2dde3d00bf5701f8261ec
 CCTV9,http://171.213.198.17:8088/udp/239.93.1.24:5140
 CCTV9,http://dms.yryyj.site:8188/udp/239.76.246.159:1234
 CCTV9,http://125.82.171.210:8888/rtp/235.254.198.58:1508
@@ -124,7 +128,6 @@ CCTV9,http://125.82.171.210:8888/rtp/235.254.198.5:1296
 CCTV9,http://60.7.56.33:4000/rtp/239.253.92.107:6020
 CCTV9,http://125.82.168.238:8888/rtp/235.254.198.58:1508
 CCTV9,http://60.7.56.33:4000/udp/239.253.92.107:6020
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV9,http://218.24.193.146:808/rtp/232.0.0.137:1234
 CCTV9,http://114.252.236.205:8000/rtp/239.3.1.62:8112
 CCTV10,http://60.7.56.33:4000/udp/239.253.92.196:6061
@@ -152,12 +155,12 @@ CCTV11,http://171.213.198.17:8088/udp/239.93.0.102:5140
 CCTV12,http://114.252.236.205:8000/rtp/239.3.1.64:8124
 CCTV12,http://125.82.168.238:8888/rtp/235.254.198.8:1308
 CCTV12,http://60.7.56.33:4000/rtp/239.253.92.197:6062
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV12,http://125.82.168.238:8888/rtp/235.254.198.60:1516
 CCTV12,http://125.82.171.210:8888/rtp/235.254.198.60:1516
 CCTV12,http://218.24.193.146:808/rtp/232.0.0.139:1234
 CCTV12,http://171.213.198.17:8088/udp/239.93.1.30:8124
 CCTV12,http://125.82.171.210:8888/rtp/235.254.198.8:1308
+CCTV12,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a
 CCTV12,http://60.7.56.33:4000/udp/239.253.92.197:6062
 CCTV12,http://home.yulei.online:9999/rtp/226.0.2.164:9224
 CCTV13,http://125.82.168.238:8888/rtp/235.254.198.9:1312
@@ -473,6 +476,7 @@ Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
 东森新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9230&tk=e640d0a1bf70
 台视新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
+民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 非凡新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=feifannews_twn
@@ -520,10 +524,14 @@ RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+半岛新闻「英文」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 半岛新闻「英文」,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻「英文」,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 半岛新闻「英文」,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻「阿拉伯」,https://live-hls-aje-ak.getaj.net/AJE/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻「阿拉伯」,https://live-hls-aje-ak.getaj.net/AJE/02.m3u8?zshijd
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -581,6 +589,7 @@ CHC动作电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC动作电影,http://goo.bkpcp.top/mg/chcdz
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=901b5c9a11be5c246088451c1577262b8bd811ef0c851b75005f622079a4c43b31be9550071be8ffaa5a973c9e26f404f1f59f3b6e220585383c01b58aff2ac251e77b31f00468d89e8771432b
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8
 CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy$订阅源
@@ -608,6 +617,7 @@ CHC家庭影院,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh
 CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06$订阅源
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy$订阅源
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$订阅源
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
