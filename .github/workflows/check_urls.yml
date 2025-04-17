@@ -43,7 +43,7 @@ jobs:
         git add iptv.txt iptv.m3u blacklist.txt whitelist.txt live.txt tv.txt online.txt
         # iptv.txt iptv.m3u blacklist.txt whitelist.txt tv.txt live.txt online.txt others.txt 
         git commit -m "Automatic update"
-        git push
+        git push --force 
         else
           echo "No changes detected, skipping commit."
         fi
