@@ -41,14 +41,17 @@ CCTV7,http://59.35.185.47:8188/udp/239.77.0.138:5146
 CCTV7,http://220.169.100.41:10087/udp/239.76.253.157:9000
 CCTV8,http://www.freetv.top/migu/624878356.m3u8?migutoken=e6e1b0f11b3900539ca13088ccf9da6d0a771d58a295315011db1676c607e4bfd4d2ecf8b5f89e888d98843c67f6657703a3192a098894da656341d37aaa2d4abf591b1a09d80e6fff894dd29d
 CCTV8,http://59.35.185.47:8188/udp/239.77.0.172:5146
+CCTV9,http://220.169.100.41:10087/udp/239.76.246.159:1234
 CCTV9,http://59.35.185.47:8188/udp/239.77.0.135:5146
 CCTV9,http://www.freetv.top/migu/673168140.m3u8?migutoken=b6b3dff09079aa89b4ea1988e02de40fa003df2db6f755979b0c414bdfffe3225adf1ec44edf5934481e00ada14c3b23dc6e93bb72f70ed2319f17002205dc998b6ce2dde3d00bf5701f8261ec
 CCTV9,http://zqh2333.top:2222/rtp/239.93.25.24:5140
 CCTV9,http://220.169.100.41:10087/udp/239.76.253.159:9000
 CCTV10,http://59.35.185.47:8188/udp/239.77.0.134:5146
 CCTV10,http://220.169.100.41:10087/udp/239.76.253.160:9000
+CCTV10,http://220.169.100.41:10087/udp/239.76.246.160:1234
 CCTV10,http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215bbc02fa208301259959a2d995deb9996c41b650e244fc75c3d5bae41d623bed5ba96aa38c7ea483d856771c119f74e8bb93fb60dc8304e146d0bf46405e88554d84e414
 CCTV11,http://59.35.185.47:8188/udp/239.77.1.238:5146
+CCTV11,http://www.freetv.top/migu/667987558.m3u8?migutoken=00a21f1483e571da068c555e3eea928f7c6183b26d7acc2afe9bb5e115f0005e02b6118176789d76765ae297bd6dfe4e14966e64415f0781535d91ed266aac177d6ff10fa6358e0eedddc2223b
 CCTV12,http://59.35.185.47:8188/udp/239.77.0.136:5146
 CCTV12,http://220.169.100.41:10087/udp/239.76.253.162:9000
 CCTV12,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a
@@ -57,10 +60,10 @@ CCTV13,http://www.freetv.top/migu/608807423.m3u8?migutoken=d8e7d5104925c13570533
 CCTV13,http://home.yulei.online:9999/rtp/226.0.2.165:9232
 CCTV14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03
 CCTV14,http://59.35.185.47:8188/udp/239.77.1.161:5146
+CCTV14,http://220.169.100.41:10087/udp/239.76.253.164:9000
 CCTV15,http://220.169.100.41:10087/udp/239.76.245.252:1234
 CCTV15,http://59.35.185.47:8188/udp/239.77.1.239:5146
 CCTV15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
-CCTV15,http://220.169.100.41:10087/udp/239.76.252.252:9000
 CCTV15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV16,http://121.34.150.149:8225/rtp/239.77.0.165:5146
@@ -68,19 +71,19 @@ CCTV16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
 CCTV16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 CCTV16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
-CCTV16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
+CCTV17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f
 CCTV17,http://220.169.100.41:10087/udp/239.76.245.238:1234
-CCTV17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
 CCTV17,http://59.35.185.47:8188/udp/239.77.1.121:5146
 CCTV17,http://123.116.125.121:8012/rtp/239.3.1.151:8144
-CCTV17,http://220.169.100.41:10087/udp/239.76.252.238:9000
 CCTV17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
 CCTV17,http://222.129.32.255:4022/rtp/239.3.1.151:8144
 湖南卫视,http://zqh2333.top:2222/rtp/239.93.24.88:5140
 湖南卫视,http://220.169.100.41:10087/udp/239.76.253.101:9000
 广东卫视,http://59.35.185.47:8188/udp/239.77.1.19:5146
+广东卫视,http://220.169.100.41:10087/udp/239.76.252.189:9000
 广东卫视,http://59.35.185.47:8188/udp/239.77.1.152:5146
 深圳卫视,http://59.35.185.47:8188/udp/239.77.1.3:5146
+深圳卫视,http://220.169.100.41:10087/udp/239.76.246.188:1234
 北京卫视,http://220.169.100.41:10087/udp/239.76.253.184:9000
 东南卫视,http://220.169.100.41:10087/udp/239.76.252.190:9000
 四川卫视,http://59.35.185.47:8188/udp/239.77.1.215:5146
@@ -91,20 +94,15 @@ CCTV17,http://222.129.32.255:4022/rtp/239.3.1.151:8144
 江西卫视,http://220.169.100.41:10087/udp/239.76.252.225:9000
 江西卫视,http://220.169.100.41:10087/udp/239.76.245.225:1234
 河北卫视,http://59.35.185.47:8188/udp/239.77.1.214:5146
-河北卫视,http://220.169.100.41:10087/udp/239.76.245.199:1234
 河南卫视,http://59.35.185.47:8188/udp/239.77.1.229:5146
 河南卫视,http://220.169.100.41:10087/udp/239.76.246.202:1234
-海南卫视,http://220.169.100.41:10087/udp/239.76.246.203:1234
 海南卫视,http://220.169.100.41:10087/udp/239.76.253.203:9000
-湖北卫视,http://220.169.100.41:10087/udp/239.76.246.193:1234
 湖北卫视,http://59.35.185.47:8188/udp/239.77.0.128:5146
-贵州卫视,http://220.169.100.41:10087/udp/239.76.245.198:1234
 贵州卫视,http://59.35.185.47:8188/udp/239.77.1.221:5146
 贵州卫视,http://220.169.100.41:10087/udp/239.76.252.198:9000
 重庆卫视,http://59.35.185.47:8188/udp/239.77.1.162:5146
 重庆卫视,http://220.169.100.41:10087/udp/239.76.246.92:1234
 吉林卫视,http://59.35.185.47:8188/udp/239.77.1.111:5146
-吉林卫视,http://220.169.100.41:10087/udp/239.76.253.201:9000
 黑龙江卫视,http://59.35.185.47:8188/udp/239.77.0.124:5146
 深圳财经生活,http://59.35.185.47:8188/udp/239.77.1.242:5146
 湖南电影,http://api2.52tb.xyz/info?id=564&token=20230218htjgzi
@@ -116,7 +114,6 @@ CCTV17,http://222.129.32.255:4022/rtp/239.3.1.151:8144
 湘潭新闻综合,http://220.169.100.41:10087/udp/239.76.255.4:9000
 湘潭新闻综合,http://220.169.100.41:10087/udp/239.76.248.4:1234
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰资讯,http://220.169.100.41:10087/udp/239.76.253.135:9000
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$订阅源
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
@@ -165,7 +162,6 @@ NHK,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premiu
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
@@ -185,6 +181,7 @@ KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia$订阅源
 黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8
 CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh$订阅源
+CHC动作电影,http://atcq62.3950.cn:35455/mgtv/644368714.m3u8
 CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh
 CHC动作电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
 CHC动作电影,http://220.169.100.41:10087/udp/239.76.252.243:9000
