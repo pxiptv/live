@@ -162,51 +162,47 @@ http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
+http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://220.169.100.41:10087/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://59.35.185.47:8188/udp/239.77.1.144:5146
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
 http://59.35.185.47:8188/udp/239.77.1.158:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://www.freetv.top/migu/631780532.m3u8?migutoken=d69d5e5f850768f4609f5e7c6f63984da2c614f71e21226d8dea3a6e40d20f871ca2d383cd042bac96e3e8178933a15192f0ffaef2e700eb95de835faecc0bb802bd0c50099bf3d1abe4ea5174
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
 http://220.169.100.41:10087/udp/239.76.246.152:1234
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://www.freetv.top/migu/624878271.m3u8?migutoken=21306af96cf9259457600792df858b0d339bc7203aeb7e1a6ee6ec6ec3832a2736936029fe2583dcf971676870fdf0afbdee5be786e50af2ac6a8825673cc860d7988f44d0c5c4bc1931259698
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV2
+http://www.freetv.top/migu/631780532.m3u8?migutoken=d69d5e5f850768f4609f5e7c6f63984da2c614f71e21226d8dea3a6e40d20f871ca2d383cd042bac96e3e8178933a15192f0ffaef2e700eb95de835faecc0bb802bd0c50099bf3d1abe4ea5174
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://59.35.185.47:8188/udp/239.77.0.169:5146
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://59.35.185.47:8188/udp/239.77.1.163:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://61.149.251.202:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://www.freetv.top/migu/631780421.m3u8?migutoken=7acf39385ea80b0efa77b918418fcf998d00455e8b98e02dff92961440d989e3b7da00ef24731d327c410f2ef9ceb51e2137c20b2b606646542ce4643521747bf78b7533b3ec604bba63ffdf43
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://220.169.100.41:10087/udp/239.76.246.95:1234
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV4
+http://59.35.185.47:8188/udp/239.77.1.163:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://59.35.185.47:8188/udp/239.77.0.170:5146
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://61.149.251.202:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://59.35.185.47:8188/udp/239.77.1.31:5146
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f8566518e97cd59f827e367318341fa56132b91af956b4e1cd85f255dd26352c1e9611c76770d0ba4afaf07d71eb65ec9859b3d8239dd7806fb2b21c9410b3e062eab2fcc
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
+http://59.35.185.47:8188/udp/239.77.0.170:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
 http://59.35.185.47:8188/udp/239.77.0.87:5146
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5+
+http://59.35.185.47:8188/udp/239.77.1.31:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://59.35.185.47:8188/udp/239.77.0.171:5146
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://59.35.185.47:8188/udp/239.77.0.138:5146
+http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
 http://220.169.100.41:10087/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d
+http://59.35.185.47:8188/udp/239.77.0.138:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
 http://www.freetv.top/migu/624878356.m3u8?migutoken=e6e1b0f11b3900539ca13088ccf9da6d0a771d58a295315011db1676c607e4bfd4d2ecf8b5f89e888d98843c67f6657703a3192a098894da656341d37aaa2d4abf591b1a09d80e6fff894dd29d
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV8
@@ -215,8 +211,6 @@ http://59.35.185.47:8188/udp/239.77.0.172:5146
 http://59.35.185.47:8188/udp/239.77.0.135:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://www.freetv.top/migu/673168140.m3u8?migutoken=b6b3dff09079aa89b4ea1988e02de40fa003df2db6f755979b0c414bdfffe3225adf1ec44edf5934481e00ada14c3b23dc6e93bb72f70ed2319f17002205dc998b6ce2dde3d00bf5701f8261ec
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215bbc02fa208301259959a2d995deb9996c41b650e244fc75c3d5bae41d623bed5ba96aa38c7ea483d856771c119f74e8bb93fb60dc8304e146d0bf46405e88554d84e414
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV10
 http://59.35.185.47:8188/udp/239.77.0.134:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV11
@@ -234,15 +228,17 @@ http://59.35.185.47:8188/udp/239.77.1.161:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://59.35.185.47:8188/udp/239.77.1.239:5146
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
 http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV15
+http://59.35.185.47:8188/udp/239.77.1.239:5146
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://61.149.251.202:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://61.149.251.202:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://59.35.185.47:8188/udp/239.77.1.121:5146
+#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
+http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
 http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
@@ -484,13 +480,13 @@ http://220.169.100.41:10087/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河北卫视
 http://59.35.185.47:8188/udp/239.77.1.214:5146
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
-http://223.167.245.215:8001/rtp/239.45.0.3:5140
+http://180.154.61.39:4022/rtp/239.45.0.3:5140
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
-http://223.167.230.34:4022/rtp/239.45.0.3:5140
+http://223.167.245.215:8001/rtp/239.45.0.3:5140
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
 http://59.35.185.47:8188/udp/239.77.1.229:5146
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",河南卫视
-http://180.154.61.39:4022/rtp/239.45.0.3:5140
+http://223.167.230.34:4022/rtp/239.45.0.3:5140
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",海南卫视
 http://220.169.100.41:10087/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖北卫视
@@ -1060,51 +1056,51 @@ http://smart.cityq.xyz:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B725326287253262
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://bziyunshao.synology.me:8890/bysid/85
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
+https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
+http://bziyunshao.synology.me:8890/bysid/85
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
+http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
-https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
-https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
-http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源-1920x1080
+https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=2
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
-https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
+https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",无线新闻
+http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源-1920x1080
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",ViuTV
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天新闻
-http://cdn.iptv8k.top/dl/jspd.php?id=1
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源-1920x1080
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天新闻
+http://cdn.iptv8k.top/dl/jspd.php?id=1
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ$订阅源
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天亚洲
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",三立新闻
-https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",三立新闻
 https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",三立新闻
+https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路7』
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",东森超视
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",三立台湾
 https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",BBC
@@ -1122,14 +1118,12 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",NHK
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「英文」
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「英文」
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「英文」
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1143,8 +1137,8 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「英文」
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「阿拉伯」
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「英文」
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「阿拉伯」
 https://live-hls-aje-ak.getaj.net/AJE/02.m3u8?zshijd
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「阿拉伯」
@@ -1159,6 +1153,8 @@ https://live-hls-aje-ak.getaj.net/AJE/02.m3u8?zshijd
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「阿拉伯」
 https://live-hls-aje-ak.getaj.net/AJE/02.m3u8?zshijd
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",半岛新闻「阿拉伯」
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",RT Documentary
@@ -1482,17 +1478,17 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516d
 #EXTINF:-1 group-title="🥝精品频道🥝",第一财经
 http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
-http://220.169.100.41:10087/udp/239.76.253.110:9000
+http://61.184.46.85:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
-http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
+http://220.169.100.41:10087/udp/239.76.253.110:9000
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
 http://116.128.242.83:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",金鹰纪实
-http://61.184.46.85:9901/tsfile/live/1026_1.m3u8
-#EXTINF:-1 group-title="🥝精品频道🥝",快乐垂钓
-http://111.8.242.124:4095/tsfile/live/1047_1.m3u8
+http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 #EXTINF:-1 group-title="🥝精品频道🥝",快乐垂钓
 http://111.196.133.168:8012/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="🥝精品频道🥝",快乐垂钓
+http://111.8.242.124:4095/tsfile/live/1047_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
 http://61.184.46.85:9901/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC动作电影
@@ -1500,13 +1496,13 @@ http://220.169.100.41:10087/udp/239.76.252.243:9000
 #EXTINF:-1 group-title="🥝精品频道🥝",CHC家庭影院
 http://61.184.46.85:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="🥝精品频道🥝",JJ斗地主
-http://106.53.99.30/tv/api.php?id=jj
-#EXTINF:-1 group-title="🥝精品频道🥝",JJ斗地主
 http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="🥝精品频道🥝",JJ斗地主
-http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+http://106.53.99.30/tv/api.php?id=jj
 #EXTINF:-1 group-title="🥝精品频道🥝",JJ斗地主
 http://zzy789.xyz/douyu1.php?id=488743
+#EXTINF:-1 group-title="🥝精品频道🥝",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="🥝精品频道🥝",和平精英
 http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 group-title="🥝精品频道🥝",穿越火线
