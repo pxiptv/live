@@ -88,7 +88,6 @@ def process_part(part_str):
     part_str = part_str.replace("[720p]", "")  # 剔除 [720p]
     part_str = part_str.replace("[1080p]", "")  # 剔除 [1080p]
     part_str = part_str.replace("$1920x1080", "")  # 剔除 $1920x1080
-	part_str = part_str.replace("[1920*1080]", "")
     part_str = part_str.replace("台,http", ",http")  # 替换 台
     part_str = part_str.replace("高清,http", ",http")  # 替换 高清
     part_str = part_str.replace("标清,http", ",http")  # 替换 标清  
