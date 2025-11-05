@@ -313,10 +313,10 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-	'https://raw.bgithub.xyz/luoye20230624/hndxzb/main/iptv_list.txt',	
+	#'https://raw.bgithub.xyz/luoye20230624/hndxzb/main/iptv_list.txt',	
+	'https://raw.bgithub.xyz/Guovin/iptv-api/gd/output/result.txt',
 	'https://d.kstore.dev/download/15366/6988.txt'
 	#'https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455',
-	#'https://raw.bgithub.xyz/Guovin/iptv-api/gd/output/result.txt',
 	#'https://raw.bgithub.xyz/qq49371114/collect-tv-txt/main/live_lite.txt',
 		
 	#'https://xcz.funly.us/live.txt',
