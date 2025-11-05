@@ -124,7 +124,7 @@ def process_part(part_str):
     part_str = part_str.replace("紀實", "纪实")  # 替换
     part_str = part_str.replace(" HD", "")  # 剔除 HD
     part_str = part_str.replace("HD", "")  # 剔除 HD
-    part_str = part_str.replace("-4K", " 4K")  # 替换 -4K
+    part_str = part_str.replace("-4K", " 4K")  # 替换
     part_str = part_str.replace("𝟘", "0")  # 替换 𝟘
     part_str = part_str.replace("𝟙", "1")  # 替换 𝟙
     part_str = part_str.replace("𝟚", "2")  # 替换 𝟚
@@ -317,7 +317,7 @@ if __name__ == "__main__":
     urls = [
 	'https://raw.kkgithub.com/luoye20230624/hndxzb/main/iptv_list.txt',
 	'https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455',
-	'https://d.kstore.dev/download/15366/6988.txt',
+	'https://d.kstore.dev/download/15366/6988.txt'
 	#'https://raw.bgithub.xyz/Guovin/iptv-api/gd/output/result.txt',
 	#'https://raw.bgithub.xyz/qq49371114/collect-tv-txt/main/live_lite.txt',
 		
