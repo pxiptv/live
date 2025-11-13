@@ -79,6 +79,29 @@ def process_name_string(input_str):
 
 def process_part(part_str):
     # 处理逻辑
+    part_str = part_str.replace("CCTV-1 综合", "CCTV1")
+    part_str = part_str.replace("CCTV-2 财经", "CCTV2")
+    part_str = part_str.replace("CCTV-3 综艺", "CCTV3")
+    part_str = part_str.replace("CCTV-4 中文国际", "CCTV4")
+    part_str = part_str.replace("CCTV-5 体育", "CCTV5")
+    part_str = part_str.replace("CCTV-5+ 体育赛事", "CCTV5+")
+    part_str = part_str.replace("CCTV-6 电影", "CCTV6")
+    part_str = part_str.replace("CCTV-7 国防军事", "CCTV7")
+    part_str = part_str.replace("CCTV-8 电视剧", "CCTV8")
+    part_str = part_str.replace("CCTV-9 纪录", "CCTV9")
+    part_str = part_str.replace("CCTV-10 科教", "CCTV10")
+    part_str = part_str.replace("CCTV-11 戏曲", "CCTV11")
+    part_str = part_str.replace("CCTV-12 社会与法", "CCTV12")
+    part_str = part_str.replace("CCTV-13 新闻", "CCTV13")
+    part_str = part_str.replace("CCTV-14 少儿", "CCTV14")
+    part_str = part_str.replace("CCTV-15 音乐", "CCTV15")
+    part_str = part_str.replace("CCTV-16 奥林匹克", "CCTV16")
+    part_str = part_str.replace("CCTV-16 奥林匹克4K", "CCTV16 4K")
+    part_str = part_str.replace("CCTV-16高清", "CCTV16 4K")
+    part_str = part_str.replace("CCTV-17 农业农村", "CCTV17")
+    part_str = part_str.replace("CCTV-4K 4K", "CCTV 4K")
+    part_str = part_str.replace("CCTV-4K", "CCTV 4K")
+    part_str = part_str.replace("CCTV-4K 超高清", "CCTV 4K")
     part_str = part_str.replace("「IPV6」", "")  # 剔除 「IPV6」
     part_str = part_str.replace("IPV6", "")  # 剔除 IPV6
     part_str = part_str.replace("「IPV4」", "")  # 剔除 「IPV4」
@@ -198,31 +221,31 @@ def filter_and_save_channel_names(input_file):
 
 # 按自选频道提取待检测内容
 def filter_channels(channel_file, tv_file, output_file):
-	try:
-		with open(channel_file, 'r', encoding='utf-8') as ch_file:
-			channels = ch_file.readlines()
-		
-		with open(tv_file, 'r', encoding='utf-8') as tv_file:
-			tv_lines = tv_file.readlines()
-		
-		matched_lines = []
-		
-		for channel in channels:
-			channel = channel.strip()
-			if "#genre#" in channel:
-				continue  # 跳过包含 "#genre#" 的行
-			for tv_line in tv_lines:
-				if tv_line.startswith(channel):
-					matched_lines.append(tv_line.strip())
-		
-		with open(output_file, 'w', encoding='utf-8') as out_file:
-			for line in matched_lines:
-				out_file.write(line + '\n')
-				
-		print(f"筛选完成，共找到 {len(matched_lines)} 行匹配的内容。")
-		
-	except Exception as e:
-		print(f"发生错误：{e}")
+    try:
+        with open(channel_file, 'r', encoding='utf-8') as ch_file:
+            channels = ch_file.readlines()
+        
+        with open(tv_file, 'r', encoding='utf-8') as tv_file:
+            tv_lines = tv_file.readlines()
+        
+        matched_lines = []
+        
+        for channel in channels:
+            channel = channel.strip()
+            if "#genre#" in channel:
+                continue  # 跳过包含 "#genre#" 的行
+            for tv_line in tv_lines:
+                if tv_line.startswith(channel):
+                    matched_lines.append(tv_line.strip())
+        
+        with open(output_file, 'w', encoding='utf-8') as out_file:
+            for line in matched_lines:
+                out_file.write(line + '\n')
+                
+        print(f"筛选完成，共找到 {len(matched_lines)} 行匹配的内容。")
+        
+    except Exception as e:
+        print(f"发生错误：{e}")
         
 # 写入文件内容 1
 def write_txt_file(file_path, lines):
@@ -315,21 +338,21 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-	'https://raw.githubusercontent.com/luoye20230624/hndxzb/main/iptv_list.txt',
-	'https://raw.githubusercontent.com/luoye20230624/hndxzb/main/广东_电信_组播.txt',
-	'https://raw.githubusercontent.com/ncnc8388/genxinxia/main/fg.m3u',
-	'https://d.kstore.dev/download/15366/6988.txt'
-	#'https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt',
-	#'https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455',
-	#'https://raw.githubusercontent.com/qq49371114/collect-tv-txt/main/live_lite.txt',
-		
-	#'https://xcz.funly.us/live.txt',
-	#'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
-	#'https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt',
-	#'https://raw.githubusercontent.com/lc529180405/caicai/main/%E6%9E%81%E8%A7%86%E8%A7%A3%E5%AF%86.txt',
+    'https://raw.githubusercontent.com/luoye20230624/hndxzb/main/iptv_list.txt',
+    'https://raw.githubusercontent.com/luoye20230624/hndxzb/main/%E5%B9%BF%E4%B8%9C_%E7%94%B5%E4%BF%A1_%E7%BB%84%E6%92%AD.txt',
+    'https://raw.githubusercontent.com/ncnc8388/genxinxia/main/fg.m3u',
+    'https://d.kstore.dev/download/15366/6988.txt'
+    #'https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt',
+    #'https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455',
+    #'https://raw.githubusercontent.com/qq49371114/collect-tv-txt/main/live_lite.txt',
+        
+    #'https://xcz.funly.us/live.txt',
+    #'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
+    #'https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt',
+    #'https://raw.githubusercontent.com/lc529180405/caicai/main/%E6%9E%81%E8%A7%86%E8%A7%A3%E5%AF%86.txt',
     #'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
-	#'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
-	#'https://raw.githubusercontent.com/250992941/iptv/main/st1.txt',
+    #'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
+    #'https://raw.githubusercontent.com/250992941/iptv/main/st1.txt',
     #'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
     #'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
     #'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
