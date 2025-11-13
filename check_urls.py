@@ -79,31 +79,8 @@ def process_name_string(input_str):
 
 def process_part(part_str):
     # 处理逻辑
-	part_str = part_str.replace("CCTV-1 综合", "CCTV1")
-	part_str = part_str.replace("CCTV-2 财经", "CCTV2")
-	part_str = part_str.replace("CCTV-3 综艺", "CCTV3")
-	part_str = part_str.replace("CCTV-4 中文国际", "CCTV4")
-	part_str = part_str.replace("CCTV-5 体育", "CCTV5")
-	part_str = part_str.replace("CCTV-5+ 体育赛事", "CCTV5+")
-	part_str = part_str.replace("CCTV-6 电影", "CCTV6")
-	part_str = part_str.replace("CCTV-7 国防军事", "CCTV7")
-	part_str = part_str.replace("CCTV-8 电视剧", "CCTV8")
-	part_str = part_str.replace("CCTV-9 纪录", "CCTV9")
-	part_str = part_str.replace("CCTV-10 科教", "CCTV10")
-	part_str = part_str.replace("CCTV-11 戏曲", "CCTV11")
-	part_str = part_str.replace("CCTV-12 社会与法", "CCTV12")
-	part_str = part_str.replace("CCTV-13 新闻", "CCTV13")
-	part_str = part_str.replace("CCTV-14 少儿", "CCTV14")
-	part_str = part_str.replace("CCTV-15 音乐", "CCTV15")
-	part_str = part_str.replace("CCTV-16 奥林匹克", "CCTV16")
-	part_str = part_str.replace("CCTV-16 奥林匹克4K", "CCTV16 4K")
-	part_str = part_str.replace("CCTV-16高清", "CCTV16 4K")
-	part_str = part_str.replace("CCTV-17 农业农村", "CCTV17")
-	part_str = part_str.replace("CCTV-4K 4K", "CCTV 4K")
-	part_str = part_str.replace("CCTV-4K", "CCTV 4K")
-	part_str = part_str.replace("CCTV-4K 超高清", "CCTV 4K")
-    part_str = part_str.replace("「IPV6」", "")
-    part_str = part_str.replace("IPV6", "")
+    part_str = part_str.replace("「IPV6」", "")  # 剔除 「IPV6」
+    part_str = part_str.replace("IPV6", "")  # 剔除 IPV6
     part_str = part_str.replace("「IPV4」", "")  # 剔除 「IPV4」
     part_str = part_str.replace("IPV4", "")  # 剔除 IPV4 
     part_str = part_str.replace("[V4]", "")  # 剔除 [V4]
