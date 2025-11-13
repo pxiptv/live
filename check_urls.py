@@ -102,8 +102,8 @@ def process_part(part_str):
 	part_str = part_str.replace("CCTV-4K 4K", "CCTV 4K")
 	part_str = part_str.replace("CCTV-4K", "CCTV 4K")
 	part_str = part_str.replace("CCTV-4K 超高清", "CCTV 4K")
-    part_str = part_str.replace("「IPV6」", "")  # 剔除 「IPV6」
-    part_str = part_str.replace("IPV6", "")  # 剔除 IPV6
+    part_str = part_str.replace("「IPV6」", "")
+    part_str = part_str.replace("IPV6", "")
     part_str = part_str.replace("「IPV4」", "")  # 剔除 「IPV4」
     part_str = part_str.replace("IPV4", "")  # 剔除 IPV4 
     part_str = part_str.replace("[V4]", "")  # 剔除 [V4]
