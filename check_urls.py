@@ -116,6 +116,7 @@ def process_part(part_str):
     part_str = part_str.replace("台,http", ",http")  # 替换 台
     part_str = part_str.replace("高清,http", ",http")  # 替换 高清
     part_str = part_str.replace("标清,http", ",http")  # 替换 标清  
+    part_str = part_str.replace("超清,http", ",http")  # 替换 超清
     part_str = part_str.replace("視", "视")  # 替换
     part_str = part_str.replace("聞", "闻")  # 替换
     part_str = part_str.replace("衛", "卫")  # 替换
