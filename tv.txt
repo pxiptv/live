@@ -1,482 +1,482 @@
-中视闽南,https://smt.858.qzz.io/Smart.php?id=zhongshihd_twn
-CCTV5,https://migu.188766.xyz/?migutoken=8c596235c383b8d21a8db06fa3a6341f&id=CCTV5&type=yy
-CETV-4,https://migu.188766.xyz/?migutoken=04259a9653232bbb046edf872607f824&id=CETV4&type=yy
-天映闽特,https://smt.858.qzz.io/Smart.php?id=Celestialindo
-咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=BingCha
-中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-咪咕直播 18,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk $6163189
-山东教育,https://migu.188766.xyz/?migutoken=abf4061673d1f7fbea9a7aa528239522&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$cdn6163189
-四海钓鱼,https://migu.188766.xyz/?migutoken=64aecbd48db04e8f2a4f8deb72b131fc&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-精美,https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
-深圳少儿,http://ha.m-too.top:8333/udp/239.77.1.244:5146
-咪咕直播 27,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-湖北卫视,https://migu.188766.xyz/?migutoken=288b192300b89db840e4c9928a5de8b4&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
-上海都市,https://migu.188766.xyz/?migutoken=ec3a7e4a2fe225cda4f096cfaeb1c8ab&id=shds&type=sz
-龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
-混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-台视新闻,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-经典香港电影,https://migu.188766.xyz/?migutoken=c4fe67043eca43b86dd1c9eef43fed76&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
-咪咕直播 7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-台视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
-内蒙古卫视,https://migu.188766.xyz/?migutoken=df2081409752001dae3bff9d4c3ecd73&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-咪咕直播 7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=BingCha
-咪咕直播 9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=BingCha
-AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中学生,https://migu.188766.xyz/?migutoken=e9ba17a855d3e569fd733d583d1dcb43&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
-湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000195952/main.m3u8?stbid=
-咪咕直播 11,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=BingCha
-华视,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-华视,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
-咪咕直播 37,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-环球旅游,https://migu.188766.xyz/?migutoken=6383906bf92e4c16f37061e4d18d3c13&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
-咪咕直播 24,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=BingCha
-浙江卫视,https://migu.188766.xyz/?migutoken=1e4b588eba92db60c24f8d458cf44f79&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-广东体育,https://hk.188766.xyz/?migutoken=4f76ab8f5d9b667495d490be2d71c40b&id=gd_gdty&type=sz
-翡翠台4K,https://migu.188766.xyz/?migutoken=f5d3ddc45a607cb46f85565d6002e6fe&id=hk_fct4k&type=dy
-CCTV5,https://migu.188766.xyz/?migutoken=27cb71aa8c5613fa445122fc0f66fa66&id=CCTV5&type=yy
-咪咕直播 12,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=BingCha
-咪咕直播 11,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-北京财经,https://migu.188766.xyz/?migutoken=08eb51eb586c2f19179cc1f1f50cbd15&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
-民视台湾,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
-CCTV3,https://migu.188766.xyz/?migutoken=c6891ddd9767e0c9f9b0f9a3aaf90c8b&id=CCTV3&type=yy
-深圳财经生活,http://sub.mtoo.vip:8333/udp/239.77.1.242:5146
-凤凰资讯,https://migu.188766.xyz/?migutoken=902dd46104f7da4e91108d392b281213&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=0c151f885334200f0142117a9e167f8c&id=fhhk&pp=1
-澳视澳门,https://migu.188766.xyz/?migutoken=ce19ac7ba26536bfb8a71fa37e934d32&id=hk_asam&type=dy
-变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-翡翠台,https://migu.188766.xyz/?migutoken=04145df78ef83eef5b830ef166351e04&id=hk_fct&type=dy
-3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
-CCTV14,https://migu.188766.xyz/?migutoken=fad1feedb99d17fc8ec110df724186d3&id=CCTV14&type=yy
-裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
-Now新闻台,https://migu.188766.xyz/?migutoken=c279dda66e730c35558e092884fdb1dc&id=hk_now&type=dy
-金鹰卡通,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197678/main.m3u8?stbid=
-CCTV4,https://migu.188766.xyz/?migutoken=e6a7be05ac76970c85926ce47a4d9c16&id=CCTV4&type=yy
-天映粤特,https://smt.858.qzz.io/Smart.php?id=ctv18_twn
-咪咕直播 15,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-八大戏剧,https://smt.858.qzz.io/Smart.php?id=badadrama
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-华视新闻,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
-咪咕直播 13,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-深圳财经生活,http://rfx2018.55555.io:2345/udp/239.77.1.242:5146
-24小时全运会轮播台,https://migu.188766.xyz/?migutoken=390092c18ab2663c01bd3673f0e7b57e&id=24%E5%B0%8F%E6%97%B6%E5%85%A8%E8%BF%90%E4%BC%9A%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-CHC影迷电影,https://migu.188766.xyz/?migutoken=17dbea27400b3a52b0cb191a4c0e360c&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
-CCTV12,https://migu.188766.xyz/?migutoken=ed40b34faedf6d9fa8120a05c837f693&id=CCTV12&type=yy
-咪咕直播 3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-广东卫视,https://migu.188766.xyz/?migutoken=6f089ea86b898d859145b20935c97f9a&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-海南自贸,https://migu.188766.xyz/?migutoken=beec1959be0a880b810bacb4e163cf97&id=hn_jjpd&type=sz
-海南公共,https://migu.188766.xyz/?migutoken=f0847bed79e9884dd8a68703fa66a0a8&id=hn_ggpd&type=sz
-江西卫视,https://migu.188766.xyz/?migutoken=8e783e5cf54c7552bb4c7aecbeae7d40&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-咪咕直播 18,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=BingCha
-八大娱乐,https://smt.858.qzz.io/Smart.php?id=badaentertain
-中天综合,https://smt.858.qzz.io/Smart.php?id=ctizhonghe
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
-五星体育,https://migu.188766.xyz/?migutoken=f044e1c97db7c6da6135c112a2f5b2e3&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
-北京文艺,https://migu.188766.xyz/?migutoken=21205b0d48327474f375914bcb4258b1&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
-年代新闻,https://smt.858.qzz.io/Smart.php?id=niandainews_twn
-新动漫,https://migu.188766.xyz/?migutoken=93bd3c77111df89aee50a29a9ae5f4f7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
-海南新闻,https://migu.188766.xyz/?migutoken=eba2690cfed80593f94e1b4bfc93872c&id=hn_xwpd&type=sz
-河南新闻,https://migu.188766.xyz/?migutoken=5327b4a22e09b0afac935d7f2f2fe5f7&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
-中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-寰宇新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
-咪咕直播 16,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-咪咕直播 29,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-广东少儿,https://hk.188766.xyz/?migutoken=4f157dcc315f0d0e2aa44148734b97bb&id=gd_gdse&type=sz
-重温经典,https://other.ottiptv.cc/cwjd.m3u8
-咪咕直播 15,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=BingCha
-广东珠江,https://hk.188766.xyz/?migutoken=b00b6ff84a772861fd2eef05ec12982d&id=gd_gdzj&type=sz
-CCTV15,https://migu.188766.xyz/?migutoken=0d9a225defe44aff2149561898573a77&id=CCTV15&type=yy
-凤凰资讯,https://migu.188766.xyz/?migutoken=9b308c31f6f659e7ee7bc6bb4b3cfff9&id=fhzx&pp=1
-探索亚洲,https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
-河南法治,https://migu.188766.xyz/?migutoken=053a0c7008b40732cd7bdaa558231f1e&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
-无线新闻,http://stream-ali1.csslcloud.net:80/live/hktv-09ali23.flv
-广东民生,https://hk.188766.xyz/?migutoken=3b398c7bf11291e824490d68c4fd0990&id=gd_gdms&type=sz
-订阅地址的密码不正确_已隐藏,https://188766.xyz/dong
-CCTV8,https://migu.188766.xyz/?migutoken=8a0286a4ddfe3a0094414176b502c024&id=CCTV8&type=yy
-咪咕直播 17,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=BingCha
-湖南国际,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197677/main.m3u8?stbid=
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-24小时城市联赛轮播台,https://migu.188766.xyz/?migutoken=d806a01bd19a648a46e2b21acf53b09e&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-大爱贰台,https://smt.858.qzz.io/Smart.php?id=daai2_twn
-寰宇新闻,http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
-深圳都市,http://sub.mtoo.vip:8333/udp/239.77.1.176:5146
-上海新闻综合,https://migu.188766.xyz/?migutoken=e7e694e1067934e8f5a43862f1fd7aff&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-咪咕直播 16,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=BingCha
-咪咕直播 35,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=BingCha
-民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
-中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
-寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-HOY77,https://mgev.188766.xyz/?migutoken=4e129c0a21865912d96b7afe33204a1d&id=hk_hoy&type=dy
-中天娱乐,https://smt.858.qzz.io/Smart.php?id=ctient
-咪咕直播 21,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=BingCha
-深圳少儿,http://sub.mtoo.vip:8333/udp/239.77.1.244:5146
-咪咕直播 10,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=BingCha
-咪咕直播 26,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-中天亚洲,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
-大湾区卫视,https://migu.188766.xyz/?migutoken=81d06edbda25811f07fc2923a024fddf&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
-江苏卫视,https://migu.188766.xyz/?migutoken=23acff0ff0ecaef3d340a1a4e7d9ef67&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-TVB星河,https://migu.188766.xyz/?migutoken=fa5509d3453723e42e49f4187e199f7c&id=hk_tvbxh&type=dy
-非凡新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
-翡翠台,https://migu.188766.xyz/?migutoken=6ff40ca6e9a458a448fdb09a33919405&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=BingCha
-公视台语,https://smt.858.qzz.io/Smart.php?id=ctv2_twn
-武术世界,https://migu.188766.xyz/?migutoken=2590a054b1130b84a770f6d2603454a7&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
-卡酷少儿,https://migu.188766.xyz/?migutoken=f9fe439c655b7bd8b6fc5d6fe3ee6748&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-CCTV10,https://migu.188766.xyz/?migutoken=8b89795de1cc74318bf5c6293a4d6fa0&id=CCTV10&type=yy
-深圳少儿,http://rfx2018.55555.io:2345/udp/239.77.1.244:5146
-CCTV11,https://migu.188766.xyz/?migutoken=928b715caf282de3d57af8064343951d&id=CCTV11&type=yy
-变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 优漫卡通,https://migu.188766.xyz/?migutoken=d4241c87a5963cf1f845a5031176e3c7&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
-明珠台,https://mgev.188766.xyz/?migutoken=26c12108aa24cb805ba07dd2114be961&id=hk_mzt&type=dy
-咪咕直播 14,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=BingCha
-新动力量创一流,https://migu.188766.xyz/?migutoken=05262d27e94b0449c1e261e5dc3eb478&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
-CH8,https://mgev.188766.xyz/?migutoken=fa65a57db4651a2f32b0e08edc41b273&id=hk_ch8&type=dy
-民视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
-湖南教育,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8?stbid=
-抗战经典影片,https://migu.188766.xyz/?migutoken=1c0df48d1d46249f86d41fc08a2910c4&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
-AstroMTV,https://smt.858.qzz.io/Smart.php?id=AstroMTV
-CCTV10,https://migu.188766.xyz/?migutoken=a6ea9919efff70e8b58dbf6352764b65&id=CCTV10&type=yy
-CHU,https://mgev.188766.xyz/?migutoken=989bc5c30af54e60acfffc9de3c15fac&id=hk_chu&type=dy
-内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-亚洲旅游,https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
-CH5,https://mgev.188766.xyz/?migutoken=33b53b392a49f6399b02e3609e0438c5&id=hk_ch5&type=dy
-华视闽南,https://smt.858.qzz.io/Smart.php?id=ctshd_twn
-农林卫视,https://migu.188766.xyz/?migutoken=b30d111cb1949ba27d8adc029e22b764&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-东森综合,https://smt.858.qzz.io/Smart.php?id=ettvzhonghe
-中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-中天新闻,http://jnzq.ohoyee.com:9080/live/fc.m3u8
-纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
-长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-天映国特,https://smt.858.qzz.io/Smart.php?id=Celestial
-咪咕直播 4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-CCTV13,https://migu.188766.xyz/?migutoken=f2da258e6735fdb1f0c223b11149efa1&id=CCTV13&type=yy
-陕西卫视,https://migu.188766.xyz/?migutoken=7db4ee466ac1acc7ca548fef57495403&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-凤凰香港,https://migu.188766.xyz/?migutoken=8ea86101844c05d6675be46a790325aa&id=hkphoenix_twn&type=dy
-3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-咪咕直播 6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=BingCha
-和美乡途轮播台,https://migu.188766.xyz/?migutoken=e7ab88abf78506259691c3ec301bb44b&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=BingCha
-民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
-咪咕直播 30,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
-老故事,https://migu.188766.xyz/?migutoken=06c558d13829a248c47d83b98331d148&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
-咪咕直播 25,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-东森新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-北京新闻,https://migu.188766.xyz/?migutoken=15f60cb05f3423b19a424d3d3b83fc12&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
-寰宇财经,https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
-司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
-龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
-咪咕直播 17,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-咪咕直播 26,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=BingCha
-东方卫视,https://migu.188766.xyz/?migutoken=ee72e71131bb44ca0cb5afb0de13fed4&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
-咪咕直播 10,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-上海魔都眼,https://migu.188766.xyz/?migutoken=f872e7167dcf028b510c2d874cbf54b1&id=mdy&type=sz
-民视新闻,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx $6163189
-中视,http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
-咪咕直播 30,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=BingCha
-最强综艺趴,https://migu.188766.xyz/?migutoken=f3f9ae3082ecd1cc38646309aea73746&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
-中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-吉林卫视,https://migu.188766.xyz/?migutoken=51534e92696fee1c1f11a88f42af3e2d&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-无线翡翠,https://smt.858.qzz.io/Smart.php?id=jade_twn
-CETV-1,https://migu.188766.xyz/?migutoken=51c979a980ff4e989ead2ac0c4a863d5&id=CETV1&type=yy
-凤凰中文,https://migu.188766.xyz/?migutoken=866341f35ab82e48dea654d12b6e5881&id=hk_fhzw&type=dy
-3D5,https://vd2.bdstatic.com/mda-kkfx81ffgjvk2qja/v1-cae/sc/mda-kkfx81ffgjvk2qja.mp4
-湖南卫视,https://migu.188766.xyz/?migutoken=ae73ef66bd109f114cf569d2220a3797&id=hnws&type=sz
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-民视闽南,https://smt.858.qzz.io/Smart.php?id=ftvhd_taiwan
-咪咕直播 31,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=BingCha
-河南都市,https://migu.188766.xyz/?migutoken=87d6ffc4f62c975c102b4be18a8ea675&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
-东森电影,https://smt.858.qzz.io/Smart.php?id=ettvmovie
-BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-哈哈炫动,https://migu.188766.xyz/?migutoken=01363b623653eb7eac6289120ea9fb77&id=hhxd&type=sz
-千里江山图,https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
-民视台湾,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
-新片放映厅,https://migu.188766.xyz/?migutoken=d7e8724f92c9d877db17f027bd7ab1f1&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
-无线新闻,https://migu.188766.xyz/?migutoken=6d40ea4a8dd9f18c5bfbddaf30a8e3b9&id=hk_wxxw&type=dy
-广东体育,http://sub.mtoo.vip:8333/udp/239.77.0.168:5146
-CCTV7,https://migu.188766.xyz/?migutoken=5d5172943342247b1cb222a9ac5fc466&id=CCTV7&type=yy
-广东体育,https://mgev.188766.xyz/?migutoken=adc89b1e857930955cba95be68079f7d&id=gd_gdty&type=sz
-玩家,https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
-南方影视,https://migu.188766.xyz/?migutoken=c2a47996eeff4e71e141e5d938eae2e5&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-小丑,https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
-四海钓鱼,https://migu.188766.xyz/?migutoken=79dede8f85cb227af59d0501e2a08bf4&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 CCTV17,https://migu.188766.xyz/?migutoken=2d1bdb0dad80b47e7c90052c3df56b35&id=CCTV17&type=yy
-X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
-CCTV2,https://migu.188766.xyz/?migutoken=579981f6c852e250e5d5ff746e20c1da&id=CCTV2&type=yy
-明珠台,https://migu.188766.xyz/?migutoken=2cd4c549faf4bb0b9d50f4547a25aa13&id=pearl_twn&type=dy
-3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
-江苏卫视,https://migu.188766.xyz/?migutoken=32b6e40243e3018caba1eece9824470d&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-三沙卫视,https://migu.188766.xyz/?migutoken=94d4cba38ba093b91ba52809e0b8eb46&id=hn_ssws&type=sz
-StarMovies,https://smt.858.qzz.io/Smart.php?id=starmovies_raj
-赛事最经典,https://migu.188766.xyz/?migutoken=c0d319c18ed7b6529609353cccc51c18&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
-三立戏剧,https://smt.858.qzz.io/Smart.php?id=sanlixiju_twn
-无线娱乐,https://smt.858.qzz.io/Smart.php?id=Tvbentertainment
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
-变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
-咪咕直播 19,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-湖北卫视,https://migu.188766.xyz/?migutoken=8406a166fcb56b8ddf84e2efc0a5db82&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
-HitsMovie,https://smt.858.qzz.io/Smart.php?id=Hitsmovie
-咪咕直播 29,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=BingCha
-TVBS新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
-咪咕直播 5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=BingCha
-东森新闻,http://xtvantsc.xyz/Smart.php?id=ettvnews
-非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
-澳视澳门,https://mgev.188766.xyz/?migutoken=a7333c42a8566a97fd6a6d65b2ea0178&id=hk_asam&type=dy
-深圳龙岗,http://rfx2018.55555.io:2345/udp/239.77.1.223:5146
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-现代教育,https://hk.188766.xyz/?migutoken=0b5892764cbd25dd073f39a52f5f7563&id=gd_xdjy&type=sz
-咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-咪咕直播 22,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-免费分享_用爱发电_拒绝贩卖_只有TG群,https://188766.xyz/qiu
-咪咕直播 34,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-中视新闻,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
-凤凰中文,https://mgev.188766.xyz/?migutoken=3267cd6151f58a4919b93c0e63f69337&id=fhzw&pp=1
-台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
-中视新闻,https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
-功夫,https://mgev.188766.xyz/?migutoken=1b4f95fca82e00cea81377e4f4c0427e&id=hk_yzwx&type=dy
-深圳宝安,http://rfx2018.55555.io:2345/udp/239.77.1.67:5146
-茶频道,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8?stbid=
-咪咕直播 19,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=BingCha
-湖南爱晚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197676/main.m3u8?stbid=
-星河,https://mgev.188766.xyz/?migutoken=61ac899bc2b82d3812cda8e638a2dd5c&id=hk_tvbxh&type=dy
-三立综合,https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
-内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-咪咕直播 36,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-咪咕直播 20,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=BingCha
-咪咕直播 6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-嘉佳卡通,https://hk.188766.xyz/?migutoken=98a268ca7ed253252e661dd80c3d01cf&id=gd_jjkt&type=sz
-钢铁侠,https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
-生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-天映经典,https://smt.858.qzz.io/Smart.php?id=Celestial2
-CCTV4,https://migu.188766.xyz/?migutoken=c228696a8c2f743d3ef216f344a98977&id=CCTV4&type=yy
-凤凰资讯,https://migu.188766.xyz/?migutoken=5a850debc67f6090a63d625e8a4b9764&id=phoenixinfo_hd&type=dy
-CH5,https://migu.188766.xyz/?migutoken=743ae3a1579b552141abb1ec825c5f86&id=hk_ch5&type=dy
-咪咕直播 13,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=BingCha
-咪咕直播 8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=BingCha
-Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
-中天亚洲,https://smt.858.qzz.io/Smart.php?id=ctiasia_twn
-上视东方影视,https://migu.188766.xyz/?migutoken=4d2b40468ed2c79d964dd96c94b6f79e&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-上海新纪实,https://migu.188766.xyz/?migutoken=a7021f5982b5d2c5ee77a391400be3fc&id=jsrw&type=sz
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw $6163189
-凤凰香港,https://migu.188766.xyz/?migutoken=d88da94088e229852fad7e3b27e37c04&id=hk_fhhk&type=dy
-体坛名栏汇,https://migu.188766.xyz/?migutoken=2768b1a1879cd3b648303b5b3ef4e19c&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
-翡翠台,https://migu.188766.xyz/?migutoken=af18bef2634b43fa854485eefdd5a91d&id=jade_twn&type=dy
-咪咕直播 4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=BingCha
-咪咕直播 28,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=BingCha
-海南文旅,https://migu.188766.xyz/?migutoken=5e91cb216f18f333b20e06b522a3b2e8&id=hn_wlpd&type=sz
-咪咕直播 5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-北京生活,https://migu.188766.xyz/?migutoken=219dc0139ef627fe3cd5118b40d036b1&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
-河南民生,https://migu.188766.xyz/?migutoken=daefa9d5d143be09ecd144cb569b0f84&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
-第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-木叶上忍的究极对决,https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
-裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-岭南戏曲,https://hk.188766.xyz/?migutoken=922b74ca78e2b699b1cce60ff6dff7ee&id=gd_lnxq&type=sz
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-非凡新闻,https://smt.858.qzz.io/Smart.php?id=feifannews_twn
-咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-八大综合,https://smt.858.qzz.io/Smart.php?id=badazhonghe
-深圳都市,http://ha.m-too.top:8333/udp/239.77.1.176:5146
-茶,https://migu.188766.xyz/?migutoken=cf37e7558be800add0c6a6a0aed746f1&id=%E8%8C%B6&type=yy
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
-咪咕直播 20,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-青海卫视,https://migu.188766.xyz/?migutoken=055934c46e0598815d09fce07b763bd0&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
-兵团卫视,https://migu.188766.xyz/?migutoken=a30c3a7d0e33e403ebf88caf1f7be5e9&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
-咪咕直播 23,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=BingCha
-北京纪实科教,https://migu.188766.xyz/?migutoken=470a791f1209f7dfd7d97189adae264a&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
-民视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-民视新闻,https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
-体坛名栏汇,https://migu.188766.xyz/?migutoken=d61bc9415bae5920e5eadbc2b582e4ce&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
-
-CCTV17,https://migu.188766.xyz/?migutoken=2f35c22bcc0bf8ec4d5df35fda777766&id=CCTV17&type=yy
-财富天下,https://migu.188766.xyz/?migutoken=95d84c04f534af5c6012cbdc4769a2d7&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
-三立闽南,https://smt.858.qzz.io/Smart.php?id=sanlitaiwan
-中视,http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
-奸商太多_冰茶体育已隐藏_进群获取密码,https://188766.xyz/dong
-咪咕直播 34,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=BingCha
-五星体育,https://migu.188766.xyz/?migutoken=620130424908240d558f82f6040f19d4&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-咪咕直播 22,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=BingCha
-咪咕直播4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
-东方卫视,https://migu.188766.xyz/?migutoken=b4f30afa875eb7c3050026c2f5668021&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
-无线新闻,https://migu.188766.xyz/?migutoken=38eea02778765b91accfcc9b762c37a5&id=inews_twn&type=dy
-广东影视,https://hk.188766.xyz/?migutoken=8037257158fa2cd7a2ffc86df4067a14&id=gd_gdys&type=sz
-咪咕直播 31,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-翡翠台4K,https://mgev.188766.xyz/?migutoken=25ab7412f68a1fe0be47cab55b853e8e&id=hk_fct4k&type=dy
-大湾区卫视,https://migu.188766.xyz/?migutoken=6d6f3724c8dd08f1956dbfe524d4c2d0&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=85fccb710060e734ed36c45940532bff&id=fhzx&pp=1
-中视经典,https://smt.858.qzz.io/Smart.php?id=zhongshi_twn
-纬来综合,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
-江西卫视,https://migu.188766.xyz/?migutoken=8e7e43f88dc06a1f0d9667b237b7c60e&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-CCTV1,https://migu.188766.xyz/?migutoken=50b17da85782ad968983c2746a3ecf59&id=CCTV1&type=yy
-寰宇新闻,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
-广东生活频道,https://hk.188766.xyz/?migutoken=6cfb7bb1f11cf8d04e2d579dcd5374d4&id=gd_gdsh&type=sz
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-八度空间,https://mgev.188766.xyz/?migutoken=995732114e25b4efe8cbc0b8de67d8b7&id=hk_8tv&type=dy
-深圳都市,http://rfx2018.55555.io:2345/udp/239.77.1.176:5146
-12月09日_咪咕老封号_咪咕体育看咪视界,https://188766.xyz/yu
-咪咕直播 3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=BingCha
-咪咕直播 8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
- Plus,https://mgev.188766.xyz/?migutoken=eeb234e3f649f1d335e1e2c14e3f9438&id=hk_tvbp&type=dy
-TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
-CCTV9,https://migu.188766.xyz/?migutoken=e25de42a224e642a3594b1e93cf3ed1b&id=CCTV9&type=yy
-河南卫视,https://migu.188766.xyz/?migutoken=5c56f9fe9f7d7cefdf261569960c940b&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
-内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
-东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
-CCTV5+,https://migu.188766.xyz/?migutoken=c079a5251fc80c1d24fc1dcc7fd22857&id=CCTV5p&type=yy
-CETV-2,https://migu.188766.xyz/?migutoken=6db919448ebf1a239e0410afa2303634&id=CETV2&type=yy
-咪咕直播 25,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=BingCha
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-CCTV2,https://migu.188766.xyz/?migutoken=7841b8adc4bcfdcca35794067f014d25&id=CCTV2&type=yy
-头号玩家,https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
-咪咕直播 38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-EYE-旅游,https://smt.858.qzz.io/Smart.php?id=eyetvtravel_twn
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-24小时城市联赛轮播台,https://migu.188766.xyz/?migutoken=66bbfae74c62c2f889831e58abef93e6&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-CCTV5+,https://migu.188766.xyz/?migutoken=d2cd1916deb6f266df065efa10cb9dc4&id=CCTV5p&type=yy
-Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
-CHU,https://migu.188766.xyz/?migutoken=6e8e543491f6cced998cf2447e869807&id=hk_chu&type=dy
-CCTV14,https://migu.188766.xyz/?migutoken=feb129122007256f7d5c543638f3c2bb&id=CCTV14&type=yy
-广东体育,http://rfx2018.55555.io:2345/udp/239.77.0.168:5146
-咪咕直播 2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=BingCha
-StarmaaMovies,https://smt.858.qzz.io/Smart.php?id=starmaamovies_raj
-EYE-戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
-咪咕直播 24,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-经典动画大集合,https://migu.188766.xyz/?migutoken=b834ee1d152d0994627515de1d76fd18&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
-AXN电影,https://smt.858.qzz.io/Smart.php?id=axn_twn
-3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-海南卫视,https://migu.188766.xyz/?migutoken=14faabef39292696f0a771e42955d81a&id=hn_hnws&type=sz
-台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
-八度空间,https://migu.188766.xyz/?migutoken=dabecf5b3f67ce286f4c60ac66b74f89&id=hk_8tv&type=dy
-凤凰中文,https://migu.188766.xyz/?migutoken=dafea9a89f8759bcd04edfafc63b435d&id=fhzw&pp=1
-东森新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
-咪咕直播 27,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=BingCha
-咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
-MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
-河南象视界,https://migu.188766.xyz/?migutoken=8d3caabc4bd3adb692a4d2de29ed76dd&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
-咪咕直播 2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-明珠台,https://migu.188766.xyz/?migutoken=bc0f802ab684ad9377fe77a79c51de79&id=hk_mzt&type=dy
-广东新闻,https://hk.188766.xyz/?migutoken=214dbf3989784d885df65b0230002953&id=gd_gdxw&type=sz
-翡翠台,https://mgev.188766.xyz/?migutoken=e027bbfbfe02bc36b72bd848539f8922&id=hk_fct&type=dy
-河南卫视,https://migu.188766.xyz/?migutoken=28652f0b3fb8db15e81f1b23084b9edf&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-河南梨园,https://migu.188766.xyz/?migutoken=b9c78e38afa144624e735df2c420fbd3&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
-咪咕直播 35,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-美亚电影,https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
-五星体育,https://other.ottiptv.cc/wxty.m3u8
-广东移动,https://hk.188766.xyz/?migutoken=17e5fde88cbfc55f965316a9ac9e793c&id=gd_gdyd&type=sz
-咪咕直播 21,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-咪咕直播 9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-东森新闻,https://smt.858.qzz.io/Smart.php?id=ettvnews
-湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197673/main.m3u8?stbid=
-TVB Plus,https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
-台视,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
-无线翡翠,https://smt.858.qzz.io/Smart.php?id=Tvbjade
-咪咕直播 38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=BingCha
-咪咕直播 23,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-深圳财经生活,http://ha.m-too.top:8333/udp/239.77.1.242:5146
-凤凰香港,https://migu.188766.xyz/?migutoken=407dc0f7365332e4297cc4be4e80ab8b&id=fhhk&pp=1
-咪咕直播 14,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
-视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
-内蒙古卫视,https://migu.188766.xyz/?migutoken=b5858e0646147a6473f2d100c4c3eb88&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-辽宁卫视,https://migu.188766.xyz/?migutoken=ab330788c285a4cf92446a7e0a05fcc2&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
-广东体育,https://migu.188766.xyz/?migutoken=876ba7ce56e93fab5f437cc5090ca91c&id=hk_gdty&type=dy
-Fox Weather,https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-海南卫视,https://migu.188766.xyz/?migutoken=9e2e9770c38fd57761d105d3603a9ed1&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-武术世界,https://migu.188766.xyz/?migutoken=91cb303749b86ffb841b9767648bc003&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
-湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197674/main.m3u8?stbid=
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$cdn6163189
-咪咕直播 4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-咪咕直播 12,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-浙江卫视,https://migu.188766.xyz/?migutoken=59e99918a255463297aa2b79d8c52ff6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-大爱壹台,https://smt.858.qzz.io/Smart.php?id=daai_twn
-功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
-CCTV6,https://migu.188766.xyz/?migutoken=095457749dc05a731a395617ab04949c&id=CCTV6&type=yy
-变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
 内蒙古农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
-河南电视剧,https://migu.188766.xyz/?migutoken=7088fd85b301cd242018a82423d6847f&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
-陕西卫视,https://migu.188766.xyz/?migutoken=348346c58b70eb6b07e01732b72d7213&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-河南公共,https://migu.188766.xyz/?migutoken=d74a5fdc21de1ef01c5076ac4fd8cea3&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
-华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-发现之旅,https://migu.188766.xyz/?migutoken=033fbfe69cbc0a5b6a7847060925d184&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
-河南文物宝库,https://migu.188766.xyz/?migutoken=9beb48b75666402d709b4083ff451068&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
-纬来日本,https://smt.858.qzz.io/Smart.php?id=videolandjapan
-不同国家,https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
-河南武术,https://migu.188766.xyz/?migutoken=c6e03c4afddce3e3f445bb5611ac3565&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-中天新闻,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-广东体育,http://ha.m-too.top:8333/udp/239.77.0.168:5146
-CCTV1,https://migu.188766.xyz/?migutoken=058116fbb26e8951fe2155c9a751d905&id=CCTV1&type=yy
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000196987/main.m3u8?stbid=
-大橘,https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
-华视新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
-非凡新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
-CCTV9,https://migu.188766.xyz/?migutoken=9152adb8c108dfd57350f0155411384d&id=CCTV9&type=yy
-海南少儿,https://migu.188766.xyz/?migutoken=519f6c1061e52ecf0cddc7d92ab0273d&id=hn_sepd&type=sz
-上海第一财经,https://migu.188766.xyz/?migutoken=84295a311c1712b1997c5871981f993a&id=dycj&type=sz
-嘉佳卡通,https://migu.188766.xyz/?migutoken=a3514c9141d1e98a0c618fbb58640c65&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
-半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-有线新闻,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
-金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197675/main.m3u8?stbid=
+咪咕直播 9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=BingCha
+玩家,https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
+
+CETV-4,https://migu.188766.xyz/?migutoken=04259a9653232bbb046edf872607f824&id=CETV4&type=yy
+Fox Weather,https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+新动漫,https://migu.188766.xyz/?migutoken=93bd3c77111df89aee50a29a9ae5f4f7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+咪咕直播 24,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+千里江山图,https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4
+台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
+CCTV3,https://migu.188766.xyz/?migutoken=c6891ddd9767e0c9f9b0f9a3aaf90c8b&id=CCTV3&type=yy
+浙江卫视,https://migu.188766.xyz/?migutoken=1e4b588eba92db60c24f8d458cf44f79&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+咪咕直播 23,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+最强综艺趴,https://migu.188766.xyz/?migutoken=f3f9ae3082ecd1cc38646309aea73746&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
+翡翠台4K,https://mgev.188766.xyz/?migutoken=25ab7412f68a1fe0be47cab55b853e8e&id=hk_fct4k&type=dy
 爱上海,https://migu.188766.xyz/?migutoken=a9e375e1e011891abf72a43535b3c38a&id=ash&type=sz
-纬来体育,https://smt.858.qzz.io/Smart.php?id=videolandsport
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-HOY77,https://migu.188766.xyz/?migutoken=9cd32ab08eaf1f9ab6155d8342a6c0b3&id=hk_hoy&type=dy
-民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
-咪咕直播 4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+CH5,https://mgev.188766.xyz/?migutoken=33b53b392a49f6399b02e3609e0438c5&id=hk_ch5&type=dy
+咪咕直播 25,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=BingCha
+钢铁侠,https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
+天映经典,https://smt.858.qzz.io/Smart.php?id=Celestial2
+河南象视界,https://migu.188766.xyz/?migutoken=8d3caabc4bd3adb692a4d2de29ed76dd&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+深圳都市,http://ha.m-too.top:8333/udp/239.77.1.176:5146
+咪咕直播 4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
+中视,http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
+年代新闻,https://smt.858.qzz.io/Smart.php?id=niandainews_twn
+湖南教育,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8?stbid=
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+北京财经,https://migu.188766.xyz/?migutoken=08eb51eb586c2f19179cc1f1f50cbd15&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+CCTV15,https://migu.188766.xyz/?migutoken=0d9a225defe44aff2149561898573a77&id=CCTV15&type=yy
+StarmaaMovies,https://smt.858.qzz.io/Smart.php?id=starmaamovies_raj
+现代教育,https://hk.188766.xyz/?migutoken=0b5892764cbd25dd073f39a52f5f7563&id=gd_xdjy&type=sz
+大湾区卫视,https://migu.188766.xyz/?migutoken=6d6f3724c8dd08f1956dbfe524d4c2d0&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+华视新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+咪咕直播 7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=BingCha
+咪咕直播 37,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+河南梨园,https://migu.188766.xyz/?migutoken=b9c78e38afa144624e735df2c420fbd3&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
+纬来综合,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
+民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
+咪咕直播 5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=BingCha
+CCTV17,https://migu.188766.xyz/?migutoken=2f35c22bcc0bf8ec4d5df35fda777766&id=CCTV17&type=yy
 TVB功夫,https://migu.188766.xyz/?migutoken=8a398d2b6b543d4e99df237897cfd4bf&id=hk_yzwx&type=dy
-湖南经视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000194900/main.m3u8?stbid=
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-咪咕直播 36,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=BingCha
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
+MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 东森戏剧,https://smt.858.qzz.io/Smart.php?id=ettvdrama
-广东卫视,https://migu.188766.xyz/?migutoken=57a4d59310e507a243a9e1faa1d7c83e&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-CH8,https://migu.188766.xyz/?migutoken=b4beafba7f583f9f6bf135f83cabfb39&id=hk_ch8&type=dy
-内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-Now新闻台,https://mgev.188766.xyz/?migutoken=7ab5fe56b915598723ca0f5c5c98556f&id=hk_now&type=dy
-东森幼幼,https://smt.858.qzz.io/Smart.php?id=yoyo_twn
-CCTV13,https://migu.188766.xyz/?migutoken=18533d4d908fc58c106315210042a966&id=CCTV13&type=yy
-东森财经,https://smt.858.qzz.io/Smart.php?id=ettvcaijing_twn
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$cdn6163189
-民视新闻,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
-民视新闻,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
-河南移动戏曲,https://migu.188766.xyz/?migutoken=46906d25d7a547014fac53e42677cdc5&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+华视,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
+咪咕直播 15,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 36,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=BingCha
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+大爱壹台,https://smt.858.qzz.io/Smart.php?id=daai_twn
+上海新纪实,https://migu.188766.xyz/?migutoken=a7021f5982b5d2c5ee77a391400be3fc&id=jsrw&type=sz
+睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
+咪咕直播 38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+广东移动,https://hk.188766.xyz/?migutoken=17e5fde88cbfc55f965316a9ac9e793c&id=gd_gdyd&type=sz
+江西卫视,https://migu.188766.xyz/?migutoken=8e783e5cf54c7552bb4c7aecbeae7d40&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+CCTV9,https://migu.188766.xyz/?migutoken=9152adb8c108dfd57350f0155411384d&id=CCTV9&type=yy
+无线新闻,https://migu.188766.xyz/?migutoken=38eea02778765b91accfcc9b762c37a5&id=inews_twn&type=dy
+咪咕直播 26,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+大湾区卫视,https://migu.188766.xyz/?migutoken=81d06edbda25811f07fc2923a024fddf&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+无线翡翠,https://smt.858.qzz.io/Smart.php?id=Tvbjade
+中天综合,https://smt.858.qzz.io/Smart.php?id=ctizhonghe
+中天娱乐,https://smt.858.qzz.io/Smart.php?id=ctient
+无线翡翠,https://smt.858.qzz.io/Smart.php?id=jade_twn
+咪咕直播 10,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=BingCha
+广东新闻,https://hk.188766.xyz/?migutoken=214dbf3989784d885df65b0230002953&id=gd_gdxw&type=sz
+CCTV9,https://migu.188766.xyz/?migutoken=e25de42a224e642a3594b1e93cf3ed1b&id=CCTV9&type=yy
+CHU,https://migu.188766.xyz/?migutoken=6e8e543491f6cced998cf2447e869807&id=hk_chu&type=dy
+变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
+HOY77,https://mgev.188766.xyz/?migutoken=4e129c0a21865912d96b7afe33204a1d&id=hk_hoy&type=dy
+CCTV7,https://migu.188766.xyz/?migutoken=5d5172943342247b1cb222a9ac5fc466&id=CCTV7&type=yy
+精美,https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
+裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
+变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
+民视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+咪咕直播 14,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+CCTV1,https://migu.188766.xyz/?migutoken=50b17da85782ad968983c2746a3ecf59&id=CCTV1&type=yy
+寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
+上海都市,https://migu.188766.xyz/?migutoken=ec3a7e4a2fe225cda4f096cfaeb1c8ab&id=shds&type=sz
+中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+Now新闻台,https://migu.188766.xyz/?migutoken=c279dda66e730c35558e092884fdb1dc&id=hk_now&type=dy
+咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+TVB Plus,https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
+纬来体育,https://smt.858.qzz.io/Smart.php?id=videolandsport
 八大第一,https://smt.858.qzz.io/Smart.php?id=badafirst
-咪咕直播 28,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-CCTV8,https://migu.188766.xyz/?migutoken=bf7c0c509e507d01741102d404b99746&id=CCTV8&type=yy
-民视第一,https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
-台视新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
-咪咕直播 37,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=BingCha
-北京影视,https://migu.188766.xyz/?migutoken=dc3391dcc395e4f013dd5f1140371702&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
-tvNMovie,https://smt.858.qzz.io/Smart.php?id=Tvnmovie
+混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
+金鹰纪实,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197675/main.m3u8?stbid=
+星河,https://mgev.188766.xyz/?migutoken=61ac899bc2b82d3812cda8e638a2dd5c&id=hk_tvbxh&type=dy
+12月09日_咪咕老封号_咪咕体育看咪视界,https://188766.xyz/yu
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
+CCTV5+,https://migu.188766.xyz/?migutoken=c079a5251fc80c1d24fc1dcc7fd22857&id=CCTV5p&type=yy
+电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
+五星体育,https://migu.188766.xyz/?migutoken=620130424908240d558f82f6040f19d4&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 东森新闻,http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
-凤凰中文,https://migu.188766.xyz/?migutoken=bf161ac290d85d4778ebc36e83daeb42&id=phoenixtv_hd&type=dy
-湖南卫视,https://migu.188766.xyz/?migutoken=3ea0edb779e16d47b7c19af71f68b8d6&id=hnws&type=sz
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+民视第一,https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
+变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
+三立闽南,https://smt.858.qzz.io/Smart.php?id=sanlitaiwan
+广东体育,https://hk.188766.xyz/?migutoken=4f76ab8f5d9b667495d490be2d71c40b&id=gd_gdty&type=sz
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+武术世界,https://migu.188766.xyz/?migutoken=91cb303749b86ffb841b9767648bc003&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+咪咕直播 20,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=BingCha
+咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+华视,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
+3D5,https://vd2.bdstatic.com/mda-kkfx81ffgjvk2qja/v1-cae/sc/mda-kkfx81ffgjvk2qja.mp4
+东森新闻,https://smt.858.qzz.io/Smart.php?id=ettvnews
+湖南国际,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197677/main.m3u8?stbid=
+咪咕直播 8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=BingCha
+中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
+咪咕直播 20,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+八大综合,https://smt.858.qzz.io/Smart.php?id=badazhonghe
+咪咕直播 4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=BingCha
+CCTV5,https://migu.188766.xyz/?migutoken=27cb71aa8c5613fa445122fc0f66fa66&id=CCTV5&type=yy
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+民视新闻,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+经典动画大集合,https://migu.188766.xyz/?migutoken=b834ee1d152d0994627515de1d76fd18&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
+翡翠台,https://mgev.188766.xyz/?migutoken=e027bbfbfe02bc36b72bd848539f8922&id=hk_fct&type=dy
+广东体育,https://migu.188766.xyz/?migutoken=876ba7ce56e93fab5f437cc5090ca91c&id=hk_gdty&type=dy
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx $6163189
+北京纪实科教,https://migu.188766.xyz/?migutoken=470a791f1209f7dfd7d97189adae264a&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+广东体育,https://mgev.188766.xyz/?migutoken=adc89b1e857930955cba95be68079f7d&id=gd_gdty&type=sz
+3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
+非凡新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
+中视闽南,https://smt.858.qzz.io/Smart.php?id=zhongshihd_twn
+不同国家,https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
 3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
+3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
+咪咕直播 34,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=BingCha
+CCTV5+,https://migu.188766.xyz/?migutoken=d2cd1916deb6f266df065efa10cb9dc4&id=CCTV5p&type=yy
+深圳都市,http://sub.mtoo.vip:8333/udp/239.77.1.176:5146
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+咪咕直播 35,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=BingCha
+河南法治,https://migu.188766.xyz/?migutoken=053a0c7008b40732cd7bdaa558231f1e&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+亚洲旅游,https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
+咪咕直播 13,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+翡翠台,https://migu.188766.xyz/?migutoken=af18bef2634b43fa854485eefdd5a91d&id=jade_twn&type=dy
+广东卫视,https://migu.188766.xyz/?migutoken=6f089ea86b898d859145b20935c97f9a&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+免费分享_用爱发电_拒绝贩卖_只有TG群,https://188766.xyz/qiu
+东方卫视,https://migu.188766.xyz/?migutoken=b4f30afa875eb7c3050026c2f5668021&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+凤凰中文,https://migu.188766.xyz/?migutoken=bf161ac290d85d4778ebc36e83daeb42&id=phoenixtv_hd&type=dy
+咪咕直播 17,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+广东影视,https://hk.188766.xyz/?migutoken=8037257158fa2cd7a2ffc86df4067a14&id=gd_gdys&type=sz
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+凤凰香港,https://migu.188766.xyz/?migutoken=d88da94088e229852fad7e3b27e37c04&id=hk_fhhk&type=dy
+咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
+咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=BingCha
+CCTV1,https://migu.188766.xyz/?migutoken=058116fbb26e8951fe2155c9a751d905&id=CCTV1&type=yy
+河南都市,https://migu.188766.xyz/?migutoken=87d6ffc4f62c975c102b4be18a8ea675&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+澳视澳门,https://migu.188766.xyz/?migutoken=ce19ac7ba26536bfb8a71fa37e934d32&id=hk_asam&type=dy
+深圳少儿,http://ha.m-too.top:8333/udp/239.77.1.244:5146
+台视新闻,http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
+岭南戏曲,https://hk.188766.xyz/?migutoken=922b74ca78e2b699b1cce60ff6dff7ee&id=gd_lnxq&type=sz
+咪咕直播 29,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=BingCha
+八度空间,https://mgev.188766.xyz/?migutoken=995732114e25b4efe8cbc0b8de67d8b7&id=hk_8tv&type=dy
+深圳财经生活,http://sub.mtoo.vip:8333/udp/239.77.1.242:5146
+咪咕直播 22,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=BingCha
+新动力量创一流,https://migu.188766.xyz/?migutoken=05262d27e94b0449c1e261e5dc3eb478&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+海南公共,https://migu.188766.xyz/?migutoken=f0847bed79e9884dd8a68703fa66a0a8&id=hn_ggpd&type=sz
+咪咕直播 26,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=BingCha
+明珠台,https://mgev.188766.xyz/?migutoken=26c12108aa24cb805ba07dd2114be961&id=hk_mzt&type=dy
+内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+咪咕直播 23,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=BingCha
+咪咕直播 18,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+澳视澳门,https://mgev.188766.xyz/?migutoken=a7333c42a8566a97fd6a6d65b2ea0178&id=hk_asam&type=dy
+兵团卫视,https://migu.188766.xyz/?migutoken=a30c3a7d0e33e403ebf88caf1f7be5e9&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+翡翠台,https://migu.188766.xyz/?migutoken=04145df78ef83eef5b830ef166351e04&id=hk_fct&type=dy
+中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+小丑,https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
+凤凰中文,https://migu.188766.xyz/?migutoken=866341f35ab82e48dea654d12b6e5881&id=hk_fhzw&type=dy
+TVBS新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
+咪咕直播 15,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=BingCha
+咪咕直播 27,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+咪咕直播 29,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 12,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+明珠台,https://migu.188766.xyz/?migutoken=bc0f802ab684ad9377fe77a79c51de79&id=hk_mzt&type=dy
+海南少儿,https://migu.188766.xyz/?migutoken=519f6c1061e52ecf0cddc7d92ab0273d&id=hn_sepd&type=sz
+24小时全运会轮播台,https://migu.188766.xyz/?migutoken=390092c18ab2663c01bd3673f0e7b57e&id=24%E5%B0%8F%E6%97%B6%E5%85%A8%E8%BF%90%E4%BC%9A%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+深圳宝安,http://rfx2018.55555.io:2345/udp/239.77.1.67:5146
+非凡新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+河南文物宝库,https://migu.188766.xyz/?migutoken=9beb48b75666402d709b4083ff451068&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+上海新闻综合,https://migu.188766.xyz/?migutoken=e7e694e1067934e8f5a43862f1fd7aff&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+广东体育,http://sub.mtoo.vip:8333/udp/239.77.0.168:5146
+嘉佳卡通,https://migu.188766.xyz/?migutoken=a3514c9141d1e98a0c618fbb58640c65&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
+美亚电影,https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
+无线娱乐,https://smt.858.qzz.io/Smart.php?id=Tvbentertainment
+CH5,https://migu.188766.xyz/?migutoken=743ae3a1579b552141abb1ec825c5f86&id=hk_ch5&type=dy
+河南公共,https://migu.188766.xyz/?migutoken=d74a5fdc21de1ef01c5076ac4fd8cea3&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+EYE-旅游,https://smt.858.qzz.io/Smart.php?id=eyetvtravel_twn
+CCTV10,https://migu.188766.xyz/?migutoken=a6ea9919efff70e8b58dbf6352764b65&id=CCTV10&type=yy
+咪咕直播 19,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=BingCha
+HOY77,https://migu.188766.xyz/?migutoken=9cd32ab08eaf1f9ab6155d8342a6c0b3&id=hk_hoy&type=dy
+体坛名栏汇,https://migu.188766.xyz/?migutoken=2768b1a1879cd3b648303b5b3ef4e19c&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+东方卫视,https://migu.188766.xyz/?migutoken=ee72e71131bb44ca0cb5afb0de13fed4&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+海南文旅,https://migu.188766.xyz/?migutoken=5e91cb216f18f333b20e06b522a3b2e8&id=hn_wlpd&type=sz
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
+五星体育,https://other.ottiptv.cc/wxty.m3u8
+卡酷少儿,https://migu.188766.xyz/?migutoken=f9fe439c655b7bd8b6fc5d6fe3ee6748&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+寰宇新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
+TVB星河,https://migu.188766.xyz/?migutoken=fa5509d3453723e42e49f4187e199f7c&id=hk_tvbxh&type=dy
+HitsMovie,https://smt.858.qzz.io/Smart.php?id=Hitsmovie
+河南民生,https://migu.188766.xyz/?migutoken=daefa9d5d143be09ecd144cb569b0f84&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+湖南娱乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197674/main.m3u8?stbid=
+咪咕直播4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
+咪咕直播 3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+CCTV12,https://migu.188766.xyz/?migutoken=ed40b34faedf6d9fa8120a05c837f693&id=CCTV12&type=yy
+三沙卫视,https://migu.188766.xyz/?migutoken=94d4cba38ba093b91ba52809e0b8eb46&id=hn_ssws&type=sz
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk $6163189
+CCTV8,https://migu.188766.xyz/?migutoken=bf7c0c509e507d01741102d404b99746&id=CCTV8&type=yy
+大爱贰台,https://smt.858.qzz.io/Smart.php?id=daai2_twn
+体坛名栏汇,https://migu.188766.xyz/?migutoken=d61bc9415bae5920e5eadbc2b582e4ce&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+江苏卫视,https://migu.188766.xyz/?migutoken=32b6e40243e3018caba1eece9824470d&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+咪咕直播 3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=BingCha
+辽宁卫视,https://migu.188766.xyz/?migutoken=ab330788c285a4cf92446a7e0a05fcc2&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+发现之旅,https://migu.188766.xyz/?migutoken=033fbfe69cbc0a5b6a7847060925d184&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
+东森新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+咪咕直播 21,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+新片放映厅,https://migu.188766.xyz/?migutoken=d7e8724f92c9d877db17f027bd7ab1f1&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+木叶上忍的究极对决,https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
+中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+四海钓鱼,https://migu.188766.xyz/?migutoken=79dede8f85cb227af59d0501e2a08bf4&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+广东少儿,https://hk.188766.xyz/?migutoken=4f157dcc315f0d0e2aa44148734b97bb&id=gd_gdse&type=sz
+24小时城市联赛轮播台,https://migu.188766.xyz/?migutoken=66bbfae74c62c2f889831e58abef93e6&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+上海魔都眼,https://migu.188766.xyz/?migutoken=f872e7167dcf028b510c2d874cbf54b1&id=mdy&type=sz
+大橘,https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
+台视新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+湖南爱晚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197676/main.m3u8?stbid=
+东森幼幼,https://smt.858.qzz.io/Smart.php?id=yoyo_twn
+民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
+咪咕直播 2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=BingCha
+订阅地址的密码不正确_已隐藏,https://188766.xyz/dong
+陕西卫视,https://migu.188766.xyz/?migutoken=348346c58b70eb6b07e01732b72d7213&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+ Plus,https://mgev.188766.xyz/?migutoken=eeb234e3f649f1d335e1e2c14e3f9438&id=hk_tvbp&type=dy
+咪咕直播 35,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+CCTV11,https://migu.188766.xyz/?migutoken=928b715caf282de3d57af8064343951d&id=CCTV11&type=yy
+海南新闻,https://migu.188766.xyz/?migutoken=eba2690cfed80593f94e1b4bfc93872c&id=hn_xwpd&type=sz
+咪咕直播 9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+哈哈炫动,https://migu.188766.xyz/?migutoken=01363b623653eb7eac6289120ea9fb77&id=hhxd&type=sz
+上视东方影视,https://migu.188766.xyz/?migutoken=4d2b40468ed2c79d964dd96c94b6f79e&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+StarMovies,https://smt.858.qzz.io/Smart.php?id=starmovies_raj
+咪咕直播 30,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+民视台湾,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
+海南卫视,https://migu.188766.xyz/?migutoken=9e2e9770c38fd57761d105d3603a9ed1&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
+寰宇财经,https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+北京文艺,https://migu.188766.xyz/?migutoken=21205b0d48327474f375914bcb4258b1&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+咪咕直播 27,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=BingCha
+凤凰香港,https://migu.188766.xyz/?migutoken=407dc0f7365332e4297cc4be4e80ab8b&id=fhhk&pp=1
+翡翠台,https://migu.188766.xyz/?migutoken=6ff40ca6e9a458a448fdb09a33919405&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+天映国特,https://smt.858.qzz.io/Smart.php?id=Celestial
+睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
+东森综合,https://smt.858.qzz.io/Smart.php?id=ettvzhonghe
+tvNMovie,https://smt.858.qzz.io/Smart.php?id=Tvnmovie
+中视新闻,https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
+咪咕直播 19,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+民视闽南,https://smt.858.qzz.io/Smart.php?id=ftvhd_taiwan
+CCTV2,https://migu.188766.xyz/?migutoken=579981f6c852e250e5d5ff746e20c1da&id=CCTV2&type=yy
+CCTV13,https://migu.188766.xyz/?migutoken=18533d4d908fc58c106315210042a966&id=CCTV13&type=yy
+3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
+CCTV6,https://migu.188766.xyz/?migutoken=095457749dc05a731a395617ab04949c&id=CCTV6&type=yy
+江苏卫视,https://migu.188766.xyz/?migutoken=23acff0ff0ecaef3d340a1a4e7d9ef67&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+广东生活频道,https://hk.188766.xyz/?migutoken=6cfb7bb1f11cf8d04e2d579dcd5374d4&id=gd_gdsh&type=sz
+凤凰香港,https://mgev.188766.xyz/?migutoken=0c151f885334200f0142117a9e167f8c&id=fhhk&pp=1
+深圳少儿,http://rfx2018.55555.io:2345/udp/239.77.1.244:5146
+凤凰中文,https://mgev.188766.xyz/?migutoken=3267cd6151f58a4919b93c0e63f69337&id=fhzw&pp=1
+咪咕直播 30,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=BingCha
+纬来日本,https://smt.858.qzz.io/Smart.php?id=videolandjapan
+有线新闻,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+CH8,https://migu.188766.xyz/?migutoken=b4beafba7f583f9f6bf135f83cabfb39&id=hk_ch8&type=dy
+CHU,https://mgev.188766.xyz/?migutoken=989bc5c30af54e60acfffc9de3c15fac&id=hk_chu&type=dy
+湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000196987/main.m3u8?stbid=
+台视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
+陕西卫视,https://migu.188766.xyz/?migutoken=7db4ee466ac1acc7ca548fef57495403&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+CCTV13,https://migu.188766.xyz/?migutoken=f2da258e6735fdb1f0c223b11149efa1&id=CCTV13&type=yy
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+和美乡途轮播台,https://migu.188766.xyz/?migutoken=e7ab88abf78506259691c3ec301bb44b&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+咪咕直播 14,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=BingCha
+司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
+凤凰资讯,https://migu.188766.xyz/?migutoken=9b308c31f6f659e7ee7bc6bb4b3cfff9&id=fhzx&pp=1
+财富天下,https://migu.188766.xyz/?migutoken=95d84c04f534af5c6012cbdc4769a2d7&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=85fccb710060e734ed36c45940532bff&id=fhzx&pp=1
+咪咕直播 36,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+三立综合,https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
+Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
+华视新闻,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
+阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
+中天亚洲,https://smt.858.qzz.io/Smart.php?id=ctiasia_twn
+CCTV14,https://migu.188766.xyz/?migutoken=fad1feedb99d17fc8ec110df724186d3&id=CCTV14&type=yy
+CCTV2,https://migu.188766.xyz/?migutoken=7841b8adc4bcfdcca35794067f014d25&id=CCTV2&type=yy
+嘉佳卡通,https://hk.188766.xyz/?migutoken=98a268ca7ed253252e661dd80c3d01cf&id=gd_jjkt&type=sz
+FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+河南新闻,https://migu.188766.xyz/?migutoken=5327b4a22e09b0afac935d7f2f2fe5f7&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+东森财经,https://smt.858.qzz.io/Smart.php?id=ettvcaijing_twn
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+深圳都市,http://rfx2018.55555.io:2345/udp/239.77.1.176:5146
+咪咕直播 12,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=BingCha
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
+深圳财经生活,http://ha.m-too.top:8333/udp/239.77.1.242:5146
+裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
+咪咕直播 34,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+头号玩家,https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
+湖南卫视,https://migu.188766.xyz/?migutoken=3ea0edb779e16d47b7c19af71f68b8d6&id=hnws&type=sz
+CETV-1,https://migu.188766.xyz/?migutoken=51c979a980ff4e989ead2ac0c4a863d5&id=CETV1&type=yy
+咪咕直播 11,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+民视新闻,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+凤凰香港,https://migu.188766.xyz/?migutoken=8ea86101844c05d6675be46a790325aa&id=hkphoenix_twn&type=dy
+中视经典,https://smt.858.qzz.io/Smart.php?id=zhongshi_twn
+咪咕直播 18,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=BingCha
+湖南电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197673/main.m3u8?stbid=
+TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
+翡翠台4K,https://migu.188766.xyz/?migutoken=f5d3ddc45a607cb46f85565d6002e6fe&id=hk_fct4k&type=dy
+广东体育,http://rfx2018.55555.io:2345/udp/239.77.0.168:5146
+湖南都市,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000195952/main.m3u8?stbid=
+咪咕直播 8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$cdn6163189
+咪咕直播 31,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+吉林卫视,https://migu.188766.xyz/?migutoken=51534e92696fee1c1f11a88f42af3e2d&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+华视闽南,https://smt.858.qzz.io/Smart.php?id=ctshd_twn
+深圳财经生活,http://rfx2018.55555.io:2345/udp/239.77.1.242:5146
+湖北卫视,https://migu.188766.xyz/?migutoken=288b192300b89db840e4c9928a5de8b4&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+凤凰资讯,https://migu.188766.xyz/?migutoken=902dd46104f7da4e91108d392b281213&id=hk_fhzx&type=dy
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+中学生,https://migu.188766.xyz/?migutoken=e9ba17a855d3e569fd733d583d1dcb43&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
+河南卫视,https://migu.188766.xyz/?migutoken=5c56f9fe9f7d7cefdf261569960c940b&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+中天新闻,http://jnzq.ohoyee.com:9080/live/fc.m3u8
+茶频道,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8?stbid=
+无线新闻,https://migu.188766.xyz/?migutoken=6d40ea4a8dd9f18c5bfbddaf30a8e3b9&id=hk_wxxw&type=dy
+Now新闻台,https://mgev.188766.xyz/?migutoken=7ab5fe56b915598723ca0f5c5c98556f&id=hk_now&type=dy
+咪咕直播 16,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=BingCha
+赛事最经典,https://migu.188766.xyz/?migutoken=c0d319c18ed7b6529609353cccc51c18&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
+非凡新闻,https://smt.858.qzz.io/Smart.php?id=feifannews_twn
+河南移动戏曲,https://migu.188766.xyz/?migutoken=46906d25d7a547014fac53e42677cdc5&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+咪咕直播 17,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=BingCha
+咪咕直播 2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+河南电视剧,https://migu.188766.xyz/?migutoken=7088fd85b301cd242018a82423d6847f&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+经典香港电影,https://migu.188766.xyz/?migutoken=c4fe67043eca43b86dd1c9eef43fed76&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
+咪咕直播 4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+民视新闻,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
+CHC影迷电影,https://migu.188766.xyz/?migutoken=17dbea27400b3a52b0cb191a4c0e360c&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
+河南武术,https://migu.188766.xyz/?migutoken=c6e03c4afddce3e3f445bb5611ac3565&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+无线新闻,http://stream-ali1.csslcloud.net:80/live/hktv-09ali23.flv
+中天新闻,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
+中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+茶,https://migu.188766.xyz/?migutoken=cf37e7558be800add0c6a6a0aed746f1&id=%E8%8C%B6&type=yy
+江西卫视,https://migu.188766.xyz/?migutoken=8e7e43f88dc06a1f0d9667b237b7c60e&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+AXN电影,https://smt.858.qzz.io/Smart.php?id=axn_twn
+Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+浙江卫视,https://migu.188766.xyz/?migutoken=59e99918a255463297aa2b79d8c52ff6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+武术世界,https://migu.188766.xyz/?migutoken=2590a054b1130b84a770f6d2603454a7&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+咪咕直播 37,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=BingCha
+AstroMTV,https://smt.858.qzz.io/Smart.php?id=AstroMTV
+咪咕直播 25,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+中视,http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
+咪咕直播 28,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=BingCha
+咪咕直播 31,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=BingCha
+广东民生,https://hk.188766.xyz/?migutoken=3b398c7bf11291e824490d68c4fd0990&id=gd_gdms&type=sz
+深圳少儿,http://sub.mtoo.vip:8333/udp/239.77.1.244:5146
+北京新闻,https://migu.188766.xyz/?migutoken=15f60cb05f3423b19a424d3d3b83fc12&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$cdn6163189
+金鹰卡通,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197678/main.m3u8?stbid=
+东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+湖北卫视,https://migu.188766.xyz/?migutoken=8406a166fcb56b8ddf84e2efc0a5db82&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+台视,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
+天映粤特,https://smt.858.qzz.io/Smart.php?id=ctv18_twn
+湖南经视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000194900/main.m3u8?stbid=
+凤凰资讯,https://migu.188766.xyz/?migutoken=5a850debc67f6090a63d625e8a4b9764&id=phoenixinfo_hd&type=dy
+广东珠江,https://hk.188766.xyz/?migutoken=b00b6ff84a772861fd2eef05ec12982d&id=gd_gdzj&type=sz
+寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+北京生活,https://migu.188766.xyz/?migutoken=219dc0139ef627fe3cd5118b40d036b1&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+民视台湾,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+海南自贸,https://migu.188766.xyz/?migutoken=beec1959be0a880b810bacb4e163cf97&id=hn_jjpd&type=sz
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw $6163189
+华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
+海南卫视,https://migu.188766.xyz/?migutoken=14faabef39292696f0a771e42955d81a&id=hn_hnws&type=sz
+EYE-戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
+CCTV5,https://migu.188766.xyz/?migutoken=8c596235c383b8d21a8db06fa3a6341f&id=CCTV5&type=yy
+中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+农林卫视,https://migu.188766.xyz/?migutoken=b30d111cb1949ba27d8adc029e22b764&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=BingCha
+寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+内蒙古卫视,https://migu.188766.xyz/?migutoken=b5858e0646147a6473f2d100c4c3eb88&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
+24小时城市联赛轮播台,https://migu.188766.xyz/?migutoken=d806a01bd19a648a46e2b21acf53b09e&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+抗战经典影片,https://migu.188766.xyz/?migutoken=1c0df48d1d46249f86d41fc08a2910c4&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+广东卫视,https://migu.188766.xyz/?migutoken=57a4d59310e507a243a9e1faa1d7c83e&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+CETV-2,https://migu.188766.xyz/?migutoken=6db919448ebf1a239e0410afa2303634&id=CETV2&type=yy
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+八大娱乐,https://smt.858.qzz.io/Smart.php?id=badaentertain
+睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
+寰宇新闻,http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
+CCTV4,https://migu.188766.xyz/?migutoken=e6a7be05ac76970c85926ce47a4d9c16&id=CCTV4&type=yy
+中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$cdn6163189
+东森新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
+广东体育,http://ha.m-too.top:8333/udp/239.77.0.168:5146
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CCTV4,https://migu.188766.xyz/?migutoken=c228696a8c2f743d3ef216f344a98977&id=CCTV4&type=yy
+八大戏剧,https://smt.858.qzz.io/Smart.php?id=badadrama
+功夫,https://mgev.188766.xyz/?migutoken=1b4f95fca82e00cea81377e4f4c0427e&id=hk_yzwx&type=dy
+民视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+明珠台,https://migu.188766.xyz/?migutoken=2cd4c549faf4bb0b9d50f4547a25aa13&id=pearl_twn&type=dy
+深圳龙岗,http://rfx2018.55555.io:2345/udp/239.77.1.223:5146
+东森新闻,http://xtvantsc.xyz/Smart.php?id=ettvnews
+台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+咪咕直播 24,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=BingCha
+四海钓鱼,https://migu.188766.xyz/?migutoken=64aecbd48db04e8f2a4f8deb72b131fc&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=BingCha
+上海第一财经,https://migu.188766.xyz/?migutoken=84295a311c1712b1997c5871981f993a&id=dycj&type=sz
+奸商太多_冰茶体育已隐藏_进群获取密码,https://188766.xyz/dong
+山东教育,https://migu.188766.xyz/?migutoken=abf4061673d1f7fbea9a7aa528239522&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
+寰宇新闻,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
+咪咕直播 38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=BingCha
+长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
+咪咕直播 11,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=BingCha
+CCTV14,https://migu.188766.xyz/?migutoken=feb129122007256f7d5c543638f3c2bb&id=CCTV14&type=yy
+湖南卫视,https://migu.188766.xyz/?migutoken=ae73ef66bd109f114cf569d2220a3797&id=hnws&type=sz
+民视新闻,https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
+非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
+探索亚洲,https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
+公视台语,https://smt.858.qzz.io/Smart.php?id=ctv2_twn
+咪咕直播 13,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=BingCha
+北京影视,https://migu.188766.xyz/?migutoken=dc3391dcc395e4f013dd5f1140371702&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+咪咕直播 10,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+五星体育,https://migu.188766.xyz/?migutoken=f044e1c97db7c6da6135c112a2f5b2e3&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+咪咕直播 21,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=BingCha
+咪咕直播 16,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 22,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+东森电影,https://smt.858.qzz.io/Smart.php?id=ettvmovie
+龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
+老故事,https://migu.188766.xyz/?migutoken=06c558d13829a248c47d83b98331d148&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
+咪咕直播 28,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+CCTV10,https://migu.188766.xyz/?migutoken=8b89795de1cc74318bf5c6293a4d6fa0&id=CCTV10&type=yy
+南方影视,https://migu.188766.xyz/?migutoken=c2a47996eeff4e71e141e5d938eae2e5&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+天映闽特,https://smt.858.qzz.io/Smart.php?id=Celestialindo
+咪咕直播 5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
+CCTV8,https://migu.188766.xyz/?migutoken=8a0286a4ddfe3a0094414176b502c024&id=CCTV8&type=yy
+咪咕直播 6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=BingCha
+环球旅游,https://migu.188766.xyz/?migutoken=6383906bf92e4c16f37061e4d18d3c13&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+八度空间,https://migu.188766.xyz/?migutoken=dabecf5b3f67ce286f4c60ac66b74f89&id=hk_8tv&type=dy
+三立戏剧,https://smt.858.qzz.io/Smart.php?id=sanlixiju_twn
+CH8,https://mgev.188766.xyz/?migutoken=fa65a57db4651a2f32b0e08edc41b273&id=hk_ch8&type=dy
+内蒙古卫视,https://migu.188766.xyz/?migutoken=df2081409752001dae3bff9d4c3ecd73&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+凤凰中文,https://migu.188766.xyz/?migutoken=dafea9a89f8759bcd04edfafc63b435d&id=fhzw&pp=1
+中天亚洲,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+中视新闻,http://220.135.64.124:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
+青海卫视,https://migu.188766.xyz/?migutoken=055934c46e0598815d09fce07b763bd0&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+咪咕直播 6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+河南卫视,https://migu.188766.xyz/?migutoken=28652f0b3fb8db15e81f1b23084b9edf&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
