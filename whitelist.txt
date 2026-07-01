@@ -1,5 +1,11 @@
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw $6163189
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$cdn6163189
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$cdn6163189
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx $6163189
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk $6163189
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$cdn6163189
 无线新闻,http://stream-ali1.csslcloud.net:80/live/hktv-09ali23.flv
 中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
